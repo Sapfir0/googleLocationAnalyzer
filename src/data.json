@@ -1,0 +1,49 @@
+{
+    "locations": [{
+    "timestampMs" : "1582780688786",
+    "activity" : [ {
+      "type" : "IN_VEHICLE",
+      "confidence" : 87
+    }, {
+      "type" : "IN_RAIL_VEHICLE",
+      "confidence" : 87
+    }, {
+      "type" : "STILL",
+      "confidence" : 8
+    }, {
+      "type" : "IN_ROAD_VEHICLE",
+      "confidence" : 3
+    }, {
+      "type" : "IN_FOUR_WHEELER_VEHICLE",
+      "confidence" : 3
+    }, {
+      "type" : "IN_CAR",
+      "confidence" : 3
+    }, {
+      "type" : "ON_FOOT",
+      "confidence" : 2
+    }, {
+      "type" : "WALKING",
+      "confidence" : 2
+    }],
+  "source" : "CELL",
+  "deviceTag" : -1248889246
+}, {
+  "timestampMs" : "1582780740154",
+  "latitudeE7" : 471514119,
+  "longitudeE7" : 424694479,
+  "accuracy" : 2799,
+  "activity" : [ {
+    "timestampMs" : "1582780766334",
+    "activity" : [ {
+      "type" : "STILL",
+      "confidence" : 99
+    }, {
+      "type" : "UNKNOWN",
+      "confidence" : 1
+    } ]
+  } ],
+  "source" : "CELL",
+  "deviceTag" : -1248889246
+}]
+    }
