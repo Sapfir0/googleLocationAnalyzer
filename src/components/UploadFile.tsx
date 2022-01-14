@@ -1,69 +1,38 @@
 import React, { useState } from 'react';
-import { SimpleMap } from './Map';
+import { parseLocationHistory } from '../services/convertLocations';
+import { Location, LocationView } from '../typings/common';
+import { LocationsMap } from './Map';
 
-type L1 = {
-    timestampMs: string;
-    activity: [
-        {
-            type: string;
-            confidence: number;
-        },
-    ];
-    source: string;
-    deviceTag: number;
-};
-
-export type Location = {
-    timestampMs: string;
-    latitudeE7: number;
-    longitudeE7: number;
-    accuracy: number;
-    activity?: L1[];
-};
-
-
-const getCoordinate = (coordinate: string) => {
-    const s = coordinate.slice(0, 2);
-    const rest = coordinate.slice(2);
-    return Number.parseFloat(`${s}.${rest}`);
-};
-
-const parseLocationHistory = (locations: Location[]) => {
-    return locations.map((loc) => {
-        return {
-            // activity: loc?.activity.length > 0 && loc?.activity[0].activity[0].type,
-            // accuracy: loc.accuracy,
-            lat: getCoordinate(loc.latitudeE7.toString()),
-            lng: getCoordinate(loc.longitudeE7.toString()),
-        };
-    });
-};
 
 export function FileUploadPage() {
-    const [selectedFile, setSelectedFile] = useState();
-    const [isFilePicked, setIsFilePicked] = useState(false);
+    const [locations, setSelectedFile] = useState<LocationView[]>([]);
 
-    const changeHandler = (event) => {
-        setIsFilePicked(true);
+    const changeHandler = (event: React.ChangeEvent<HTMLInputElement>) => {
+        if (!event.target.files) {
+            return
+        }
 
         var reader = new FileReader();
         reader.onload = function (e) {
-            console.log(reader.result);
-
-            const file = JSON.parse(reader.result);
-            console.log(file);
-            setSelectedFile(file);
+            const {result} = reader
+            if (result) {
+                const file = JSON.parse(result as string) as { locations: Location[] };
+                console.log(file.locations.slice(0, 9));
+    
+                const newLocations = parseLocationHistory(file.locations).slice(10000, 20000);
+                setSelectedFile(newLocations);
+            }
         };
         reader.readAsText(event.target.files[0]);
     };
-    console.log(selectedFile);
+    console.log(locations);
 
     return (
         <div>
             <input type="file" name="file" onChange={changeHandler} />
-            {isFilePicked && selectedFile ? (
+            {locations.length ? (
                 <div>
-                    <SimpleMap coordinates={parseLocationHistory(selectedFile.locations)} />
+                    <LocationsMap coordinates={locations} />
                 </div>
             ) : (
                 <p>Select a file to show details</p>

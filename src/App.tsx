@@ -1,4 +1,3 @@
-import GoogleMapReact from 'google-map-react';
 import React from 'react';
 import { FileUploadPage } from './components/UploadFile';
 

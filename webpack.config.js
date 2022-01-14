@@ -26,9 +26,10 @@ module.exports = (env) => {
         prev[`process.env.${next}`] = JSON.stringify(fileEnv[next]);
         return prev;
     }, {});
+    console.log('isProduction', isProduction);
     const devtool = isProduction ? false : 'eval-cheap-module-source-map'; // false или строка по шаблону
     console.log(envKeys);
-    const productionPlugins = [];
+    const productionPlugins = [new MiniCssExtractPlugin()];
 
     return {
         entry: './src/index.tsx',

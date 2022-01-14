@@ -1,34 +1,25 @@
-import GoogleMapReact from 'google-map-react';
+import 'leaflet/dist/leaflet.css';
 import React from 'react';
+import { Circle, MapContainer, TileLayer } from 'react-leaflet';
+import { LocationView } from 'typings/common';
+import './Map.css';
 
-
-const Circle = () => (
-    <div
-        style={{
-            background: 'grey',
-            padding: '10px',
-            display: 'inline-flex',
-            borderRadius: '100%',
-        }}
-    ></div>
-);
-
-export interface IGMapProps {
-    coordinates: L[]
+export interface ILocationMapProps {
+    coordinates: LocationView[];
 }
 
-export class GMap extends React.Component<IGMapProps, any> {
-    render() {
-        console.log(this.props.coordinates);
+export function LocationsMap(props: ILocationMapProps) {
+    console.log(props.coordinates);
 
-        return (
-            <div style={{ height: '100vh', width: '100%' }}>
-                <GoogleMapReact defaultCenter={this.props.coordinates[0]} defaultZoom={11}>
-                    {this.props.coordinates.map((area) => (
-                        <Circle {...area} />
-                    ))}
-                </GoogleMapReact>
-            </div>
-        );
-    }
+    return (
+        <MapContainer preferCanvas={true} center={[48, 44]} zoom={7} scrollWheelZoom={false}>
+            <TileLayer
+                attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+            />
+            {props.coordinates.map((area, i) => (
+                <Circle key={`${area.lat}-${area.lng}-${i}`} center={area} radius={3} />
+            ))}
+        </MapContainer>
+    );
 }
