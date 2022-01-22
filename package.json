@@ -8,8 +8,11 @@
     "start": "webpack serve --mode development --env NODE_ENV=dev"
   },
   "dependencies": {
+    "@types/chroma-js": "^2.1.3",
     "api_interaction_services": "^0.2.12",
     "axios": "^0.21.1",
+    "big-json": "^3.1.0",
+    "chroma-js": "^2.1.2",
     "fp-ts": "^2.10.5",
     "inversify": "^5.1.1",
     "leaflet": "^1.7.1",

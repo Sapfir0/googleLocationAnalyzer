@@ -14,11 +14,15 @@ export function LocationsMap(props: ILocationMapProps) {
     return (
         <MapContainer preferCanvas={true} center={[48, 44]} zoom={7} scrollWheelZoom={false}>
             <TileLayer
-                attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
             />
             {props.coordinates.map((area, i) => (
-                <Circle key={`${area.lat}-${area.lng}-${i}`} center={area} radius={3} />
+                <Circle
+                    key={`${area.lat}-${area.lng}-${i}`}
+                    center={area}
+                    pathOptions={{ color: area.color }}
+                    radius={3}
+                />
             ))}
         </MapContainer>
     );

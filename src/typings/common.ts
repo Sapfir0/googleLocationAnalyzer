@@ -1,5 +1,3 @@
-import { number } from "fp-ts";
-
 type L1 = {
     timestampMs: string;
     activity: [
@@ -25,5 +23,6 @@ export type Location = {
 export type LocationView = {
     lat: number;
     lng: number;
+    color: string;
     timestamp: Date
 };
