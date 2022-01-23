@@ -1,0 +1,113 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487139836,
+        "longitudeE7": 445283394,
+        "placeId": "ChIJKzC_yi3LGkERFQozF9QAMXU",
+        "address": "пр-кт Ленина, 28, Волгоград, Россия, 400131",
+        "name": "Volgogradskiy Gosudarstvennyy Tekhnicheskiy Universitet (Volggtu)",
+        "semanticType": "TYPE_WORK",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 89.37419,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-03T06:37:24.868Z",
+        "endTimestamp": "2017-11-03T07:00:06.775Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 487137175,
+      "centerLngE7": 445276883,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487147045,
+        "longitudeE7": 445265127,
+        "placeId": "ChIJiaLAUVPLGkERGeURjB0gHis",
+        "address": "пр. имени В.И. Ленина, 27\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
+        "name": "Volgogradskiy Gosudarstvennyy Sotsial\u0027no-Pedagogicheskiy Universitet",
+        "locationConfidence": 1.5357487
+      }, {
+        "latitudeE7": 487092140,
+        "longitudeE7": 445202089,
+        "placeId": "ChIJCQWUlDPLGkER7TVsmbfYglg",
+        "name": "Komsomol\u0027skaya",
+        "locationConfidence": 1.0485502
+      }, {
+        "latitudeE7": 487160430,
+        "longitudeE7": 445314906,
+        "placeId": "ChIJj-Ot5SvLGkERQvUrTDyLwm8",
+        "address": "ул. Советская, 39\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
+        "name": "Dom Pavlova",
+        "locationConfidence": 0.43573642
+      }, {
+        "latitudeE7": 487140219,
+        "longitudeE7": 445283272,
+        "placeId": "ChIJc9WhISzLGkERsjltEHWfP4o",
+        "address": "пр. имени В.И. Ленина, 104\nВолжский\nВолгоградская обл.\nРоссия\n400005",
+        "name": "пр. имени В.И. Ленина, 104",
+        "locationConfidence": 0.20960854
+      }, {
+        "latitudeE7": 487153252,
+        "longitudeE7": 445288367,
+        "placeId": "ChIJbdzFHSzLGkERA95NUgFvJEU",
+        "address": "пр. имени В.И. Ленина, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400131",
+        "name": "Детская клиническая поликлиника № 15",
+        "locationConfidence": 0.16453841
+      }, {
+        "latitudeE7": 487153223,
+        "longitudeE7": 445269854,
+        "placeId": "ChIJPy-8mS7LGkERn9-ZfBH1kQQ",
+        "name": "Botanicheskiy Sad Vgspu",
+        "locationConfidence": 0.14042264
+      }, {
+        "latitudeE7": 487141098,
+        "longitudeE7": 445275222,
+        "placeId": "ChIJnwM-LCzLGkERQ4xE_i9iy9I",
+        "address": "пр. имени В.И. Ленина, 98\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
+        "name": "пр. имени В.И. Ленина, 98",
+        "locationConfidence": 0.12811066,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 487068601,
+        "longitudeE7": 445175292,
+        "placeId": "ChIJXwe7UDTLGkER4UVrm8AuhBw",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400008",
+        "name": "",
+        "locationConfidence": 0.09066456
+      }, {
+        "latitudeE7": 487112071,
+        "longitudeE7": 445230667,
+        "placeId": "ChIJm_jkPTLLGkERhwRJoRXYN2Q",
+        "name": "Railway station",
+        "locationConfidence": 0.085156366
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 487127532,
+          "lngE7": 445266535,
+          "accuracyMeters": 21,
+          "timestamp": "2017-11-03T06:43:33.793Z"
+        }, {
+          "latE7": 487131927,
+          "lngE7": 445271328,
+          "accuracyMeters": 50,
+          "timestamp": "2017-11-03T06:45:36.221Z"
+        }, {
+          "latE7": 487144794,
+          "lngE7": 445283110,
+          "accuracyMeters": 21,
+          "timestamp": "2017-11-03T06:56:04.792Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 287.57635992816455
+      },
+      "locationConfidence": 77,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

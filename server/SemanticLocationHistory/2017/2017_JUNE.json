@@ -1,0 +1,211 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 486981677,
+        "longitudeE7": 445007844
+      },
+      "endLocation": {
+        "latitudeE7": 486996308,
+        "longitudeE7": 445043856
+      },
+      "duration": {
+        "startTimestamp": "2017-06-25T11:27:42.335Z",
+        "endTimestamp": "2017-06-25T11:37:54.058Z"
+      },
+      "distance": 310,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 57.88853942335843
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 35.33518196906755
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.6831459588996134
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 486981887,
+          "lngE7": 445007553
+        }, {
+          "latE7": 486997413,
+          "lngE7": 445044898
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 413.67402511053194,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 486990909,
+        "longitudeE7": 445030566
+      },
+      "endLocation": {
+        "latitudeE7": 486997589,
+        "longitudeE7": 445047009
+      },
+      "duration": {
+        "startTimestamp": "2017-06-25T11:37:54.058Z",
+        "endTimestamp": "2017-06-25T11:46:38.936Z"
+      },
+      "distance": 141,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 56.628770978647914
+      }, {
+        "activityType": "WALKING",
+        "probability": 25.98759775872702
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 13.551239373624504
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 486990623,
+          "lngE7": 445030937
+        }, {
+          "latE7": 486996841,
+          "lngE7": 445045738
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 486999005,
+        "longitudeE7": 445029125
+      },
+      "endLocation": {
+        "latitudeE7": 486998717,
+        "longitudeE7": 444994134
+      },
+      "duration": {
+        "startTimestamp": "2017-06-25T12:41:27.593Z",
+        "endTimestamp": "2017-06-25T13:04:00.516Z"
+      },
+      "distance": 256,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 43.585840152947945
+      }, {
+        "activityType": "WALKING",
+        "probability": 43.57029178663211
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 8.292719029931101
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 486997871,
+          "lngE7": 445028724
+        }, {
+          "latE7": 486998443,
+          "lngE7": 444993591
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487000610,
+        "longitudeE7": 444919292,
+        "placeId": "ChIJRyiaVVDLGkERt3k3o4Pwl-c",
+        "address": "Академическая ул., 30\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Академическая ул., 30",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 97.08949
+      },
+      "duration": {
+        "startTimestamp": "2017-06-25T14:56:18.313Z",
+        "endTimestamp": "2017-06-26T03:01:51.974Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 487009695,
+      "centerLngE7": 444921972,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487005571,
+        "longitudeE7": 444937646,
+        "placeId": "ChIJoUiIylHLGkER2OkbMhzXXCw",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Железный Магазин",
+        "locationConfidence": 0.38403687
+      }, {
+        "latitudeE7": 486992190,
+        "longitudeE7": 444952830,
+        "placeId": "ChIJby9LhVHLGkER33Vemqm9K9Q",
+        "address": "Профсоюзная ул., 13\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Hampton by Hilton Volgograd Profsoyuznaya",
+        "locationConfidence": 0.26690003
+      }, {
+        "latitudeE7": 487013468,
+        "longitudeE7": 444921014,
+        "placeId": "ChIJL4OPP1DLGkERZBnj8KHcTFQ",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "",
+        "locationConfidence": 0.14689279
+      }, {
+        "latitudeE7": 486998660,
+        "longitudeE7": 444892041,
+        "placeId": "ChIJK0YM61DLGkEROpUarNFiQJA",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+        "name": "",
+        "locationConfidence": 0.14420451
+      }, {
+        "latitudeE7": 486998017,
+        "longitudeE7": 444892041,
+        "placeId": "ChIJU2is61DLGkERzJVj30rh2g0",
+        "name": "Гриль",
+        "locationConfidence": 0.09962365
+      }, {
+        "latitudeE7": 487021705,
+        "longitudeE7": 444916141,
+        "placeId": "ChIJb-KwD1DLGkERTuK1Ii47oyc",
+        "name": "Ростовская",
+        "locationConfidence": 0.09625032
+      }, {
+        "latitudeE7": 487019366,
+        "longitudeE7": 444923009,
+        "placeId": "ChIJU2VFF1DLGkERgD-id1oPAdA",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "",
+        "locationConfidence": 0.088553905
+      }, {
+        "latitudeE7": 486996344,
+        "longitudeE7": 444916190,
+        "placeId": "ChIJsUn7AVHLGkERdi4RtYTwaO0",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "",
+        "locationConfidence": 0.0706951
+      }, {
+        "latitudeE7": 487020696,
+        "longitudeE7": 444926193,
+        "placeId": "ChIJy8lzGVDLGkERzoA_xzb0mCE",
+        "address": "Профсоюзная ул., 34\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "\"Sancho Villa» Hotel",
+        "locationConfidence": 0.058929175
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 85,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

@@ -1,0 +1,293 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487562014,
+        "longitudeE7": 444784516,
+        "placeId": "ChIJXeqMA0nKGkERphoGRZ5Gh5o",
+        "address": "Историческая ул., 175, Волгоград, Волгоградская область, Россия, 400002",
+        "name": "Auchan",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 85.51312
+      },
+      "duration": {
+        "startTimestamp": "2017-07-04T05:50:26Z",
+        "endTimestamp": "2017-07-04T06:26:02Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 487546050,
+      "centerLngE7": 444792375,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487561500,
+        "longitudeE7": 444825100,
+        "placeId": "ChIJWVIQuEjKGkERm-zvcSNZ_zY",
+        "address": "Историческая ул., 130\nВолгоград\nВолгоградская обл.\nРоссия\n400075",
+        "name": "Волгоградская академия МВД России",
+        "locationConfidence": 5.240517
+      }, {
+        "latitudeE7": 487539320,
+        "longitudeE7": 444785530,
+        "placeId": "ChIJvdBQUEnKGkERo8ozgLvcWHg",
+        "name": "Toyota Center Volgograd, company Agat",
+        "locationConfidence": 2.0506513
+      }, {
+        "latitudeE7": 487529627,
+        "longitudeE7": 444814853,
+        "placeId": "ChIJ5zjzlk7KGkER-ypdptuC9xI",
+        "locationConfidence": 0.46756062
+      }, {
+        "latitudeE7": 487559564,
+        "longitudeE7": 444781148,
+        "placeId": "ChIJ2_DZjkjKGkERFhFwcx2Yxvw",
+        "address": "Гипермаркет \"Ашан\"\nИсторическая ул., 175\nВолгоград\nВолгоградская обл.\nРоссия\n400075",
+        "name": "КофеIN",
+        "locationConfidence": 0.4293906
+      }, {
+        "latitudeE7": 487538530,
+        "longitudeE7": 444791998,
+        "placeId": "ChIJ05SbTUnKGkER4UqxuUrXvYo",
+        "address": "ш. Авиаторов, 2Г\nВолгоград\nВолгоградская обл.\nРоссия\n400048",
+        "name": "Toyota",
+        "locationConfidence": 0.32672638
+      }, {
+        "latitudeE7": 487539320,
+        "longitudeE7": 444785530,
+        "placeId": "ChIJPxryUUnKGkERv7uSKUSI0n0",
+        "name": "Агат, официальный дилер hyundai",
+        "locationConfidence": 0.25257564
+      }, {
+        "latitudeE7": 487539320,
+        "longitudeE7": 444785530,
+        "placeId": "ChIJPxryUUnKGkERelTnIfifuR0",
+        "name": "Агат, официальный дилер Citroen",
+        "locationConfidence": 0.1808346
+      }, {
+        "latitudeE7": 487550967,
+        "longitudeE7": 444837147,
+        "placeId": "ChIJeRsBOk_KGkER8piUgLYkwdw",
+        "address": "Историческая ул., 122\nВолгоград\nВолгоградская обл.\nРоссия\n400075",
+        "name": "Дзержинский районный суд г. Волгограда",
+        "locationConfidence": 0.18037364
+      }, {
+        "latitudeE7": 487539320,
+        "longitudeE7": 444785530,
+        "placeId": "ChIJvdBQUEnKGkERXj960wrnNsE",
+        "name": "Hyundai АГАТ на Авиаторов",
+        "locationConfidence": 0.14991327
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 65,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487546050,
+        "longitudeE7": 444792375
+      },
+      "endLocation": {
+        "latitudeE7": 487525455,
+        "longitudeE7": 444798426
+      },
+      "duration": {
+        "startTimestamp": "2017-07-04T06:26:02Z",
+        "endTimestamp": "2017-07-05T00:00:00Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 487545483,
+          "lngE7": 444784633,
+          "accuracyMeters": 5,
+          "timestamp": "2017-07-04T06:26:02Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 301.68803330354064
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487525455,
+        "longitudeE7": 444798426
+      },
+      "endLocation": {
+        "latitudeE7": 487474813,
+        "longitudeE7": 444833296
+      },
+      "duration": {
+        "startTimestamp": "2017-07-05T00:00:00Z",
+        "endTimestamp": "2017-07-05T16:39:52.447Z"
+      },
+      "distance": 618,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 57.43729832710817
+      }, {
+        "activityType": "WALKING",
+        "probability": 37.082246994161444
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.429546701587204
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487524452,
+          "lngE7": 444799804
+        }, {
+          "latE7": 487475051,
+          "lngE7": 444834098
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487474813,
+        "longitudeE7": 444833296
+      },
+      "endLocation": {
+        "latitudeE7": 487412608,
+        "longitudeE7": 444876118
+      },
+      "duration": {
+        "startTimestamp": "2017-07-05T18:23:39.643Z",
+        "endTimestamp": "2017-07-05T20:20:57.244Z"
+      },
+      "distance": 759,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 62.940741826328825
+      }, {
+        "activityType": "WALKING",
+        "probability": 29.47042478384813
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 3.2231966687582716
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487475051,
+          "lngE7": 444834098
+        }, {
+          "latE7": 487411231,
+          "lngE7": 444877738
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487400113,
+        "longitudeE7": 444884718
+      },
+      "endLocation": {
+        "latitudeE7": 487391713,
+        "longitudeE7": 444890500
+      },
+      "duration": {
+        "startTimestamp": "2017-07-06T06:26:22.976Z",
+        "endTimestamp": "2017-07-06T06:39:34.964Z"
+      },
+      "distance": 102,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 52.18634099858291
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 37.62578259018151
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 5.730896912048136
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487349608,
+        "longitudeE7": 444919476
+      },
+      "endLocation": {
+        "latitudeE7": 487335804,
+        "longitudeE7": 444928974
+      },
+      "duration": {
+        "startTimestamp": "2017-07-06T07:47:36.031Z",
+        "endTimestamp": "2017-07-06T08:00:11.957Z"
+      },
+      "distance": 168,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 73.3258630188545
+      }, {
+        "activityType": "WALKING",
+        "probability": 20.20672706938612
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 3.582687386913324
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487350578,
+          "lngE7": 444917755
+        }, {
+          "latE7": 487333450,
+          "lngE7": 444907264
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487335804,
+        "longitudeE7": 444928974
+      },
+      "endLocation": {
+        "latitudeE7": 486954283,
+        "longitudeE7": 444913392
+      },
+      "duration": {
+        "startTimestamp": "2017-07-06T08:00:11.957Z",
+        "endTimestamp": "2017-08-23T09:31:41.734Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 487141033,
+          "lngE7": 445062933,
+          "accuracyMeters": 15,
+          "timestamp": "2017-07-07T08:37:20Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 4726.944584970449
+      }
+    }
+  }]
+}

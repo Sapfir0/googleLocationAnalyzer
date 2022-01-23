@@ -1,14 +1,10 @@
 import chroma from 'chroma-js';
 import { Location, LocationView } from 'typings/common';
 
-const colorGradient = ['red', 'blue']
+const colorGradient = ['red', 'blue'];
 
 export default () => {
-    const getCoordinate = (coordinate: string) => {
-        const s = coordinate.slice(0, 2);
-        const rest = coordinate.slice(2);
-        return Number.parseFloat(`${s}.${rest}`);
-    };
+
 
     const getColorList = (yearCount: number) => {
         return chroma.scale(colorGradient).mode('lch').colors(yearCount);
@@ -33,8 +29,8 @@ export default () => {
             monthsToColor.set(month, colorList[i]);
             i++;
         }
-        return monthsToColor
-    }
+        return monthsToColor;
+    };
 
     const parseLocationHistory = (locations: Location[]): LocationView[] => {
         const minDiff = 0.005;
@@ -55,18 +51,22 @@ export default () => {
             return resultedLocations;
         }, [] as Omit<LocationView, 'color'>[]);
 
-        const monthsToColor = getMonthToColorMap(newLocations)
-        
+        const monthsToColor = getMonthToColorMap(newLocations);
+
         return newLocations.map((loc) => ({
             ...loc,
             color: monthsToColor.get(`${loc.timestamp.getFullYear()}.${loc.timestamp.getMonth()}`),
-        }));;
+        }));
     };
 
     self.onmessage = (message) => {
-        console.log(message);
+        console.log(message.data);
+
+        const data = JSON.parse(message.data, (key: string, value: any) => {
+            console.log(key, value);
+        });
         console.time();
-        const result = parseLocationHistory(message.data);
+        const result = parseLocationHistory(data.locations);
         console.timeEnd();
         postMessage(result);
     };

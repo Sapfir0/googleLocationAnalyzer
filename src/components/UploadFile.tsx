@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import LocationsParserWorker from '../services/locationsParserWorker';
 import WorkerBuilder from '../services/workerBuilder';
-import { Location, LocationView } from '../typings/common';
+import { LocationView } from '../typings/common';
 import { LocationsMap } from './Map';
 
 export function FileUploadPage() {
@@ -22,14 +22,11 @@ export function FileUploadPage() {
         const reader = new FileReader();
         reader.onload = function (e) {
             const { result } = reader;
-            
+
             if (result) {
-                console.log(result);
+                // const file = JSON.parse( as string) as { locations: Location[] };
 
-
-                const file = JSON.parse(result as string) as { locations: Location[] };
-
-                instance.postMessage(file.locations.slice(0, 5000));
+                instance.postMessage(result);
             }
         };
         reader.readAsText(event.target.files[0]);
@@ -41,7 +38,7 @@ export function FileUploadPage() {
             <input type="file" name="file" onChange={changeHandler} />
             {locations.length ? (
                 <div>
-                    <LocationsMap coordinates={locations} />
+                   
                 </div>
             ) : (
                 <p>Select a file to show details</p>

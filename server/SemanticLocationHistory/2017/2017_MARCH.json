@@ -1,0 +1,1677 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487165672,
+        "longitudeE7": 445022563
+      },
+      "endLocation": {
+        "latitudeE7": 487018940,
+        "longitudeE7": 444924069
+      },
+      "duration": {
+        "startTimestamp": "2017-03-03T06:22:59.512Z",
+        "endTimestamp": "2017-03-03T06:41:36.781Z"
+      },
+      "distance": 3100,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 30.606619357704563
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 26.75067801226998
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 21.722398389477043
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487166023,
+          "lngE7": 445022048
+        }, {
+          "latE7": 487131156,
+          "lngE7": 444964294
+        }, {
+          "latE7": 487125282,
+          "lngE7": 445004539
+        }, {
+          "latE7": 487101745,
+          "lngE7": 445012855
+        }, {
+          "latE7": 487024841,
+          "lngE7": 444915809
+        }, {
+          "latE7": 487019424,
+          "lngE7": 444924888
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2162.1712301450134,
+        "travelMode": "WALK",
+        "confidence": 0.9972374474011695
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 487130661,
+          "lngE7": 444964943,
+          "accuracyMeters": 48,
+          "timestamp": "2017-03-03T06:27:54.847Z"
+        }, {
+          "latE7": 487127190,
+          "lngE7": 445005150,
+          "accuracyMeters": 22,
+          "timestamp": "2017-03-03T06:31:15.118Z"
+        }, {
+          "latE7": 487103119,
+          "lngE7": 445013390,
+          "accuracyMeters": 23,
+          "timestamp": "2017-03-03T06:33:37.109Z"
+        }, {
+          "latE7": 487024307,
+          "lngE7": 444913101,
+          "accuracyMeters": 22,
+          "timestamp": "2017-03-03T06:40:08.904Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487000649,
+        "longitudeE7": 444919270,
+        "placeId": "ChIJRyiaVVDLGkERt3k3o4Pwl-c",
+        "address": "Академическая ул., 30\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Академическая ул., 30",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 99.65957
+      },
+      "duration": {
+        "startTimestamp": "2017-03-03T06:42:53.927Z",
+        "endTimestamp": "2017-03-04T06:15:13.865Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 487000297,
+      "centerLngE7": 444919293,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 486996344,
+        "longitudeE7": 444916190,
+        "placeId": "ChIJsUn7AVHLGkERdi4RtYTwaO0",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "",
+        "locationConfidence": 0.10974573
+      }, {
+        "latitudeE7": 487004599,
+        "longitudeE7": 444924217,
+        "placeId": "ChIJrz2sP1DLGkERIT-uoWzhdN8",
+        "address": "Профсоюзная ул., 23А\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Kindergarten № 199",
+        "locationConfidence": 0.02318032
+      }, {
+        "latitudeE7": 487005400,
+        "longitudeE7": 444914570,
+        "placeId": "ChIJRTOcP1HLGkERTFw7nLeKBxU",
+        "address": "Академическая ул., д. 32\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Клуб туристов",
+        "locationConfidence": 0.020462025
+      }, {
+        "latitudeE7": 487013468,
+        "longitudeE7": 444921014,
+        "placeId": "ChIJL4OPP1DLGkERZBnj8KHcTFQ",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "",
+        "locationConfidence": 0.010631802
+      }, {
+        "latitudeE7": 487005571,
+        "longitudeE7": 444937646,
+        "placeId": "ChIJoUiIylHLGkER2OkbMhzXXCw",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Железный Магазин",
+        "locationConfidence": 0.010596688
+      }, {
+        "latitudeE7": 486992535,
+        "longitudeE7": 444926590,
+        "placeId": "ChIJF0z3CFHLGkERaO7ZTcKplvs",
+        "name": "Волгоградский Филиал Территориального Фонда Обязательного Медицинского Страхования",
+        "locationConfidence": 0.007385237
+      }, {
+        "latitudeE7": 486995364,
+        "longitudeE7": 444893718,
+        "placeId": "ChIJbZDT6VDLGkERtoz5TJgo2m0",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+        "name": "Моздокская",
+        "locationConfidence": 0.007167214
+      }, {
+        "latitudeE7": 487019366,
+        "longitudeE7": 444923009,
+        "placeId": "ChIJU2VFF1DLGkERgD-id1oPAdA",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "",
+        "locationConfidence": 0.0069723246
+      }, {
+        "latitudeE7": 487012654,
+        "longitudeE7": 444946447,
+        "placeId": "ChIJeU1ZK1DLGkERBqesiP7X47Q",
+        "locationConfidence": 0.0067220884
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 91,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487066130,
+        "longitudeE7": 444861920
+      },
+      "endLocation": {
+        "latitudeE7": 487109450,
+        "longitudeE7": 445041640
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T06:15:13.865Z",
+        "endTimestamp": "2017-03-04T06:25:49.369Z"
+      },
+      "distance": 1777,
+      "activityType": "IN_BUS",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 0.6826788216383346
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 62.494471131879884
+      }, {
+        "activityType": "WALKING",
+        "probability": 20.24348035571911
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 487066130,
+          "longitudeE7": 444861920,
+          "placeId": "ChIJW280WEPLGkERW4Gwyqig99s",
+          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+          "name": "Rostovskaya St"
+        }, {
+          "latitudeE7": 487109450,
+          "longitudeE7": 445041640,
+          "placeId": "ChIJ--H3ajjLGkER2KJzqByJOHU",
+          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+          "name": "Krasnoznamenskaya St"
+        }],
+        "name": "28",
+        "hexRgbColor": "FBC02D",
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 487000695,
+          "lngE7": 444917343,
+          "accuracyMeters": 21,
+          "timestamp": "2017-03-04T06:15:13.865Z"
+        }, {
+          "latE7": 487011543,
+          "lngE7": 444921181,
+          "accuracyMeters": 22,
+          "timestamp": "2017-03-04T06:17:13.694Z"
+        }, {
+          "latE7": 487023733,
+          "lngE7": 444902179,
+          "accuracyMeters": 23,
+          "timestamp": "2017-03-04T06:19:15.352Z"
+        }, {
+          "latE7": 487104092,
+          "lngE7": 445012373,
+          "accuracyMeters": 50,
+          "timestamp": "2017-03-04T06:23:37.477Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2581.947271702769
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487112243,
+        "longitudeE7": 445060912
+      },
+      "endLocation": {
+        "latitudeE7": 487126387,
+        "longitudeE7": 445134796
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T06:25:49.369Z",
+        "endTimestamp": "2017-03-04T06:32:01.897Z"
+      },
+      "distance": 1029,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 66.37804872506406
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 18.20073081965594
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 9.372311868361404
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487109642,
+          "lngE7": 445060997
+        }, {
+          "latE7": 487147102,
+          "lngE7": 445117492
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 738.2865344758934,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487126387,
+        "longitudeE7": 445134796,
+        "placeId": "ChIJpwg6vzDLGkERzy3Qu2Vn37o",
+        "address": "Привокзальная пл., 1, Волгоград, Волгоградская область, Россия, 400131",
+        "name": "Volgograd-1 railway station",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 33.53693
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T06:32:01.897Z",
+        "endTimestamp": "2017-03-04T06:38:03.792Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 487150325,
+      "centerLngE7": 445120725,
+      "visitConfidence": 66,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487154661,
+        "longitudeE7": 445126225,
+        "placeId": "ChIJBzyj8TrLGkERu-IC5m6RreE",
+        "address": "ул. Пархоменко, 15\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Cosmetology clinic",
+        "locationConfidence": 28.711952
+      }, {
+        "latitudeE7": 487156702,
+        "longitudeE7": 445114379,
+        "placeId": "ChIJm5y4_jrLGkER2rVR-6yfug8",
+        "address": "ул. Невская, 4\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Штолле",
+        "locationConfidence": 13.920494
+      }, {
+        "latitudeE7": 487148852,
+        "longitudeE7": 445125724,
+        "placeId": "ChIJVdqIkzPLGkERdYfvjXYhl8U",
+        "name": "Цветы",
+        "locationConfidence": 1.7574418
+      }, {
+        "latitudeE7": 487153710,
+        "longitudeE7": 445119980,
+        "placeId": "ChIJuREU9zrLGkERwTaObUZOL-k",
+        "address": "ул. Невская, 2\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "ул. Невская, 2",
+        "locationConfidence": 1.3235532
+      }, {
+        "latitudeE7": 487148625,
+        "longitudeE7": 445125525,
+        "placeId": "ChIJiw6ZijrLGkERfcho4bn0riQ",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Железнодорожный вокзал",
+        "locationConfidence": 1.1945137
+      }, {
+        "latitudeE7": 487146200,
+        "longitudeE7": 445123980,
+        "placeId": "ChIJP7EVYTrLGkERX5ItLBk0Uqk",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Zheleznodorozhnyy vokzal",
+        "locationConfidence": 1.1945137
+      }, {
+        "latitudeE7": 487151050,
+        "longitudeE7": 445127070,
+        "placeId": "ChIJsYev9DrLGkERc53TJ5g2m98",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Zheleznodorozhnyy vokzal",
+        "locationConfidence": 0.987557
+      }, {
+        "latitudeE7": 487153436,
+        "longitudeE7": 445120894,
+        "placeId": "ChIJPSdQ9jrLGkER6xxens2qK74",
+        "address": "ул. Невская, 2\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Roosters Pizza",
+        "locationConfidence": 0.9733723
+      }, {
+        "latitudeE7": 487150893,
+        "longitudeE7": 445123083,
+        "placeId": "ChIJ7dfa9TrLGkER5mpMBVunRGo",
+        "address": "ул. Пархоменко, 15А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Gifts Armenia",
+        "locationConfidence": 0.91498923
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 27,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487126387,
+        "longitudeE7": 445134796
+      },
+      "endLocation": {
+        "latitudeE7": 487167867,
+        "longitudeE7": 445150462
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T06:38:03.792Z",
+        "endTimestamp": "2017-03-04T06:40:05.181Z"
+      },
+      "distance": 475,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 90.43535801829778
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 5.748763562763632
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.7255949223119225
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487151794,
+          "lngE7": 445127296
+        }, {
+          "latE7": 487166175,
+          "lngE7": 445147476
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 253.23868346441478,
+        "travelMode": "WALK",
+        "confidence": 0.9974208785391473
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487167867,
+        "longitudeE7": 445150462,
+        "placeId": "ChIJL8OyMyXLGkERN1y2kcgcEFs",
+        "address": "ул. Пархоменко, 23, Волгоград, Волгоградская область, Россия, 400087",
+        "name": "School number 10",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 68.6676
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T06:40:05.181Z",
+        "endTimestamp": "2017-03-04T07:39:11.111Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 487171570,
+      "centerLngE7": 445156852,
+      "visitConfidence": 76,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487172016,
+        "longitudeE7": 445160276,
+        "placeId": "ChIJY9tQWU7LGkERE1RjBm32xc0",
+        "address": "ул. Пархоменко, 25\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "REDELUX",
+        "locationConfidence": 20.179726
+      }, {
+        "latitudeE7": 487158285,
+        "longitudeE7": 445165757,
+        "placeId": "ChIJJVJyqzrLGkERaBSmH_M8c4Q",
+        "address": "ул. М. Балонина, 11\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Volgograd",
+        "locationConfidence": 2.3156242
+      }, {
+        "latitudeE7": 487175621,
+        "longitudeE7": 445174540,
+        "placeId": "ChIJK-NmEyXLGkERremiJN1XvXA",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "",
+        "locationConfidence": 1.5165792
+      }, {
+        "latitudeE7": 487171320,
+        "longitudeE7": 445161050,
+        "placeId": "ChIJ6yWMOSXLGkERNp7e09rsXPA",
+        "locationConfidence": 0.5621558
+      }, {
+        "latitudeE7": 487172190,
+        "longitudeE7": 445167460,
+        "placeId": "ChIJf10RPyXLGkERWWB30HWEBu0",
+        "address": "ул. Пархоменко, 27\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "ул. Пархоменко, 27",
+        "locationConfidence": 0.43254116
+      }, {
+        "latitudeE7": 487167473,
+        "longitudeE7": 445132694,
+        "placeId": "ChIJ2zw02DrLGkERm2FmbRbKoeE",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "",
+        "locationConfidence": 0.36954457
+      }, {
+        "latitudeE7": 487148219,
+        "longitudeE7": 445152114,
+        "placeId": "ChIJMx4_njrLGkERgWPcJNzr6k8",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "",
+        "locationConfidence": 0.36657524
+      }, {
+        "latitudeE7": 487172721,
+        "longitudeE7": 445166572,
+        "placeId": "ChIJzQyuOSXLGkER_x24Jsl0Mqg",
+        "address": "ул. Пархоменко, 27\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "ИВЦ ЖКХ и ТЭК",
+        "locationConfidence": 0.35616952
+      }, {
+        "latitudeE7": 487188561,
+        "longitudeE7": 445160980,
+        "placeId": "ChIJtWC--yTLGkERy4ifhl6_oHY",
+        "address": "Двинская ул., 7\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "24 Часа",
+        "locationConfidence": 0.24625398
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 50,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487167867,
+        "longitudeE7": 445150462
+      },
+      "endLocation": {
+        "latitudeE7": 487158285,
+        "longitudeE7": 445165757
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T07:39:11.111Z",
+        "endTimestamp": "2017-03-04T07:49:50.300Z"
+      },
+      "distance": 154,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 54.724564473267854
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 43.690634805971186
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.4831401516635617
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487166175,
+          "lngE7": 445147476
+        }, {
+          "latE7": 487155189,
+          "lngE7": 445164833
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1575.5299378133402,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487158285,
+        "longitudeE7": 445165757,
+        "placeId": "ChIJJVJyqzrLGkERaBSmH_M8c4Q",
+        "address": "ул. Михаила Балонина, 11, Волгоград, Волгоградская область, Россия, 400087",
+        "name": "Volgograd",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 85.99538
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T07:49:50.300Z",
+        "endTimestamp": "2017-03-04T08:16:16.902Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 487161886,
+      "centerLngE7": 445149835,
+      "visitConfidence": 64,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487167867,
+        "longitudeE7": 445150462,
+        "placeId": "ChIJL8OyMyXLGkERN1y2kcgcEFs",
+        "address": "ул. Пархоменко, 23\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "School number 10",
+        "locationConfidence": 5.092711
+      }, {
+        "latitudeE7": 487175621,
+        "longitudeE7": 445174540,
+        "placeId": "ChIJK-NmEyXLGkERremiJN1XvXA",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "",
+        "locationConfidence": 3.0822759
+      }, {
+        "latitudeE7": 487172428,
+        "longitudeE7": 445167557,
+        "placeId": "ChIJc2sQPyXLGkERB4QcSbhYRUY",
+        "address": "ул. Пархоменко, 27\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Pharmacy number 5",
+        "locationConfidence": 0.6618585
+      }, {
+        "latitudeE7": 487174244,
+        "longitudeE7": 445170320,
+        "placeId": "ChIJq_LiPiXLGkERKjgiVFqXaNk",
+        "address": "ул. Пархоменко, 27\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Dr. Aibolit",
+        "locationConfidence": 0.44103894
+      }, {
+        "latitudeE7": 487170584,
+        "longitudeE7": 445163867,
+        "placeId": "ChIJjyxYOCXLGkER0Vy_hW9fTgw",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Ростехнадзор",
+        "locationConfidence": 0.34351867
+      }, {
+        "latitudeE7": 487172721,
+        "longitudeE7": 445166572,
+        "placeId": "ChIJzQyuOSXLGkER_x24Jsl0Mqg",
+        "address": "ул. Пархоменко, 27\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "ИВЦ ЖКХ и ТЭК",
+        "locationConfidence": 0.23848563
+      }, {
+        "latitudeE7": 487148219,
+        "longitudeE7": 445152114,
+        "placeId": "ChIJMx4_njrLGkERgWPcJNzr6k8",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "",
+        "locationConfidence": 0.21070187
+      }, {
+        "latitudeE7": 487190804,
+        "longitudeE7": 445166710,
+        "placeId": "ChIJXRGo-CTLGkERXH4uNqzS6bU",
+        "address": "ул. Новороссийская, 34\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Крокус, Продукты",
+        "locationConfidence": 0.17216252
+      }, {
+        "latitudeE7": 487172190,
+        "longitudeE7": 445167460,
+        "placeId": "ChIJf10RPyXLGkERWWB30HWEBu0",
+        "address": "ул. Пархоменко, 27\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "ул. Пархоменко, 27",
+        "locationConfidence": 0.16433643
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 63,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487158285,
+        "longitudeE7": 445165757
+      },
+      "endLocation": {
+        "latitudeE7": 487182664,
+        "longitudeE7": 445054895
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T08:16:16.902Z",
+        "endTimestamp": "2017-03-04T08:37:22.344Z"
+      },
+      "distance": 774,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 67.82323465499618
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 29.158817138425206
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.9317796740578812
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487170829,
+          "lngE7": 445163002
+        }, {
+          "latE7": 487164840,
+          "lngE7": 445126266
+        }, {
+          "latE7": 487182464,
+          "lngE7": 445054588
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1176.0361214542297,
+        "travelMode": "WALK",
+        "confidence": 0.974836061837656
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 487165260,
+          "lngE7": 445125809,
+          "accuracyMeters": 50,
+          "timestamp": "2017-03-04T08:29:03.325Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487180839,
+        "longitudeE7": 445052718,
+        "placeId": "ChIJ2-M3WTzLGkERosTbceTZFKk",
+        "address": "Волгоград, Волгоградская область, Россия, 400087",
+        "name": "",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 93.47324
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T08:37:22.344Z",
+        "endTimestamp": "2017-03-04T09:12:08.910Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 487184624,
+      "centerLngE7": 445053976,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487179260,
+        "longitudeE7": 445048690,
+        "placeId": "ChIJZRttWzzLGkERUYHqcmwM5j0",
+        "address": "д.\nул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Клаустрофобия",
+        "locationConfidence": 0.71983373
+      }, {
+        "latitudeE7": 487191860,
+        "longitudeE7": 445040123,
+        "placeId": "ChIJga0KbzzLGkER0jEx7cttlkc",
+        "address": "ул. им. Чапаева, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "name": "Царицынский православный университет преподобного Сергия Радонежского",
+        "locationConfidence": 0.5110316
+      }, {
+        "latitudeE7": 487182542,
+        "longitudeE7": 445052712,
+        "placeId": "ChIJxTRZWDzLGkERzNQ_XmNchV0",
+        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Pit Stop",
+        "locationConfidence": 0.47297844
+      }, {
+        "latitudeE7": 487184780,
+        "longitudeE7": 445058830,
+        "placeId": "ChIJnRMz8TzLGkERzr1B_JkXAWA",
+        "address": "ул. имени Маршала Рокоссовского, 32\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "ул. имени Маршала Рокоссовского, 32",
+        "locationConfidence": 0.46213654
+      }, {
+        "latitudeE7": 487179550,
+        "longitudeE7": 445050300,
+        "placeId": "ChIJ9wSi_rQ0BUER0MnLDGjs52g",
+        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Капитал Медицинское Страхование",
+        "locationConfidence": 0.28982383
+      }, {
+        "latitudeE7": 487186610,
+        "longitudeE7": 445058470,
+        "placeId": "ChIJAy-J8DzLGkER9tzjALjdTyE",
+        "address": "ул. имени Маршала Рокоссовского, 32\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Не горюй",
+        "locationConfidence": 0.27229586
+      }, {
+        "latitudeE7": 487184630,
+        "longitudeE7": 445047010,
+        "placeId": "ChIJx-lhVjzLGkERDhW1Qnm0j6c",
+        "address": "ул. имени Маршала Рокоссовского, 43\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "name": "ул. имени Маршала Рокоссовского, 43",
+        "locationConfidence": 0.23695326
+      }, {
+        "latitudeE7": 487186886,
+        "longitudeE7": 445058904,
+        "placeId": "ChIJQZtk8DzLGkERvtQ1BmoC3WY",
+        "address": "ул. имени Маршала Рокоссовского, 32\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "name": "Территория",
+        "locationConfidence": 0.20611161
+      }, {
+        "latitudeE7": 487187648,
+        "longitudeE7": 445036946,
+        "placeId": "ChIJRVT2qz3LGkEROkZj87l9ngE",
+        "address": "ул. им. Чапаева, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "name": "Holy Spirit Monastery",
+        "locationConfidence": 0.20171213
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 75,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487180839,
+        "longitudeE7": 445052718
+      },
+      "endLocation": {
+        "latitudeE7": 487000649,
+        "longitudeE7": 444919270
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T09:12:08.910Z",
+        "endTimestamp": "2017-03-04T09:32:40.959Z"
+      },
+      "distance": 2502,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 40.70159407977999
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 26.993282455584193
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 24.158219943903
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487180786,
+          "lngE7": 445052795
+        }, {
+          "latE7": 487146530,
+          "lngE7": 444990653
+        }, {
+          "latE7": 487001991,
+          "lngE7": 444920921
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2629.897531244536,
+        "travelMode": "WALK",
+        "confidence": 0.9925749367114397
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 487144356,
+          "lngE7": 444994011,
+          "accuracyMeters": 27,
+          "timestamp": "2017-03-04T09:18:10.619Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487000649,
+        "longitudeE7": 444919270,
+        "placeId": "ChIJRyiaVVDLGkERt3k3o4Pwl-c",
+        "address": "Академическая ул., 30\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Академическая ул., 30",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 99.51073
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T09:32:40.959Z",
+        "endTimestamp": "2017-03-04T11:41:13.908Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 487000647,
+      "centerLngE7": 444918600,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 486996344,
+        "longitudeE7": 444916190,
+        "placeId": "ChIJsUn7AVHLGkERdi4RtYTwaO0",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "",
+        "locationConfidence": 0.15876041
+      }, {
+        "latitudeE7": 487005400,
+        "longitudeE7": 444914570,
+        "placeId": "ChIJRTOcP1HLGkERTFw7nLeKBxU",
+        "address": "Академическая ул., д. 32\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Клуб туристов",
+        "locationConfidence": 0.022573853
+      }, {
+        "latitudeE7": 487013468,
+        "longitudeE7": 444921014,
+        "placeId": "ChIJL4OPP1DLGkERZBnj8KHcTFQ",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "",
+        "locationConfidence": 0.021004094
+      }, {
+        "latitudeE7": 487004599,
+        "longitudeE7": 444924217,
+        "placeId": "ChIJrz2sP1DLGkERIT-uoWzhdN8",
+        "address": "Профсоюзная ул., 23А\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Kindergarten № 199",
+        "locationConfidence": 0.02094878
+      }, {
+        "latitudeE7": 487005571,
+        "longitudeE7": 444937646,
+        "placeId": "ChIJoUiIylHLGkER2OkbMhzXXCw",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Железный Магазин",
+        "locationConfidence": 0.015614471
+      }, {
+        "latitudeE7": 486998017,
+        "longitudeE7": 444914850,
+        "placeId": "ChIJcw0zQFPLGkER9s-uxufkDf4",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Питание",
+        "locationConfidence": 0.011787354
+      }, {
+        "latitudeE7": 487019366,
+        "longitudeE7": 444923009,
+        "placeId": "ChIJU2VFF1DLGkERgD-id1oPAdA",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "",
+        "locationConfidence": 0.011543674
+      }, {
+        "latitudeE7": 486999401,
+        "longitudeE7": 444917051,
+        "placeId": "ChIJ92-HVVDLGkERn--yw7WmTMg",
+        "locationConfidence": 0.0096733775
+      }, {
+        "latitudeE7": 486995364,
+        "longitudeE7": 444893718,
+        "placeId": "ChIJbZDT6VDLGkERtoz5TJgo2m0",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+        "name": "Моздокская",
+        "locationConfidence": 0.007828648
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 90,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487000649,
+        "longitudeE7": 444919270
+      },
+      "endLocation": {
+        "latitudeE7": 486968685,
+        "longitudeE7": 445015544
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T11:41:13.908Z",
+        "endTimestamp": "2017-03-04T11:51:16.940Z"
+      },
+      "distance": 1022,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 98.65762596694829
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.7811556752758878
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2208779783092345
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487002067,
+          "lngE7": 444917411
+        }, {
+          "latE7": 486971473,
+          "lngE7": 444947471
+        }, {
+          "latE7": 486975517,
+          "lngE7": 445005989
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 887.0376174413898,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 486970863,
+          "lngE7": 444946480,
+          "accuracyMeters": 23,
+          "timestamp": "2017-03-04T11:43:13.899Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 486968685,
+        "longitudeE7": 445015544,
+        "placeId": "ChIJ1YHMmlLLGkERasHohsifo5I",
+        "address": "Рабоче-Крестьянская ул., 9Б, Волгоград, Россия, 400001",
+        "name": "Voroshilov, shopping and entertainment complex",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 99.97945,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T11:51:16.940Z",
+        "endTimestamp": "2017-03-04T15:00:56.222Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 486973870,
+          "longitudeE7": 445023935,
+          "placeId": "ChIJVUm2olLLGkERJ4jCelwzGk4",
+          "address": "ТЦ \"Ворошиловский\", ул. Рабоче-Крестьянская, 9 Б, Волгоград, Волгоградская область, Россия, 400001",
+          "name": "Five stars",
+          "sourceInfo": {
+            "deviceTag": 833703901
+          },
+          "locationConfidence": 41.564804,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2017-03-04T11:51:16.940Z",
+          "endTimestamp": "2017-03-04T12:13:45.914Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 486971594,
+        "centerLngE7": 445018655,
+        "visitConfidence": 77,
+        "otherCandidateLocations": [{
+          "latitudeE7": 486968556,
+          "longitudeE7": 445015379,
+          "placeId": "ChIJv6ISlVLLGkERXttEGdIFr-g",
+          "name": "Торгушка",
+          "locationConfidence": 9.431981,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486970279,
+          "longitudeE7": 445013398,
+          "placeId": "ChIJc-0P-lLLGkERZc3LkVuvjQk",
+          "address": "Рабоче-Крестьянская ул., 9 Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "КИНДЕР МОЛЛ, торговый центр",
+          "locationConfidence": 5.439731,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486973203,
+          "longitudeE7": 445018504,
+          "placeId": "ChIJwY-rkFLLGkERp0gSLSr_zgE",
+          "address": "ул. КИМ 7 ТЦ Ворошиловский, 1 этаж\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Samsung",
+          "locationConfidence": 2.138943,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486972983,
+          "longitudeE7": 445024977,
+          "placeId": "ChIJhU72vVLLGkER-lOrjiQOxb0",
+          "address": "ТЦ «Ворошиловский»\nРабоче-Крестьянская ул., 9Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "О\u0027КЕЙ",
+          "locationConfidence": 2.0594008,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486973170,
+          "longitudeE7": 445012590,
+          "placeId": "ChIJUZnrkVLLGkERuBm5zwvLgfw",
+          "address": "с\nРабоче-Крестьянская ул., 9 строение 1\nВолгоград\nВолгоградская обл.\nRussia\n400001",
+          "name": "Читай-город",
+          "locationConfidence": 1.5651971,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486970420,
+          "longitudeE7": 445020000,
+          "placeId": "ChIJ1YHMmlLLGkERljqvTWzqm4w",
+          "address": "Рабоче-Крестьянская ул., 9Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Red Cube",
+          "locationConfidence": 1.4857337,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486969609,
+          "longitudeE7": 445020468,
+          "placeId": "ChIJk2WNvVLLGkERwAd_mErii6g",
+          "address": "Рабоче-Крестьянская ул., 9б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Coffee Like",
+          "locationConfidence": 1.252799,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486968664,
+          "longitudeE7": 445019070,
+          "placeId": "ChIJj5ERvlLLGkERcS2AUCm7dz4",
+          "name": "Ригла",
+          "locationConfidence": 1.143137,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486971720,
+          "longitudeE7": 445016056,
+          "placeId": "ChIJv5HKllLLGkER7T_ZqcQkiio",
+          "address": "Рабоче-Крестьянская ул., 9Б\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
+          "name": "Swarovski",
+          "locationConfidence": 0.99521816,
+          "isCurrentLocation": true
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 32,
+        "placeVisitType": "SINGLE_PLACE"
+      }, {
+        "location": {
+          "latitudeE7": 486973870,
+          "longitudeE7": 445023935,
+          "placeId": "ChIJVUm2olLLGkERJ4jCelwzGk4",
+          "address": "ТЦ \"Ворошиловский\", ул. Рабоче-Крестьянская, 9 Б, Волгоград, Волгоградская область, Россия, 400001",
+          "name": "Five stars",
+          "sourceInfo": {
+            "deviceTag": 833703901
+          },
+          "locationConfidence": 91.239746,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2017-03-04T12:15:46.293Z",
+          "endTimestamp": "2017-03-04T12:40:52.795Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 486972506,
+        "centerLngE7": 445025176,
+        "visitConfidence": 77,
+        "otherCandidateLocations": [{
+          "latitudeE7": 486968556,
+          "longitudeE7": 445015379,
+          "placeId": "ChIJv6ISlVLLGkERXttEGdIFr-g",
+          "name": "Торгушка",
+          "locationConfidence": 0.8678627,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486970279,
+          "longitudeE7": 445013398,
+          "placeId": "ChIJc-0P-lLLGkERZc3LkVuvjQk",
+          "address": "Рабоче-Крестьянская ул., 9 Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "КИНДЕР МОЛЛ, торговый центр",
+          "locationConfidence": 0.7510489,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486972983,
+          "longitudeE7": 445024977,
+          "placeId": "ChIJhU72vVLLGkER-lOrjiQOxb0",
+          "address": "ТЦ «Ворошиловский»\nРабоче-Крестьянская ул., 9Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "О\u0027КЕЙ",
+          "locationConfidence": 0.4235592,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486971020,
+          "longitudeE7": 445024150,
+          "placeId": "ChIJVUm2olLLGkERHmuuTGCJUDA",
+          "name": "Detsky Mir, supermarkets chain",
+          "locationConfidence": 0.39787725,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486975746,
+          "longitudeE7": 445016242,
+          "placeId": "ChIJ04qJBk3LGkER8_6WljjeOcs",
+          "address": "Рабоче-Крестьянская ул., 9/1\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Рынок оптово-розничной торговли",
+          "locationConfidence": 0.3378064,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486971020,
+          "longitudeE7": 445024150,
+          "placeId": "ChIJVUm2olLLGkERfDdtcpPRdxc",
+          "address": "Рабоче-Крестьянская ул., 9Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Smart vision,",
+          "locationConfidence": 0.2988335,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486965704,
+          "longitudeE7": 445029947,
+          "placeId": "ChIJ-R_0sFLLGkERGe5sRlB_tHc",
+          "address": "ул. КИМ, 7\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Многоэтажная Авостоянка",
+          "locationConfidence": 0.24214482
+        }, {
+          "latitudeE7": 486973447,
+          "longitudeE7": 445020424,
+          "placeId": "ChIJgzbtmVLLGkERNGFZuxJ7Odg",
+          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Царицынская Опера, Волгоградский Государственный Театр, Гук",
+          "locationConfidence": 0.19170147,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486975190,
+          "longitudeE7": 445021910,
+          "placeId": "ChIJ78r6m1LLGkERiShbRkBS5kM",
+          "address": "ТЦ \"Ворошиловский\"\nРабоче-Крестьянская ул., 9Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Уютерра",
+          "locationConfidence": 0.16118321,
+          "isCurrentLocation": true
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 70,
+        "placeVisitType": "SINGLE_PLACE"
+      }, {
+        "location": {
+          "latitudeE7": 486973870,
+          "longitudeE7": 445023935,
+          "placeId": "ChIJVUm2olLLGkERJ4jCelwzGk4",
+          "address": "ТЦ \"Ворошиловский\", ул. Рабоче-Крестьянская, 9 Б, Волгоград, Волгоградская область, Россия, 400001",
+          "name": "Five stars",
+          "sourceInfo": {
+            "deviceTag": 833703901
+          },
+          "locationConfidence": 94.00017,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2017-03-04T12:53:27.162Z",
+          "endTimestamp": "2017-03-04T14:49:14.311Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 486972128,
+        "centerLngE7": 445025448,
+        "visitConfidence": 77,
+        "otherCandidateLocations": [{
+          "latitudeE7": 486968556,
+          "longitudeE7": 445015379,
+          "placeId": "ChIJv6ISlVLLGkERXttEGdIFr-g",
+          "name": "Торгушка",
+          "locationConfidence": 0.48384973,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486970279,
+          "longitudeE7": 445013398,
+          "placeId": "ChIJc-0P-lLLGkERZc3LkVuvjQk",
+          "address": "Рабоче-Крестьянская ул., 9 Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "КИНДЕР МОЛЛ, торговый центр",
+          "locationConfidence": 0.33516902,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486973508,
+          "longitudeE7": 445022178,
+          "placeId": "ChIJu6SnmVLLGkERUB8Iu3eIlaE",
+          "address": "ТЦ \"Ворошиловский\"\nРабоче-Крестьянская ул., 9Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Snow Berry \u0026 Juice Time",
+          "locationConfidence": 0.3231321,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486973447,
+          "longitudeE7": 445020424,
+          "placeId": "ChIJgzbtmVLLGkERNGFZuxJ7Odg",
+          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Царицынская Опера, Волгоградский Государственный Театр, Гук",
+          "locationConfidence": 0.28675836,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486975746,
+          "longitudeE7": 445016242,
+          "placeId": "ChIJ04qJBk3LGkER8_6WljjeOcs",
+          "address": "Рабоче-Крестьянская ул., 9/1\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Рынок оптово-розничной торговли",
+          "locationConfidence": 0.20853564,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486969609,
+          "longitudeE7": 445020468,
+          "placeId": "ChIJk2WNvVLLGkERwAd_mErii6g",
+          "address": "Рабоче-Крестьянская ул., 9б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Coffee Like",
+          "locationConfidence": 0.19139145,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486972983,
+          "longitudeE7": 445024977,
+          "placeId": "ChIJhU72vVLLGkER-lOrjiQOxb0",
+          "address": "ТЦ «Ворошиловский»\nРабоче-Крестьянская ул., 9Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "О\u0027КЕЙ",
+          "locationConfidence": 0.16382259,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486965704,
+          "longitudeE7": 445029947,
+          "placeId": "ChIJ-R_0sFLLGkERGe5sRlB_tHc",
+          "address": "ул. КИМ, 7\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Многоэтажная Авостоянка",
+          "locationConfidence": 0.13109764
+        }, {
+          "latitudeE7": 486971020,
+          "longitudeE7": 445024150,
+          "placeId": "ChIJVUm2olLLGkERfDdtcpPRdxc",
+          "address": "Рабоче-Крестьянская ул., 9Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Smart vision,",
+          "locationConfidence": 0.096564926,
+          "isCurrentLocation": true
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 76,
+        "placeVisitType": "SINGLE_PLACE"
+      }, {
+        "location": {
+          "latitudeE7": 486973870,
+          "longitudeE7": 445023935,
+          "placeId": "ChIJVUm2olLLGkERJ4jCelwzGk4",
+          "address": "ТЦ \"Ворошиловский\", ул. Рабоче-Крестьянская, 9 Б, Волгоград, Волгоградская область, Россия, 400001",
+          "name": "Five stars",
+          "sourceInfo": {
+            "deviceTag": 833703901
+          },
+          "locationConfidence": 31.64752,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2017-03-04T14:54:52.145Z",
+          "endTimestamp": "2017-03-04T15:00:56.222Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 486976350,
+        "centerLngE7": 445017800,
+        "visitConfidence": 58,
+        "otherCandidateLocations": [{
+          "latitudeE7": 486970279,
+          "longitudeE7": 445013398,
+          "placeId": "ChIJc-0P-lLLGkERZc3LkVuvjQk",
+          "address": "Рабоче-Крестьянская ул., 9 Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "КИНДЕР МОЛЛ, торговый центр",
+          "locationConfidence": 10.098649,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486978492,
+          "longitudeE7": 445019128,
+          "placeId": "ChIJU9yoI6K1GkERMIHcTixW4gs",
+          "address": "ул. КИМ, 7А\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Компьютерный супермаркет DNS",
+          "locationConfidence": 7.258536
+        }, {
+          "latitudeE7": 486974858,
+          "longitudeE7": 445016268,
+          "placeId": "ChIJ2YLxnFLLGkERlBEUC7ksbyc",
+          "address": "Рабоче-Крестьянская ул., 9\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Beefy Burgers",
+          "locationConfidence": 5.8678927,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486973203,
+          "longitudeE7": 445018504,
+          "placeId": "ChIJwY-rkFLLGkERp0gSLSr_zgE",
+          "address": "ул. КИМ 7 ТЦ Ворошиловский, 1 этаж\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Samsung",
+          "locationConfidence": 2.0416002,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486973170,
+          "longitudeE7": 445012590,
+          "placeId": "ChIJUZnrkVLLGkERuBm5zwvLgfw",
+          "address": "с\nРабоче-Крестьянская ул., 9 строение 1\nВолгоград\nВолгоградская обл.\nRussia\n400001",
+          "name": "Читай-город",
+          "locationConfidence": 1.9203273,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486977140,
+          "longitudeE7": 445018559,
+          "placeId": "ChIJTQmrhFLLGkERlZL4al_Hdfo",
+          "address": "ул. КИМ, 9\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Почта Банк, клиентский центр",
+          "locationConfidence": 1.8345177,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486975746,
+          "longitudeE7": 445016242,
+          "placeId": "ChIJ04qJBk3LGkER8_6WljjeOcs",
+          "address": "Рабоче-Крестьянская ул., 9/1\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+          "name": "Рынок оптово-розничной торговли",
+          "locationConfidence": 1.7983687,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486974449,
+          "longitudeE7": 445015808,
+          "placeId": "ChIJk-5zkFLLGkERvuQWoTsejnY",
+          "name": "Радуга Чудес",
+          "locationConfidence": 1.435203,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 486984547,
+          "longitudeE7": 445017144,
+          "placeId": "ChIJ15TbgU3LGkERTL7Xot0tGrE",
+          "locationConfidence": 1.3947974
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 26,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 486972412,
+      "centerLngE7": 445023181,
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": 486973170,
+        "longitudeE7": 445012590,
+        "placeId": "ChIJUZnrkVLLGkERuBm5zwvLgfw",
+        "address": "с\nРабоче-Крестьянская ул., 9 строение 1\nВолгоград\nВолгоградская обл.\nRussia\n400001",
+        "name": "Читай-город",
+        "locationConfidence": 0.0065068486,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 486973447,
+        "longitudeE7": 445020424,
+        "placeId": "ChIJgzbtmVLLGkERNGFZuxJ7Odg",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Царицынская Опера, Волгоградский Государственный Театр, Гук",
+        "locationConfidence": 0.0030905523,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 486971020,
+        "longitudeE7": 445024150,
+        "placeId": "ChIJk9RudyzLGkERzadZkDWGJ88",
+        "address": "ТЦ \"Ворошиловский\nРабоче-Крестьянская ул., 9Б, 3-й этаж\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Магазин подарочных изданий \"Открытая книга\"",
+        "locationConfidence": 0.0021363082,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 486974155,
+        "longitudeE7": 445019137,
+        "placeId": "ChIJQWs-mlLLGkERTWFfGItHx7o",
+        "address": "ТЦ \"Ворошиловский\"\nРабоче-Крестьянская ул., 9Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Промсвязьбанк",
+        "locationConfidence": 0.0020507306
+      }, {
+        "latitudeE7": 486970351,
+        "longitudeE7": 445013069,
+        "placeId": "ChIJ9Y2Ak1LLGkERSo8ovL2cG1c",
+        "name": "Комиксы",
+        "locationConfidence": 0.0017819398,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 486971020,
+        "longitudeE7": 445024150,
+        "placeId": "ChIJVUm2olLLGkER1rdKU1GvlOs",
+        "address": "Рабоче-Крестьянская ул., 9-Б, 3 этаж, комплекс Ворошиловский\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "COMIC STORE KARANDASH, магазин",
+        "locationConfidence": 0.001462692,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 486974566,
+        "longitudeE7": 445019114,
+        "placeId": "ChIJqQVGmlLLGkERGQw8B9OnPLc",
+        "name": "Альфа-Банк",
+        "locationConfidence": 0.0012059637
+      }, {
+        "latitudeE7": 486970428,
+        "longitudeE7": 445015109,
+        "placeId": "ChIJB5Ru8FLLGkERlNawGulCPkE",
+        "name": "Станция Профсоюзная(СТ-2)",
+        "locationConfidence": 0.0011978217,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 486979362,
+        "longitudeE7": 445010045,
+        "placeId": "ChIJsX0Yi1LLGkER943kA4lHFZc",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Profsoyuznaya",
+        "locationConfidence": 7.267934E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 486970753,
+          "lngE7": 445014944,
+          "accuracyMeters": 22,
+          "timestamp": "2017-03-04T11:51:16.940Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 24,
+          "timestamp": "2017-03-04T12:15:46.293Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 26,
+          "timestamp": "2017-03-04T12:17:48.247Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 26,
+          "timestamp": "2017-03-04T12:21:51.507Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 26,
+          "timestamp": "2017-03-04T12:23:53.095Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 24,
+          "timestamp": "2017-03-04T12:40:52.795Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 29,
+          "timestamp": "2017-03-04T12:55:27.701Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 30,
+          "timestamp": "2017-03-04T12:57:29.146Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 29,
+          "timestamp": "2017-03-04T13:30:01.093Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 27,
+          "timestamp": "2017-03-04T13:37:05.879Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 26,
+          "timestamp": "2017-03-04T13:52:42.838Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 26,
+          "timestamp": "2017-03-04T13:57:44.152Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 26,
+          "timestamp": "2017-03-04T14:08:46.140Z"
+        }, {
+          "latE7": 486972777,
+          "lngE7": 445024842,
+          "accuracyMeters": 26,
+          "timestamp": "2017-03-04T14:10:46.589Z"
+        }, {
+          "latE7": 486982091,
+          "lngE7": 445018778,
+          "accuracyMeters": 24,
+          "timestamp": "2017-03-04T14:58:54.060Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 585.48014930366
+      },
+      "locationConfidence": 92,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 486968685,
+        "longitudeE7": 445015544
+      },
+      "endLocation": {
+        "latitudeE7": 487000649,
+        "longitudeE7": 444919270
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T15:00:56.222Z",
+        "endTimestamp": "2017-03-04T15:33:20.389Z"
+      },
+      "distance": 4281,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 96.40237357284909
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.1556708551718604
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.1543366665677044
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 486982727,
+          "lngE7": 445017852
+        }, {
+          "latE7": 487051429,
+          "lngE7": 445096244
+        }, {
+          "latE7": 487054710,
+          "lngE7": 445138702
+        }, {
+          "latE7": 486951179,
+          "lngE7": 444958419
+        }, {
+          "latE7": 486988677,
+          "lngE7": 444927101
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 939.5515763982407,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 487050438,
+          "lngE7": 445094376,
+          "accuracyMeters": 50,
+          "timestamp": "2017-03-04T15:07:01.134Z"
+        }, {
+          "latE7": 487052650,
+          "lngE7": 445141983,
+          "accuracyMeters": 50,
+          "timestamp": "2017-03-04T15:19:09.214Z"
+        }, {
+          "latE7": 486952248,
+          "lngE7": 444959602,
+          "accuracyMeters": 25,
+          "timestamp": "2017-03-04T15:27:15.652Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487000649,
+        "longitudeE7": 444919270,
+        "placeId": "ChIJRyiaVVDLGkERt3k3o4Pwl-c",
+        "address": "Академическая ул., 30\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Академическая ул., 30",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 99.73979
+      },
+      "duration": {
+        "startTimestamp": "2017-03-04T15:33:20.389Z",
+        "endTimestamp": "2017-03-05T05:42:45.103Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 487000159,
+      "centerLngE7": 444919295,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 486996344,
+        "longitudeE7": 444916190,
+        "placeId": "ChIJsUn7AVHLGkERdi4RtYTwaO0",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "",
+        "locationConfidence": 0.08105619
+      }, {
+        "latitudeE7": 487005400,
+        "longitudeE7": 444914570,
+        "placeId": "ChIJRTOcP1HLGkERTFw7nLeKBxU",
+        "address": "Академическая ул., д. 32\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Клуб туристов",
+        "locationConfidence": 0.011288139
+      }, {
+        "latitudeE7": 487004599,
+        "longitudeE7": 444924217,
+        "placeId": "ChIJrz2sP1DLGkERIT-uoWzhdN8",
+        "address": "Профсоюзная ул., 23А\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Kindergarten № 199",
+        "locationConfidence": 0.010353717
+      }, {
+        "latitudeE7": 487013468,
+        "longitudeE7": 444921014,
+        "placeId": "ChIJL4OPP1DLGkERZBnj8KHcTFQ",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "",
+        "locationConfidence": 0.0091040665
+      }, {
+        "latitudeE7": 487005571,
+        "longitudeE7": 444937646,
+        "placeId": "ChIJoUiIylHLGkER2OkbMhzXXCw",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Железный Магазин",
+        "locationConfidence": 0.00872898
+      }, {
+        "latitudeE7": 486998017,
+        "longitudeE7": 444914850,
+        "placeId": "ChIJcw0zQFPLGkER9s-uxufkDf4",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "Питание",
+        "locationConfidence": 0.008327316
+      }, {
+        "latitudeE7": 486995364,
+        "longitudeE7": 444893718,
+        "placeId": "ChIJbZDT6VDLGkERtoz5TJgo2m0",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+        "name": "Моздокская",
+        "locationConfidence": 0.0077297916
+      }, {
+        "latitudeE7": 487012654,
+        "longitudeE7": 444946447,
+        "placeId": "ChIJeU1ZK1DLGkERBqesiP7X47Q",
+        "locationConfidence": 0.005781146
+      }, {
+        "latitudeE7": 486997954,
+        "longitudeE7": 444945422,
+        "placeId": "ChIJTUKOvlHLGkERKu9omst-wyM",
+        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "name": "",
+        "locationConfidence": 0.0053229635
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 91,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}
