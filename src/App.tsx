@@ -22,7 +22,7 @@ function App() {
         console.log(allLocations);
 
         setData(allLocations);
-    });
+    }, []);
 
     return (
         <div className="App">
