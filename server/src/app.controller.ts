@@ -6,18 +6,12 @@ import { AppService } from './app.service';
 export class AppController {
   constructor(private readonly appService: AppService) {}
 
-  @Get('/dateIntervals')
-  getDateIntervals(@Req() request: Request) {
-    return this.appService.getDateIntervals();
-  }
-
-  @Get('/date')
-  getByDateInterval(
+  @Get('/availableDate')
+  getAvailableDateIntervals(
     @Req()
     request: Request<any, any, any, { startDate: string; endDate: string }>,
   ) {
-    const { startDate, endDate } = request.query;
-    return this.appService.getLocationsByInterval(startDate, endDate);
+    return this.appService.getDateIntervals();
   }
 
   @Get('/month')
@@ -26,5 +20,13 @@ export class AppController {
   ) {
     const { month, year } = request.query;
     return this.appService.getLocationByConcreteMonth(month, year);
+  }
+
+  @Get('/interval')
+  getByInterval(
+    @Req() request: Request<any, any, any, { startDate: string; endDate: string }>,
+  ) {
+    const { startDate, endDate } = request.query;
+    return this.appService.getAvailableDateIntervals(startDate, endDate);
   }
 }

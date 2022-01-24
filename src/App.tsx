@@ -3,12 +3,25 @@ import React, { useEffect, useState } from 'react';
 import { LocationsMap } from './components/Map';
 
 const api = new ApiInteractionService('http://localhost:8080');
+
 function App() {
     const [data, setData] = useState([]);
     useEffect(async () => {
-        const res = await api.get('/month', { month: 'october', year: 2021 });
-        console.log(res);
-        setData(res.right.timelineObjects);
+        const { right } = await api.get('/availableDate');
+        const { availableDates } = right;
+        console.log(availableDates);
+
+        const res = await api.get('/interval', {
+            startDate: `${availableDates[0].month}.${availableDates[0].year}`,
+            endDate: `${availableDates[availableDates.length - 1].month}.${
+                availableDates[availableDates.length - 1].year
+            }`,
+        });
+
+        const allLocations = res.right.timelineObjects;
+        console.log(allLocations);
+
+        setData(allLocations);
     });
 
     return (
