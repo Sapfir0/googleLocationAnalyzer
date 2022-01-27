@@ -6,7 +6,6 @@ import './Map.css';
 
 export interface ILocationMapProps {
     coordinates: LocationView[];
-    monthsCount: number;
 }
 
 export function LocationsMap(props: ILocationMapProps) {

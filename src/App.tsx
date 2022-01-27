@@ -1,11 +1,22 @@
 import { ApiInteractionService } from 'api_interaction_services';
 import React, { useEffect, useState } from 'react';
 import { LocationsMap } from './components/Map';
+import LocationsParserWorker from './services/locationsParserWorker';
+import WorkerBuilder from './services/workerBuilder';
 
 const api = new ApiInteractionService('http://localhost:8080');
 
 function App() {
     const [data, setData] = useState([]);
+    const instance = new WorkerBuilder(LocationsParserWorker);
+
+    instance.onmessage = (message) => {
+        if (message) {
+            console.log('Message from worker', message.data);
+            setData(message.data);
+        }
+    };
+
     useEffect(async () => {
         const { right } = await api.get('/availableDate');
         const { availableDates } = right;
@@ -18,10 +29,8 @@ function App() {
             }`,
         });
 
-        const allLocations = res.right.timelineObjects;
-        console.log(allLocations);
-
-        setData(allLocations);
+        console.log(res.right);
+        instance.postMessage(res.right);
     }, []);
 
     return (

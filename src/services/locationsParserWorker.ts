@@ -1,39 +1,31 @@
-import { Location, LocationView } from 'typings/common';
-
+import { scale } from 'chroma-js';
 
 export default () => {
-
-    const getUniqueMonths = (locations: { timestamp: Date }[]) => {
-        return new Set<string>(
-            locations.reduce((months: string[], loc) => {
-                months.push(`${loc.timestamp.getFullYear()}.${loc.timestamp.getMonth()}`);
-                return months;
-            }, []),
-        );
+    const getColorList = (yearCount: number) => {
+        const colorGradient = ['red', 'blue'];
+        return scale(colorGradient).mode('lch').colors(yearCount);
     };
 
-    const getMonthToColorMap = (locations: Omit<LocationView, 'color'>[]) => {
-        const uniqueMonts = getUniqueMonths(locations.map((loc) => ({ timestamp: loc.timestamp })));
-        const colorList = getColorList(uniqueMonts.size);
-        const monthsToColor = new Map();
+    const addColorProp = (colors: string[], years: string[], location) => {
+        const map = new Map();
 
-        let i = 0;
-        for (const month of uniqueMonts.keys()) {
-            monthsToColor.set(month, colorList[i]);
-            i++;
+
+        for (let i = 0; i < colors.length; i++) {
+            map.set(years[i], colors[i]);
         }
-        return monthsToColor;
-    };
+        const d = new Date(location.duration.startTimestamp);
 
+        return {
+            ...location,
+            color: map.get(d.getFullYear()),
+        };
+    };
 
     self.onmessage = (message) => {
         console.log(message.data);
-
-        const data = JSON.parse(message.data, (key: string, value: any) => {
-            console.log(key, value);
-        });
+        const colors = getColorList(message.data.years.length);
         console.time();
-        const result = parseLocationHistory(data.locations);
+        const result = message.data.timelineObjects.map((loc) => addColorProp(colors, message.data.years, loc));
         console.timeEnd();
         postMessage(result);
     };
