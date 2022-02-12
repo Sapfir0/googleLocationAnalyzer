@@ -1,11 +1,11 @@
-import { PlaceVisit } from "../typings/common";
+import { PlaceVisit } from '../typings/common';
 
 export default () => {
     const addColorProp = (colors: string[], years: string[], location: PlaceVisit) => {
         const map = new Map();
 
         for (let i = 0; i < colors.length; i++) {
-            map.set(years[i], colors[i]);
+            map.set(Number.parseInt(years[i]), colors[i]);
         }
         const d = new Date(location.duration.startTimestamp);
 
@@ -15,12 +15,12 @@ export default () => {
         };
     };
 
-    self.onmessage = (message: {data: {years: string[], colors: string[], timelineObjects: PlaceVisit[]}}) => {
-        const {years, colors, timelineObjects} = message.data
+    self.onmessage = (message: { data: { years: string[]; colors: string[]; timelineObjects: PlaceVisit[] } }) => {
+        const { years, colors, timelineObjects } = message.data;
         console.log(message.data);
         console.time();
         const result = timelineObjects.map((loc) => addColorProp(colors, years, loc));
         console.timeEnd();
-        postMessage({timelineObjects: result, colors, years});
+        postMessage(result);
     };
 };

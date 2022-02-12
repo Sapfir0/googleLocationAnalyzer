@@ -1,3 +1,4 @@
+import { ColoredPlaceVisit } from "components/Map";
 
 export interface PlaceVisit {
     centerLatE7: number;
@@ -22,3 +23,9 @@ export interface PlaceVisit {
       calibratedProbability: number;
     };
   }
+
+export type LocationInfo = {
+    timelineObjects: ColoredPlaceVisit[]
+    years: string[]
+    colors: string[]
+}
