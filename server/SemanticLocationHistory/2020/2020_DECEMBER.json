@@ -890,8 +890,6 @@
         "latitudeE7": 487025320,
         "longitudeE7": 444908000,
         "placeId": "ChIJ6Yagp1rLGkERjQEql3PHKuU",
-        "address": "Ростовская ул., 9А\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
-        "name": "Radezh",
         "locationConfidence": 11.54918,
         "calibratedProbability": 9.737341
       }, {
@@ -982,8 +980,6 @@
             }, {
               "location": {
                 "placeId": "ChIJ6Yagp1rLGkERjQEql3PHKuU",
-                "address": "Ростовская ул., 9А\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
-                "name": "Radezh",
                 "locationConfidence": 11.54918
               }
             }]
@@ -2242,8 +2238,6 @@
         "latitudeE7": 487025320,
         "longitudeE7": 444908000,
         "placeId": "ChIJ6Yagp1rLGkERjQEql3PHKuU",
-        "address": "Ростовская ул., 9А\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
-        "name": "Radezh",
         "locationConfidence": 0.35495913,
         "calibratedProbability": 0.32104886
       }, {
@@ -2730,8 +2724,6 @@
         "latitudeE7": 487025320,
         "longitudeE7": 444908000,
         "placeId": "ChIJ6Yagp1rLGkERjQEql3PHKuU",
-        "address": "Ростовская ул., 9А\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
-        "name": "Radezh",
         "locationConfidence": 0.34687242,
         "calibratedProbability": 0.31739923
       }, {

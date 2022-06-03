@@ -626,7 +626,6 @@
         "latitudeE7": 486936040,
         "longitudeE7": 444949090,
         "placeId": "ChIJk6cg61TLGkERKfxTv3Y1qM8",
-        "address": "ул. Огарева, д. 7\nВолгоград\nВолгоградская обл.\nРоссия\n400074",
         "name": "БИНБАНК",
         "locationConfidence": 0.027608598
       }, {
@@ -756,7 +755,6 @@
         "latitudeE7": 486993575,
         "longitudeE7": 444939844,
         "placeId": "ChIJcUFbolHLGkERNMbNH5Vs-Co",
-        "address": "Социалистическая ул., 17\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
         "name": "Волга-Кредит банк",
         "locationConfidence": 0.06375258
       }, {
@@ -873,7 +871,6 @@
         "latitudeE7": 487025320,
         "longitudeE7": 444908000,
         "placeId": "ChIJ6Yagp1rLGkERjQEql3PHKuU",
-        "address": "Ростовская ул., 9А\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
         "name": "Радеж",
         "locationConfidence": 0.29120004
       }, {

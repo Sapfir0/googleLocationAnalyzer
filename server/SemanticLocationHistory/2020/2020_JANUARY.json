@@ -2687,8 +2687,6 @@
         "latitudeE7": 487134239,
         "longitudeE7": 444999435,
         "placeId": "ChIJZRFLyzjLGkERupk2Xt_u--Q",
-        "address": "Голубинская ул., 16\nВолгоград\nВолгоградская обл.\nРоссия\n400131",
-        "name": "Radezh",
         "locationConfidence": 3.7229445,
         "calibratedProbability": 1.8372419
       }, {
@@ -8125,7 +8123,7 @@
         "longitudeE7": 376245762,
         "placeId": "ChIJh732zFdKtUYRod7CnuAhGrk",
         "address": "Большой Москворецкий\nмост\nМосква\nРоссия\n115035",
-        "name": "Bol\u0027shoy Moskvoretskiy",
+        "name": "Bolshoy Moskvoretsky Bridge",
         "locationConfidence": 4.0434766,
         "calibratedProbability": 2.112175
       }],
@@ -9598,7 +9596,7 @@
         "longitudeE7": 375862569,
         "placeId": "ChIJ-ZmtY8tLtUYR2j2OlH_tL08",
         "address": "Пушкинская наб.\nМосква\nРоссия\n119146",
-        "name": "Нескучный Сад",
+        "name": "Neskuchny Garden",
         "locationConfidence": 8.280307,
         "calibratedProbability": 4.342661
       }, {

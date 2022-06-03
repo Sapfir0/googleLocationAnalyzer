@@ -1,0 +1,503 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487020146,
+        "longitudeE7": 444840834
+      },
+      "endLocation": {
+        "latitudeE7": 487000614,
+        "longitudeE7": 444920037
+      },
+      "duration": {
+        "startTimestamp": "2016-09-11T12:47:40.558Z",
+        "endTimestamp": "2016-09-11T13:00:37.316Z"
+      },
+      "distance": 620,
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 62.85712897679841
+      }, {
+        "activityType": "WALKING",
+        "probability": 29.73082071621937
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.929457245462721
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487020454,
+          "lngE7": 444840431
+        }, {
+          "latE7": 486999130,
+          "lngE7": 444922142
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 955.1362901696068,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 486999790,
+        "longitudeE7": 444917700,
+        "placeId": "ChIJRyiaVVDLGkERt3k3o4Pwl-c",
+        "address": "Академическая улица, 30, Волгоград, город Волгоград, Волгоградская область, Россия",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 97.847626
+      },
+      "duration": {
+        "startTimestamp": "2016-09-11T13:10:54.460Z",
+        "endTimestamp": "2016-09-11T16:22:31.278Z"
+      },
+      "centerLatE7": 487000450,
+      "centerLngE7": 444919838,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 486996344,
+        "longitudeE7": 444916190,
+        "placeId": "ChIJsUn7AVHLGkERdi4RtYTwaO0",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "locationConfidence": 1.3556925
+      }, {
+        "latitudeE7": 486998017,
+        "longitudeE7": 444914850,
+        "placeId": "ChIJcw0zQFPLGkER9s-uxufkDf4",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Питание",
+        "locationConfidence": 0.09778252
+      }, {
+        "latitudeE7": 487013468,
+        "longitudeE7": 444921014,
+        "placeId": "ChIJL4OPP1DLGkERZBnj8KHcTFQ",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "locationConfidence": 0.09068493
+      }, {
+        "latitudeE7": 486990120,
+        "longitudeE7": 444950390,
+        "placeId": "ChIJby9LhVHLGkER33Vemqm9K9Q",
+        "address": "Профсоюзная ул., 13, Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Hampton by Hilton Volgograd Profsoyuznaya",
+        "locationConfidence": 0.089489914
+      }, {
+        "latitudeE7": 487004599,
+        "longitudeE7": 444924217,
+        "placeId": "ChIJrz2sP1DLGkERIT-uoWzhdN8",
+        "address": "Профсоюзная ул., 23А, Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Детский сад № 199",
+        "locationConfidence": 0.07260479
+      }, {
+        "latitudeE7": 486998017,
+        "longitudeE7": 444892041,
+        "placeId": "ChIJU2is61DLGkERzJVj30rh2g0",
+        "name": "Гриль",
+        "locationConfidence": 0.04700166
+      }, {
+        "latitudeE7": 486993539,
+        "longitudeE7": 444951734,
+        "placeId": "ChIJkbVukVHLGkERIEbCSloD07M",
+        "address": "Профсоюзная ул., 13, Волгоград, Волгоградская обл., Россия, 400074",
+        "name": "Volga Hall, банкетный зал",
+        "locationConfidence": 0.045161754
+      }, {
+        "latitudeE7": 486997954,
+        "longitudeE7": 444945422,
+        "placeId": "ChIJTUKOvlHLGkERKu9omst-wyM",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "locationConfidence": 0.027485399
+      }, {
+        "latitudeE7": 486998660,
+        "longitudeE7": 444892041,
+        "placeId": "ChIJK0YM61DLGkEROpUarNFiQJA",
+        "address": "Волгоград, Волгоградская обл., Россия, 400120",
+        "locationConfidence": 0.027153967
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 86,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 486999790,
+        "longitudeE7": 444917700
+      },
+      "endLocation": {
+        "latitudeE7": 487019697,
+        "longitudeE7": 444951942
+      },
+      "duration": {
+        "startTimestamp": "2016-09-11T16:22:31.278Z",
+        "endTimestamp": "2016-09-11T19:35:28.887Z"
+      },
+      "distance": 334,
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 40.57572350864381
+      }, {
+        "activityType": "WALKING",
+        "probability": 31.040057185155987
+      }, {
+        "activityType": "CYCLING",
+        "probability": 16.458348735025538
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487001190,
+          "lngE7": 444915885
+        }, {
+          "latE7": 487021217,
+          "lngE7": 444949760
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 451.6111281719172,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 486999790,
+        "longitudeE7": 444917700,
+        "placeId": "ChIJRyiaVVDLGkERt3k3o4Pwl-c",
+        "address": "Академическая улица, 30, Волгоград, город Волгоград, Волгоградская область, Россия",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 97.512375
+      },
+      "duration": {
+        "startTimestamp": "2016-09-12T20:51:19.948Z",
+        "endTimestamp": "2016-09-13T05:34:41.163Z"
+      },
+      "centerLatE7": 487002042,
+      "centerLngE7": 444922644,
+      "visitConfidence": 40,
+      "otherCandidateLocations": [{
+        "latitudeE7": 486996344,
+        "longitudeE7": 444916190,
+        "placeId": "ChIJsUn7AVHLGkERdi4RtYTwaO0",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "locationConfidence": 1.0334835
+      }, {
+        "latitudeE7": 486990120,
+        "longitudeE7": 444950390,
+        "placeId": "ChIJby9LhVHLGkER33Vemqm9K9Q",
+        "address": "Профсоюзная ул., 13, Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Hampton by Hilton Volgograd Profsoyuznaya",
+        "locationConfidence": 0.30472845
+      }, {
+        "latitudeE7": 487004599,
+        "longitudeE7": 444924217,
+        "placeId": "ChIJrz2sP1DLGkERIT-uoWzhdN8",
+        "address": "Профсоюзная ул., 23А, Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Детский сад № 199",
+        "locationConfidence": 0.25666177
+      }, {
+        "latitudeE7": 487013468,
+        "longitudeE7": 444921014,
+        "placeId": "ChIJL4OPP1DLGkERZBnj8KHcTFQ",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "locationConfidence": 0.14790516
+      }, {
+        "latitudeE7": 486999335,
+        "longitudeE7": 444934439,
+        "placeId": "ChIJ_cVLsFHLGkERDre_nuKZrAY",
+        "address": "Профсоюзная ул., 17/1, Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Hostel Friends",
+        "locationConfidence": 0.091344886
+      }, {
+        "latitudeE7": 486997954,
+        "longitudeE7": 444945422,
+        "placeId": "ChIJTUKOvlHLGkERKu9omst-wyM",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "locationConfidence": 0.058299948
+      }, {
+        "latitudeE7": 486998017,
+        "longitudeE7": 444892041,
+        "placeId": "ChIJU2is61DLGkERzJVj30rh2g0",
+        "name": "Гриль",
+        "locationConfidence": 0.04843247
+      }, {
+        "latitudeE7": 486993539,
+        "longitudeE7": 444951734,
+        "placeId": "ChIJkbVukVHLGkERIEbCSloD07M",
+        "address": "Профсоюзная ул., 13, Волгоград, Волгоградская обл., Россия, 400074",
+        "name": "Volga Hall, банкетный зал",
+        "locationConfidence": 0.047181338
+      }, {
+        "latitudeE7": 487005571,
+        "longitudeE7": 444937646,
+        "placeId": "ChIJoUiIylHLGkER2OkbMhzXXCw",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Железный Магазин",
+        "locationConfidence": 0.046553586
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 86,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 486999790,
+        "longitudeE7": 444917700,
+        "placeId": "ChIJRyiaVVDLGkERt3k3o4Pwl-c",
+        "address": "Академическая улица, 30, Волгоград, город Волгоград, Волгоградская область, Россия",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 97.553665
+      },
+      "duration": {
+        "startTimestamp": "2016-09-19T06:16:32.763Z",
+        "endTimestamp": "2016-09-20T05:11:55.440Z"
+      },
+      "centerLatE7": 487002223,
+      "centerLngE7": 444916558,
+      "visitConfidence": 85,
+      "otherCandidateLocations": [{
+        "latitudeE7": 486996344,
+        "longitudeE7": 444916190,
+        "placeId": "ChIJsUn7AVHLGkERdi4RtYTwaO0",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "locationConfidence": 1.2961133
+      }, {
+        "latitudeE7": 487004599,
+        "longitudeE7": 444924217,
+        "placeId": "ChIJrz2sP1DLGkERIT-uoWzhdN8",
+        "address": "Профсоюзная ул., 23А, Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Детский сад № 199",
+        "locationConfidence": 0.19781199
+      }, {
+        "latitudeE7": 486990120,
+        "longitudeE7": 444950390,
+        "placeId": "ChIJby9LhVHLGkER33Vemqm9K9Q",
+        "address": "Профсоюзная ул., 13, Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Hampton by Hilton Volgograd Profsoyuznaya",
+        "locationConfidence": 0.17391157
+      }, {
+        "latitudeE7": 487013468,
+        "longitudeE7": 444921014,
+        "placeId": "ChIJL4OPP1DLGkERZBnj8KHcTFQ",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "locationConfidence": 0.13990948
+      }, {
+        "latitudeE7": 486998017,
+        "longitudeE7": 444914850,
+        "placeId": "ChIJcw0zQFPLGkER9s-uxufkDf4",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Питание",
+        "locationConfidence": 0.08000541
+      }, {
+        "latitudeE7": 486998017,
+        "longitudeE7": 444892041,
+        "placeId": "ChIJU2is61DLGkERzJVj30rh2g0",
+        "name": "Гриль",
+        "locationConfidence": 0.065600805
+      }, {
+        "latitudeE7": 486999335,
+        "longitudeE7": 444934439,
+        "placeId": "ChIJ_cVLsFHLGkERDre_nuKZrAY",
+        "address": "Профсоюзная ул., 17/1, Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Hostel Friends",
+        "locationConfidence": 0.044265438
+      }, {
+        "latitudeE7": 486998660,
+        "longitudeE7": 444892041,
+        "placeId": "ChIJK0YM61DLGkEROpUarNFiQJA",
+        "address": "Волгоград, Волгоградская обл., Россия, 400120",
+        "locationConfidence": 0.036024146
+      }, {
+        "latitudeE7": 486993539,
+        "longitudeE7": 444951734,
+        "placeId": "ChIJkbVukVHLGkERIEbCSloD07M",
+        "address": "Профсоюзная ул., 13, Волгоград, Волгоградская обл., Россия, 400074",
+        "name": "Volga Hall, банкетный зал",
+        "locationConfidence": 0.03416475
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 86,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487000972,
+        "longitudeE7": 444919740
+      },
+      "endLocation": {
+        "latitudeE7": 487076259,
+        "longitudeE7": 445024504
+      },
+      "duration": {
+        "startTimestamp": "2016-09-20T05:11:55.440Z",
+        "endTimestamp": "2016-09-20T05:30:54.270Z"
+      },
+      "distance": 800,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 63.92577310061418
+      }, {
+        "activityType": "WALKING",
+        "probability": 17.826862556707315
+      }, {
+        "activityType": "CYCLING",
+        "probability": 12.870025802438281
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487002334,
+          "lngE7": 444917907
+        }, {
+          "latE7": 487082824,
+          "lngE7": 445023956
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2094.9874370814787,
+        "travelMode": "DRIVE",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487053656,
+        "longitudeE7": 444993314
+      },
+      "endLocation": {
+        "latitudeE7": 487158285,
+        "longitudeE7": 445165757
+      },
+      "duration": {
+        "startTimestamp": "2016-09-20T05:30:54.270Z",
+        "endTimestamp": "2016-09-20T06:15:41.839Z"
+      },
+      "distance": 1780,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 66.9132764780844
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 14.439469480271036
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 10.748146656081477
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487057075,
+          "lngE7": 444992485
+        }, {
+          "latE7": 487155189,
+          "lngE7": 445164833
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 3142.47355565652,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487158285,
+        "longitudeE7": 445165757,
+        "placeId": "ChIJJVJyqzrLGkERaBSmH_M8c4Q",
+        "address": "ул. Михаила Балонина, 11, Волгоград, Волгоградская область, Россия, 400087",
+        "name": "Volgograd",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 20.424372
+      },
+      "duration": {
+        "startTimestamp": "2016-09-20T06:15:41.839Z",
+        "endTimestamp": "2016-09-20T07:35:48.533Z"
+      },
+      "centerLatE7": 487152307,
+      "centerLngE7": 445158388,
+      "visitConfidence": 78,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487141310,
+        "longitudeE7": 445192512,
+        "placeId": "ChIJp8v2LjDLGkERisreczjjfcI",
+        "address": "Коммунистическая ул., 13 а, Волгоград, Волгоградская обл., Россия, 400066",
+        "name": "Приволжская железная дорога, филиал ОАО \"РЖД\", локомотивное депо ст. Волгоград-1",
+        "locationConfidence": 16.20852
+      }, {
+        "latitudeE7": 487167527,
+        "longitudeE7": 445179160,
+        "placeId": "ChIJi_0aXSXLGkERsHX0M66S50Y",
+        "locationConfidence": 8.320463
+      }, {
+        "latitudeE7": 487129800,
+        "longitudeE7": 445178095,
+        "placeId": "ChIJbU-7sjHLGkERiaKX9nKKYVk",
+        "address": "Коммунистическая ул., 24, Волгоград, Волгоградская обл., Россия, 400131",
+        "name": "Царицынский пассаж",
+        "locationConfidence": 4.751081
+      }, {
+        "latitudeE7": 487175621,
+        "longitudeE7": 445174540,
+        "placeId": "ChIJK-NmEyXLGkERremiJN1XvXA",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
+        "locationConfidence": 4.169807
+      }, {
+        "latitudeE7": 487148219,
+        "longitudeE7": 445152114,
+        "placeId": "ChIJMx4_njrLGkERgWPcJNzr6k8",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
+        "locationConfidence": 3.996614
+      }, {
+        "latitudeE7": 487132764,
+        "longitudeE7": 445192990,
+        "placeId": "ChIJewouyjHLGkERn-KL5zfS-N8",
+        "address": "Волгоград, Волгоградская обл., Россия, 400005",
+        "locationConfidence": 3.5480347
+      }, {
+        "latitudeE7": 487128748,
+        "longitudeE7": 445192676,
+        "placeId": "ChIJbeFvtzHLGkERvYp3YJVBpK8",
+        "address": "Волгоград, Волгоградская обл., Россия, 400005",
+        "locationConfidence": 2.728666
+      }, {
+        "latitudeE7": 487157364,
+        "longitudeE7": 445223958,
+        "placeId": "ChIJBQ36ri_LGkERaninfiD0Iag",
+        "address": "Коммунистическая ул., 19Д, офис 335, Волгоград, Волгоградская обл., Россия, 400131",
+        "name": "Негосударственный пенсионный фонд электроэнергетики",
+        "locationConfidence": 1.8733916
+      }, {
+        "latitudeE7": 487139224,
+        "longitudeE7": 445217577,
+        "placeId": "ChIJRTrwwUzLGkERDR2T5x6CI4Y",
+        "name": "Федеральная кадастровая палата Федеральной службы государственной регистрации, кадастра и картографии",
+        "locationConfidence": 1.8260288
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 23,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

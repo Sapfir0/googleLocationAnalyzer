@@ -1798,8 +1798,6 @@
         "latitudeE7": 487175150,
         "longitudeE7": 445077570,
         "placeId": "ChIJm2t4gTzLGkER8yDRUTSJsMo",
-        "address": "ул. Невская, 11а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Vtb Strakhovaniye",
         "locationConfidence": 0.46949613,
         "calibratedProbability": 0.45293605
       }, {
@@ -2297,8 +2295,6 @@
         "latitudeE7": 487175150,
         "longitudeE7": 445077570,
         "placeId": "ChIJm2t4gTzLGkER8yDRUTSJsMo",
-        "address": "ул. Невская, 11а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Vtb Strakhovaniye",
         "locationConfidence": 0.5031321,
         "calibratedProbability": 0.55738664
       }],
@@ -5832,8 +5828,6 @@
         "latitudeE7": 487175150,
         "longitudeE7": 445077570,
         "placeId": "ChIJm2t4gTzLGkER8yDRUTSJsMo",
-        "address": "ул. Невская, 11а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Vtb Strakhovaniye",
         "locationConfidence": 0.39712167,
         "calibratedProbability": 0.34951517
       }],

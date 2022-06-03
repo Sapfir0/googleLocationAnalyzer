@@ -569,8 +569,6 @@
         "latitudeE7": 487179250,
         "longitudeE7": 445075130,
         "placeId": "ChIJb7jgjjzLGkERZac_oQ7KkB0",
-        "address": "ул. Невская, 13А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Perepelitsyna I.s.",
         "locationConfidence": 0.6345154,
         "calibratedProbability": 0.62882733
       }, {
@@ -6001,8 +5999,6 @@
         "latitudeE7": 487179250,
         "longitudeE7": 445075130,
         "placeId": "ChIJb7jgjjzLGkERZac_oQ7KkB0",
-        "address": "ул. Невская, 13А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Perepelitsyna I.s.",
         "locationConfidence": 1.5165216,
         "calibratedProbability": 1.5141618
       }, {
@@ -6524,8 +6520,6 @@
         "latitudeE7": 487175150,
         "longitudeE7": 445077570,
         "placeId": "ChIJm2t4gTzLGkER8yDRUTSJsMo",
-        "address": "ул. Невская, 11а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Vtb Strakhovaniye",
         "locationConfidence": 0.6559813,
         "calibratedProbability": 0.8859881
       }, {

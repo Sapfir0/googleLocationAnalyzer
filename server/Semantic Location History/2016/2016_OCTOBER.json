@@ -1,0 +1,172 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487167867,
+        "longitudeE7": 445150462,
+        "placeId": "ChIJL8OyMyXLGkERN1y2kcgcEFs",
+        "address": "ул. Пархоменко, 23, Волгоград, Волгоградская область, Россия, 400087",
+        "name": "School number 10",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 52.01036
+      },
+      "duration": {
+        "startTimestamp": "2016-10-07T05:59:28.902Z",
+        "endTimestamp": "2016-10-07T07:46:57.966Z"
+      },
+      "centerLatE7": 487170102,
+      "centerLngE7": 445152415,
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487174283,
+        "longitudeE7": 445128129,
+        "placeId": "ChIJo_YILjvLGkEReo_596nNdg4",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
+        "locationConfidence": 4.261339
+      }, {
+        "latitudeE7": 487158285,
+        "longitudeE7": 445165757,
+        "placeId": "ChIJJVJyqzrLGkERaBSmH_M8c4Q",
+        "address": "ул. М. Балонина, 11, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Volgograd",
+        "locationConfidence": 4.2373877
+      }, {
+        "latitudeE7": 487160100,
+        "longitudeE7": 445140760,
+        "placeId": "ChIJN91MwTrLGkERaFIWS6CJDvM",
+        "address": "ул. Пархоменко, 19, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Vet clinic",
+        "locationConfidence": 4.1355824
+      }, {
+        "latitudeE7": 487161410,
+        "longitudeE7": 445144236,
+        "placeId": "ChIJgTJEwTrLGkERkj1CllArJ58",
+        "address": "ул. Пархоменко, 19, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Детская клиническая поликлиника № 15",
+        "locationConfidence": 2.7974892
+      }, {
+        "latitudeE7": 487167473,
+        "longitudeE7": 445132694,
+        "placeId": "ChIJ2zw02DrLGkERm2FmbRbKoeE",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
+        "locationConfidence": 2.7447286
+      }, {
+        "latitudeE7": 487175621,
+        "longitudeE7": 445174540,
+        "placeId": "ChIJK-NmEyXLGkERremiJN1XvXA",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
+        "locationConfidence": 2.4195917
+      }, {
+        "latitudeE7": 487175739,
+        "longitudeE7": 445129701,
+        "placeId": "ChIJYbKBMjvLGkERzG2rPR5hsac",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
+        "locationConfidence": 2.3190997
+      }, {
+        "latitudeE7": 487164037,
+        "longitudeE7": 445123469,
+        "placeId": "ChIJtZUX4DrLGkERr9BdJzA33hA",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
+        "locationConfidence": 2.231732
+      }, {
+        "latitudeE7": 487170409,
+        "longitudeE7": 445134653,
+        "placeId": "ChIJOcJH1jrLGkER4NbZHFpO3dc",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Клиническая поликлиника № 12",
+        "locationConfidence": 2.201257
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487000972,
+        "longitudeE7": 444919740,
+        "placeId": "ChIJRyiaVVDLGkERt3k3o4Pwl-c",
+        "address": "Академическая ул., 30, Волгоград, Волгоградская обл., Россия, 400001",
+        "sourceInfo": {
+          "deviceTag": 833703901
+        },
+        "locationConfidence": 98.44076
+      },
+      "duration": {
+        "startTimestamp": "2016-10-22T14:24:30.752Z",
+        "endTimestamp": "2016-10-22T19:03:23.148Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 487000139,
+      "centerLngE7": 444919300,
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": 486996344,
+        "longitudeE7": 444916190,
+        "placeId": "ChIJsUn7AVHLGkERdi4RtYTwaO0",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "locationConfidence": 1.1612805
+      }, {
+        "latitudeE7": 486998017,
+        "longitudeE7": 444914850,
+        "placeId": "ChIJcw0zQFPLGkER9s-uxufkDf4",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Питание",
+        "locationConfidence": 0.059268527
+      }, {
+        "latitudeE7": 486990120,
+        "longitudeE7": 444950390,
+        "placeId": "ChIJby9LhVHLGkER33Vemqm9K9Q",
+        "address": "Профсоюзная ул., 13, Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Hampton by Hilton Volgograd Profsoyuznaya",
+        "locationConfidence": 0.05419198
+      }, {
+        "latitudeE7": 487013468,
+        "longitudeE7": 444921014,
+        "placeId": "ChIJL4OPP1DLGkERZBnj8KHcTFQ",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "locationConfidence": 0.047237523
+      }, {
+        "latitudeE7": 486998017,
+        "longitudeE7": 444892041,
+        "placeId": "ChIJU2is61DLGkERzJVj30rh2g0",
+        "name": "Гриль",
+        "locationConfidence": 0.027138144
+      }, {
+        "latitudeE7": 486993539,
+        "longitudeE7": 444951734,
+        "placeId": "ChIJkbVukVHLGkERIEbCSloD07M",
+        "address": "Профсоюзная ул., 13, Волгоград, Волгоградская обл., Россия, 400074",
+        "name": "Volga Hall, банкетный зал",
+        "locationConfidence": 0.019776944
+      }, {
+        "latitudeE7": 486997637,
+        "longitudeE7": 444914453,
+        "placeId": "ChIJYRGkVVDLGkERYG_DSh1mclM",
+        "address": "Академическая ул., 30, Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Стеклотор ООО",
+        "locationConfidence": 0.017661609
+      }, {
+        "latitudeE7": 487005571,
+        "longitudeE7": 444937646,
+        "placeId": "ChIJoUiIylHLGkER2OkbMhzXXCw",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "name": "Железный Магазин",
+        "locationConfidence": 0.016970968
+      }, {
+        "latitudeE7": 486997954,
+        "longitudeE7": 444945422,
+        "placeId": "ChIJTUKOvlHLGkERKu9omst-wyM",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
+        "locationConfidence": 0.015638733
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 87,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

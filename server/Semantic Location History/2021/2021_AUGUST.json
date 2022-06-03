@@ -91,7 +91,7 @@
         "latitudeE7": 487184500,
         "longitudeE7": 445070240,
         "placeId": "ChIJKe7Z7DzLGkERPP2Fmv9PbmM",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -111,7 +111,7 @@
         "latitudeE7": 487194540,
         "longitudeE7": 445070150,
         "placeId": "ChIJ702C3DzLGkERfqydSNV0UCE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Rodina, Cinema",
         "locationConfidence": 18.645678,
         "calibratedProbability": 13.223296
@@ -119,7 +119,7 @@
         "latitudeE7": 487179456,
         "longitudeE7": 445069716,
         "placeId": "ChIJ__-PhTzLGkERC2iLFSW0pPQ",
-        "address": "ул. Невская, 13а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 13а, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "South Med",
         "locationConfidence": 3.143267,
         "calibratedProbability": 2.229168
@@ -127,7 +127,7 @@
         "latitudeE7": 487190439,
         "longitudeE7": 445076899,
         "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
         "locationConfidence": 2.868172,
         "calibratedProbability": 2.0340738
@@ -135,7 +135,7 @@
         "latitudeE7": 487183152,
         "longitudeE7": 445067030,
         "placeId": "ChIJ884DjTzLGkERn5A2kpJJX1M",
-        "address": "ул. Невская, 13\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 13, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Cinema Rodina",
         "locationConfidence": 2.7748058,
         "calibratedProbability": 1.9678597
@@ -143,8 +143,7 @@
         "latitudeE7": 487182693,
         "longitudeE7": 445050430,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_HOME",
         "locationConfidence": 2.341544,
         "calibratedProbability": 1.6605955
@@ -152,7 +151,7 @@
         "latitudeE7": 487183800,
         "longitudeE7": 445079570,
         "placeId": "ChIJfT_wljzLGkERHIS9HzJKYcI",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "locationConfidence": 1.6493688,
         "calibratedProbability": 1.169713
@@ -160,7 +159,7 @@
         "latitudeE7": 487197125,
         "longitudeE7": 445064935,
         "placeId": "ChIJE5Jg54nLGkERBem624VnT98",
-        "address": "ул. имени Маршала Рокоссовского, 49\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "ул. имени Маршала Рокоссовского, 49, Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Perekrestok",
         "locationConfidence": 0.7074442,
         "calibratedProbability": 0.50171113
@@ -168,7 +167,7 @@
         "latitudeE7": 487200190,
         "longitudeE7": 445056230,
         "placeId": "ChIJIXyi3zzLGkERqdqt9q0dyeA",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Restoran \"Belyy Aist\"",
         "locationConfidence": 0.5139107,
         "calibratedProbability": 0.36445946
@@ -294,7 +293,7 @@
         "latitudeE7": 487109360,
         "longitudeE7": 445261200,
         "placeId": "ChIJf9pnfzLLGkERir8omsRSWGw",
-        "address": "ГАУЗ \"КП 3\"\nул. Советская, 23А\nВолгоград\nВолгоградская обл.\nРоссия\n400066",
+        "address": "ГАУЗ \"КП 3\", ул. Советская, 23А, Волгоград, Волгоградская обл., Россия, 400066",
         "name": "Государственное автономное учреждение здравоохранения \"Клиническая поликлиника № 3\"",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -321,8 +320,7 @@
         "latitudeE7": 487126385,
         "longitudeE7": 445266944,
         "placeId": "ChIJK7NV6i3LGkERWrk_k_N4Zv0",
-        "address": "пр. имени В.И. Ленина, 88\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
-        "name": "пр. имени В.И. Ленина, 88",
+        "address": "пр. имени В.И. Ленина, 88, Волгоград, Волгоградская обл., Россия, 400005",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 0.19375348,
         "calibratedProbability": 0.1759432
@@ -330,7 +328,7 @@
         "latitudeE7": 487112460,
         "longitudeE7": 445273149,
         "placeId": "ChIJu6Nrfy3LGkERkEA3X84dkkY",
-        "address": "ул. Советская, 25\nВолгоград\nВолгоградская обл.\nРоссия\n400131",
+        "address": "ул. Советская, 25, Волгоград, Волгоградская обл., Россия, 400131",
         "name": "Garant Klimat",
         "locationConfidence": 0.04276151,
         "calibratedProbability": 0.038830765
@@ -338,7 +336,7 @@
         "latitudeE7": 487108669,
         "longitudeE7": 445238476,
         "placeId": "ChIJk8d3cDLLGkERtrHCVAMgoXk",
-        "address": "ул. Новороссийская, 41\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 41, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Glavnoye Byuro Mediko-Sotsial\u0027noy Ekspertizy Po Volgogradskoy Oblasti",
         "locationConfidence": 0.03149036,
         "calibratedProbability": 0.02859569
@@ -440,7 +438,7 @@
         "latitudeE7": 487098300,
         "longitudeE7": 445196320,
         "placeId": "ChIJk51F3TPLGkERT9XfdBx_ij8",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400052",
+        "address": "Волгоград, Волгоградская обл., Россия, 400052",
         "name": "Dom tekhniki",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -460,7 +458,7 @@
         "latitudeE7": 487099153,
         "longitudeE7": 445206419,
         "placeId": "ChIJCZ6ywzPLGkERlSNejQaTwyQ",
-        "address": "ул. Комсомольская, 10\nВолгоград\nВолгоградская обл.\nРоссия\n400131",
+        "address": "ул. Комсомольская, 10, Волгоград, Волгоградская обл., Россия, 400131",
         "name": "Al\u0027fa-Bank",
         "locationConfidence": 4.4983134,
         "calibratedProbability": 3.7594779
@@ -468,7 +466,7 @@
         "latitudeE7": 487100375,
         "longitudeE7": 445196201,
         "placeId": "ChIJd1eVwjPLGkERHSFzkCfxoHY",
-        "address": "ул. Комсомольская, 10\nВолгоград\nВолгоградская обл.\nРоссия\n400066",
+        "address": "ул. Комсомольская, 10, Волгоград, Волгоградская обл., Россия, 400066",
         "name": "Mnogofunktsional\u0027nyy Tsentr Predostavleniya Gosudarstvennykh I Munitsipal\u0027nykh Uslug",
         "locationConfidence": 2.3817043,
         "calibratedProbability": 1.990516
@@ -476,7 +474,7 @@
         "latitudeE7": 487094290,
         "longitudeE7": 445206170,
         "placeId": "ChIJrX-_vzPLGkER-NNu5vwlXzI",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400052",
+        "address": "Волгоград, Волгоградская обл., Россия, 400052",
         "name": "Komsomol\u0027skaya",
         "locationConfidence": 0.9244943,
         "calibratedProbability": 0.7726487
@@ -490,7 +488,7 @@
         "latitudeE7": 487100375,
         "longitudeE7": 445196201,
         "placeId": "ChIJCZ6ywzPLGkERMavzw2MShi4",
-        "address": "ул. Комсомольская, 10\nВолгоград\nВолгоградская обл.\nРоссия\n400066",
+        "address": "ул. Комсомольская, 10, Волгоград, Волгоградская обл., Россия, 400066",
         "name": "Mfts Volgogradskoy Oblasti",
         "locationConfidence": 0.7196387,
         "calibratedProbability": 0.60144
@@ -498,7 +496,7 @@
         "latitudeE7": 487072347,
         "longitudeE7": 445210111,
         "placeId": "ChIJVxKDmzTLGkERCoRlYty-KNc",
-        "address": "ул. Советская, 17\nВолгоград\nВолгоградская обл.\nРоссия\n400066",
+        "address": "ул. Советская, 17, Волгоград, Волгоградская обл., Россия, 400066",
         "name": "Superman",
         "locationConfidence": 0.4769296,
         "calibratedProbability": 0.39859524
@@ -645,7 +643,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -665,7 +662,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 2.555581,
         "calibratedProbability": 2.2115057
@@ -673,7 +670,7 @@
         "latitudeE7": 487179400,
         "longitudeE7": 445049200,
         "placeId": "ChIJ9wSi_rQ0BUER0MnLDGjs52g",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kapital Meditsinskoye Strakhovaniye",
         "locationConfidence": 0.5552705,
         "calibratedProbability": 0.48051062
@@ -681,7 +678,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.14132303,
         "calibratedProbability": 0.12229574
@@ -689,7 +686,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050171,
         "placeId": "ChIJ9wSi_rQ0BUER_l5syzF3rkw",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Pit-Stop, Magazin Avtozapchastey, Ip Lushnichenko M. I.",
         "locationConfidence": 0.111975625,
         "calibratedProbability": 0.09689958
@@ -791,7 +788,7 @@
         "latitudeE7": 487181326,
         "longitudeE7": 445087285,
         "placeId": "ChIJBxKBnzzLGkERvroz6ZYuAPA",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bum",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -809,7 +806,7 @@
           "latitudeE7": 487181125,
           "longitudeE7": 445087210,
           "placeId": "ChIJR6L1WDvLGkER86He9b_XjjY",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Nevskiy Passazh",
           "sourceInfo": {
             "deviceTag": -433751553
@@ -829,7 +826,7 @@
           "latitudeE7": 487179910,
           "longitudeE7": 445090116,
           "placeId": "ChIJA30mnjzLGkERDEcUTywhkok",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Magnit",
           "locationConfidence": 4.199346,
           "calibratedProbability": 3.3800714
@@ -837,15 +834,15 @@
           "latitudeE7": 487180902,
           "longitudeE7": 445087885,
           "placeId": "ChIJU__p2S3LGkERUBmKBA9Zogk",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
-          "name": "Signal34 - Remont Telefonov",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400005",
+          "name": "Remont Telefonov Signal34 Volgograd",
           "locationConfidence": 2.8521056,
           "calibratedProbability": 2.295672
         }, {
           "latitudeE7": 487179930,
           "longitudeE7": 445090109,
           "placeId": "ChIJU1WFYTvLGkERmkebWbYK6Z8",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Petshop.ru",
           "locationConfidence": 1.2482824,
           "calibratedProbability": 1.0047479
@@ -853,7 +850,7 @@
           "latitudeE7": 487190439,
           "longitudeE7": 445076899,
           "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
-          "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
           "locationConfidence": 1.0358762,
           "calibratedProbability": 0.8337811
@@ -867,7 +864,7 @@
           "latitudeE7": 487181408,
           "longitudeE7": 445086919,
           "placeId": "ChIJUQHzaFvKGkERcDc4iFhnB3k",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Mts",
           "sourceInfo": {
             "deviceTag": -433751553
@@ -888,7 +885,7 @@
           "latitudeE7": 487180972,
           "longitudeE7": 445087767,
           "placeId": "ChIJORdvu6QtBUER4gka0RabqU4",
-          "address": "ул. Невская, 12в\nВолгоград\nВолгоградская обл.\nРоссия\n400059",
+          "address": "ул. Невская, 12в, Волгоград, Волгоградская обл., Россия, 400059",
           "name": "Pyaterochka",
           "locationConfidence": 13.027173,
           "calibratedProbability": 11.779968
@@ -896,7 +893,7 @@
           "latitudeE7": 487181780,
           "longitudeE7": 445088090,
           "placeId": "ChIJvVg0KJLLGkERK4e1qfqNehg",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Apteka Vita Tsentral\u0027naya",
           "locationConfidence": 4.2653394,
           "calibratedProbability": 3.8569813
@@ -904,7 +901,7 @@
           "latitudeE7": 487178482,
           "longitudeE7": 445090815,
           "placeId": "ChIJR6L1WDvLGkERNs-Sm9jchRE",
-          "address": "ул. Невская, 12в\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12в, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Apteka Ekonom",
           "locationConfidence": 1.3572012,
           "calibratedProbability": 1.2272645
@@ -912,7 +909,7 @@
           "latitudeE7": 487180620,
           "longitudeE7": 445088727,
           "placeId": "ChIJrcYmnjzLGkERtoOMfgP9XQU",
-          "address": "ТЦ \"Невский пассаж\nул. Невская, 12В, Цокольный этаж\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ТЦ \"Невский пассаж, ул. Невская, 12В, Цокольный этаж, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Voyentorg",
           "locationConfidence": 0.17260878,
           "calibratedProbability": 0.15608343
@@ -929,15 +926,15 @@
         "latitudeE7": 487180902,
         "longitudeE7": 445087885,
         "placeId": "ChIJU__p2S3LGkERUBmKBA9Zogk",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
-        "name": "Signal34 - Remont Telefonov",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400005",
+        "name": "Remont Telefonov Signal34 Volgograd",
         "locationConfidence": 19.076075,
         "calibratedProbability": 21.873573
       }, {
         "latitudeE7": 487190439,
         "longitudeE7": 445076899,
         "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
         "locationConfidence": 1.6569849,
         "calibratedProbability": 1.8999811
@@ -945,7 +942,7 @@
         "latitudeE7": 487183800,
         "longitudeE7": 445079570,
         "placeId": "ChIJfT_wljzLGkERHIS9HzJKYcI",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "locationConfidence": 1.4900805,
         "calibratedProbability": 1.7086002
@@ -953,7 +950,7 @@
         "latitudeE7": 487175732,
         "longitudeE7": 445095631,
         "placeId": "ChIJH5hHDPPLGkERDzxLCGeyxfQ",
-        "address": "ул. Невская, 10 ст.1\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 10 ст.1, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bristol\u0027",
         "locationConfidence": 1.2197372,
         "calibratedProbability": 1.3986112
@@ -961,8 +958,7 @@
         "latitudeE7": 487182693,
         "longitudeE7": 445050392,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_HOME",
         "locationConfidence": 0.9640525,
         "calibratedProbability": 1.1054305
@@ -970,7 +966,7 @@
         "latitudeE7": 487197125,
         "longitudeE7": 445064935,
         "placeId": "ChIJE5Jg54nLGkERBem624VnT98",
-        "address": "ул. имени Маршала Рокоссовского, 49\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "ул. имени Маршала Рокоссовского, 49, Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Perekrestok",
         "locationConfidence": 0.9021443,
         "calibratedProbability": 1.0344434
@@ -978,7 +974,7 @@
         "latitudeE7": 487184500,
         "longitudeE7": 445070240,
         "placeId": "ChIJKe7Z7DzLGkERPP2Fmv9PbmM",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "locationConfidence": 0.61682177,
         "calibratedProbability": 0.70727843
@@ -1081,7 +1077,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -1101,7 +1096,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 0.28780124,
         "calibratedProbability": 0.24259691
@@ -1109,7 +1104,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.19706327,
         "calibratedProbability": 0.16611096
@@ -1117,7 +1112,7 @@
         "latitudeE7": 487172172,
         "longitudeE7": 445047539,
         "placeId": "ChIJA28nAzzLGkERY9hW9fh7uS8",
-        "address": "ул. Кубанская, 20\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Кубанская, 20, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Skver 8 Marta, Memorial",
         "locationConfidence": 0.18741804,
         "calibratedProbability": 0.1579807
@@ -1125,7 +1120,7 @@
         "latitudeE7": 487190439,
         "longitudeE7": 445076899,
         "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
         "locationConfidence": 0.13280092,
         "calibratedProbability": 0.111942165
@@ -1252,7 +1247,7 @@
         "latitudeE7": 487169473,
         "longitudeE7": 445135679,
         "placeId": "ChIJOcJH1jrLGkER4NbZHFpO3dc",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Medical Clinic № 12",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -1272,7 +1267,7 @@
         "latitudeE7": 487161233,
         "longitudeE7": 445115746,
         "placeId": "ChIJBfwlHTvLGkERfB9NK3WJsjY",
-        "address": "ул. Новороссийская, 14, корп. Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 14, корп. Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Sberbank",
         "locationConfidence": 35.976604,
         "calibratedProbability": 12.631895
@@ -1280,7 +1275,7 @@
         "latitudeE7": 487174720,
         "longitudeE7": 445132980,
         "placeId": "ChIJl3bt1iTLGkERZZUkw8ee8qA",
-        "address": "Волгоград Волгоградская обл. 400087ул\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград Волгоградская обл. 400087ул, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Новороссийский Рынок",
         "locationConfidence": 9.39409,
         "calibratedProbability": 3.2983978
@@ -1288,7 +1283,7 @@
         "latitudeE7": 487169516,
         "longitudeE7": 445136679,
         "placeId": "ChIJOcJH1jrLGkER5M31NgU9QNQ",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Pharmacy 241",
         "locationConfidence": 3.8767445,
         "calibratedProbability": 1.3611798
@@ -1296,7 +1291,7 @@
         "latitudeE7": 487171358,
         "longitudeE7": 445107087,
         "placeId": "ChIJG-hpPzvLGkER6y4qCndycNc",
-        "address": "ул. Невская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Zdorov\u0027ye",
         "locationConfidence": 3.1864061,
         "calibratedProbability": 1.1187923
@@ -1304,7 +1299,7 @@
         "latitudeE7": 487181326,
         "longitudeE7": 445087285,
         "placeId": "ChIJBxKBnzzLGkERvroz6ZYuAPA",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bum",
         "locationConfidence": 1.9180449,
         "calibratedProbability": 0.67345273
@@ -1312,7 +1307,7 @@
         "latitudeE7": 487170022,
         "longitudeE7": 445116802,
         "placeId": "ChIJs1mY5FzKGkEReAepgQUe3fE",
-        "address": "ул. Невская, 6\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 6, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kassandra Russia, Volgograd, Nevskaya Ulitsa, 6, 400087",
         "locationConfidence": 1.8269798,
         "calibratedProbability": 0.6414784
@@ -1320,7 +1315,7 @@
         "latitudeE7": 487175686,
         "longitudeE7": 445127762,
         "placeId": "ChIJcau6LjvLGkER71NfREKMgzI",
-        "address": "ул. Невская, 6а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 6а, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kashtan",
         "locationConfidence": 1.5115724,
         "calibratedProbability": 0.5307344
@@ -1328,7 +1323,7 @@
         "latitudeE7": 487171136,
         "longitudeE7": 445123036,
         "placeId": "ChIJeVkeJTvLGkERNw5uJaskmvE",
-        "address": "ул. Невская, 6A\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 6A, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Life Line",
         "locationConfidence": 1.3267622,
         "calibratedProbability": 0.465845
@@ -1336,7 +1331,7 @@
         "latitudeE7": 487169500,
         "longitudeE7": 445153700,
         "placeId": "ChIJL8OyMyXLGkERN1y2kcgcEFs",
-        "address": "ул. Пархоменко, 23\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Пархоменко, 23, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Школа №10",
         "locationConfidence": 1.0614495,
         "calibratedProbability": 0.37268996
@@ -1352,7 +1347,7 @@
         "latitudeE7": 487161233,
         "longitudeE7": 445115746,
         "placeId": "ChIJBfwlHTvLGkERfB9NK3WJsjY",
-        "address": "ул. Новороссийская, 14, корп. Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 14, корп. Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Sberbank",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -1372,7 +1367,7 @@
         "latitudeE7": 487169473,
         "longitudeE7": 445135679,
         "placeId": "ChIJOcJH1jrLGkER4NbZHFpO3dc",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Medical Clinic № 12",
         "locationConfidence": 3.5042663,
         "calibratedProbability": 2.4895976
@@ -1380,7 +1375,7 @@
         "latitudeE7": 487162038,
         "longitudeE7": 445116036,
         "placeId": "ChIJoUXmAjvLGkER_8xlL8p0fYk",
-        "address": "ул. Новороссийская, 14-Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 14-Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Muztorg",
         "locationConfidence": 1.8170768,
         "calibratedProbability": 1.2909379
@@ -1388,7 +1383,7 @@
         "latitudeE7": 487157720,
         "longitudeE7": 445114070,
         "placeId": "ChIJ08mB_jrLGkERwWhmd8cuFbA",
-        "address": "ул. Невская, 4\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 4, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Chip \u0026 Dip",
         "locationConfidence": 0.9682165,
         "calibratedProbability": 0.6878671
@@ -1396,7 +1391,7 @@
         "latitudeE7": 487174720,
         "longitudeE7": 445132980,
         "placeId": "ChIJl3bt1iTLGkERZZUkw8ee8qA",
-        "address": "Волгоград Волгоградская обл. 400087ул\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград Волгоградская обл. 400087ул, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Новороссийский Рынок",
         "locationConfidence": 0.80430675,
         "calibratedProbability": 0.5714178
@@ -1404,8 +1399,7 @@
         "latitudeE7": 487150065,
         "longitudeE7": 445091241,
         "placeId": "ChIJNRtKtTvLGkERiG-czDKJjzI",
-        "address": "ул. Новороссийская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "ул. Новороссийская, 8",
+        "address": "ул. Новороссийская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 0.6512979,
         "calibratedProbability": 0.46271306
@@ -1508,7 +1502,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -1528,7 +1521,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 3.1928551,
         "calibratedProbability": 2.7616515
@@ -1536,7 +1529,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050171,
         "placeId": "ChIJ9wSi_rQ0BUER_l5syzF3rkw",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Pit-Stop, Magazin Avtozapchastey, Ip Lushnichenko M. I.",
         "locationConfidence": 0.21149498,
         "calibratedProbability": 0.18293202
@@ -1544,7 +1537,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.19681276,
         "calibratedProbability": 0.17023267
@@ -1552,7 +1545,7 @@
         "latitudeE7": 487179400,
         "longitudeE7": 445049200,
         "placeId": "ChIJ9wSi_rQ0BUER0MnLDGjs52g",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kapital Meditsinskoye Strakhovaniye",
         "locationConfidence": 0.1874424,
         "calibratedProbability": 0.16212781
@@ -1568,7 +1561,7 @@
         "latitudeE7": 487184500,
         "longitudeE7": 445070240,
         "placeId": "ChIJKe7Z7DzLGkERPP2Fmv9PbmM",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -1588,7 +1581,7 @@
         "latitudeE7": 487183800,
         "longitudeE7": 445079570,
         "placeId": "ChIJfT_wljzLGkERHIS9HzJKYcI",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "locationConfidence": 3.7362602,
         "calibratedProbability": 2.747788
@@ -1596,7 +1589,7 @@
         "latitudeE7": 487183152,
         "longitudeE7": 445067030,
         "placeId": "ChIJ884DjTzLGkERn5A2kpJJX1M",
-        "address": "ул. Невская, 13\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 13, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Cinema Rodina",
         "locationConfidence": 3.4631555,
         "calibratedProbability": 2.5469363
@@ -1604,7 +1597,7 @@
         "latitudeE7": 487194540,
         "longitudeE7": 445070150,
         "placeId": "ChIJ702C3DzLGkERfqydSNV0UCE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Rodina, Cinema",
         "locationConfidence": 2.4686246,
         "calibratedProbability": 1.8155204
@@ -1612,7 +1605,7 @@
         "latitudeE7": 487190439,
         "longitudeE7": 445076899,
         "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
         "locationConfidence": 1.9717836,
         "calibratedProbability": 1.4501247
@@ -1620,8 +1613,7 @@
         "latitudeE7": 487182655,
         "longitudeE7": 445050354,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_HOME",
         "locationConfidence": 1.4777062,
         "calibratedProbability": 1.0867614
@@ -1629,7 +1621,7 @@
         "latitudeE7": 487189803,
         "longitudeE7": 445076347,
         "placeId": "ChIJ9yOMwTzLGkER9WAL0gz59ms",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Splav",
         "locationConfidence": 1.0714399,
         "calibratedProbability": 0.78797764
@@ -1637,7 +1629,7 @@
         "latitudeE7": 487197125,
         "longitudeE7": 445064935,
         "placeId": "ChIJE5Jg54nLGkERBem624VnT98",
-        "address": "ул. имени Маршала Рокоссовского, 49\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "ул. имени Маршала Рокоссовского, 49, Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Perekrestok",
         "locationConfidence": 0.990629,
         "calibratedProbability": 0.72854626
@@ -1645,7 +1637,7 @@
         "latitudeE7": 487181326,
         "longitudeE7": 445087285,
         "placeId": "ChIJBxKBnzzLGkERvroz6ZYuAPA",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bum",
         "locationConfidence": 0.7671947,
         "calibratedProbability": 0.5642242
@@ -1729,25 +1721,25 @@
           "latitudeE7": 487184500,
           "longitudeE7": 445070240,
           "placeId": "ChIJKe7Z7DzLGkERPP2Fmv9PbmM",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Rodina, Cinema"
         }, {
           "latitudeE7": 487164840,
           "longitudeE7": 445097440,
           "placeId": "ChIJMxCQCzvLGkERpEub3ECS6vU",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Novorossiyskaya St"
         }, {
           "latitudeE7": 487150450,
           "longitudeE7": 445117240,
           "placeId": "ChIJP7EVYTrLGkERX5ItLBk0Uqk",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Zheleznodorozhnyy vokzal"
         }, {
           "latitudeE7": 487083950,
           "longitudeE7": 445184240,
           "placeId": "ChIJx9tJ8zPLGkERYvuxJAYnfyE",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400008",
+          "address": "Волгоград, Волгоградская обл., Россия, 400008",
           "name": "Komsomol\u0027skaya St (Tsentral\u0027nyy Market)"
         }],
         "name": "65",
@@ -1800,7 +1792,7 @@
         "latitudeE7": 487117386,
         "longitudeE7": 445235672,
         "placeId": "ChIJ28hQFzLLGkERPTqNrVGDQRI",
-        "address": "пр. имени В.И. Ленина, 21\nВолгоград\nВолгоградская обл.\nРоссия\n400131",
+        "address": "пр. имени В.И. Ленина, 21, Волгоград, Волгоградская обл., Россия, 400131",
         "name": "Volgogradskiy Muzey Izobrazitel\u0027nykh Iskusstv Im. I.i. Mashkova",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -1837,7 +1829,7 @@
           "latitudeE7": 487116564,
           "longitudeE7": 445214074,
           "placeId": "ChIJTcOOiTHLGkERSGT8x5EckgY",
-          "address": "ул. Порт-Саида, 11\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
+          "address": "ул. Порт-Саида, 11, Волгоград, Волгоградская обл., Россия, 400005",
           "name": "Skver Simbirtseva",
           "locationConfidence": 10.5355425,
           "calibratedProbability": 20.366621
@@ -1845,7 +1837,7 @@
           "latitudeE7": 487117113,
           "longitudeE7": 445226470,
           "placeId": "ChIJUfnhWy3LGkERtTJCJt7SGMs",
-          "address": "пр. имени В.И. Ленина, 21\nВолгоград\nВолгоградская обл.\nРоссия\n400066",
+          "address": "пр. имени В.И. Ленина, 21, Волгоград, Волгоградская обл., Россия, 400066",
           "name": "Kvadrat",
           "locationConfidence": 6.1310515,
           "calibratedProbability": 11.852147
@@ -1853,7 +1845,7 @@
           "latitudeE7": 487108940,
           "longitudeE7": 445223800,
           "placeId": "ChIJ_94VOjLLGkERhhBvk3cOSsA",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400005",
+          "address": "Волгоград, Волгоградская обл., Россия, 400005",
           "name": "Port-Saida St",
           "locationConfidence": 2.6970165,
           "calibratedProbability": 5.2136955
@@ -1861,7 +1853,7 @@
           "latitudeE7": 487108164,
           "longitudeE7": 445228423,
           "placeId": "ChIJU8Y7WzLLGkERNBA468LBjvk",
-          "address": "ул. Порт-Саида, 9\nВолгоград\nВолгоградская обл.\nРоссия\n400066",
+          "address": "ул. Порт-Саида, 9, Волгоград, Волгоградская обл., Россия, 400066",
           "name": "Bul\u0027var",
           "locationConfidence": 0.68769455,
           "calibratedProbability": 1.329406
@@ -1869,7 +1861,7 @@
           "latitudeE7": 487103719,
           "longitudeE7": 445228191,
           "placeId": "ChIJOf1lSTLLGkERxd_AzVEE7pw",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400052",
+          "address": "Волгоград, Волгоградская обл., Россия, 400052",
           "name": "St. Port Said",
           "locationConfidence": 0.60267,
           "calibratedProbability": 1.1650422
@@ -1886,7 +1878,7 @@
         "latitudeE7": 487116564,
         "longitudeE7": 445214074,
         "placeId": "ChIJTcOOiTHLGkERSGT8x5EckgY",
-        "address": "ул. Порт-Саида, 11\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
+        "address": "ул. Порт-Саида, 11, Волгоград, Волгоградская обл., Россия, 400005",
         "name": "Skver Simbirtseva",
         "locationConfidence": 17.422873,
         "calibratedProbability": 13.538244
@@ -1894,7 +1886,7 @@
         "latitudeE7": 487117113,
         "longitudeE7": 445226470,
         "placeId": "ChIJUfnhWy3LGkERtTJCJt7SGMs",
-        "address": "пр. имени В.И. Ленина, 21\nВолгоград\nВолгоградская обл.\nРоссия\n400066",
+        "address": "пр. имени В.И. Ленина, 21, Волгоград, Волгоградская обл., Россия, 400066",
         "name": "Kvadrat",
         "locationConfidence": 13.2949915,
         "calibratedProbability": 10.330721
@@ -1902,7 +1894,7 @@
         "latitudeE7": 487103719,
         "longitudeE7": 445228191,
         "placeId": "ChIJOf1lSTLLGkERxd_AzVEE7pw",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400052",
+        "address": "Волгоград, Волгоградская обл., Россия, 400052",
         "name": "St. Port Said",
         "locationConfidence": 3.5525606,
         "calibratedProbability": 2.7604766
@@ -1910,7 +1902,7 @@
         "latitudeE7": 487108940,
         "longitudeE7": 445223800,
         "placeId": "ChIJ_94VOjLLGkERhhBvk3cOSsA",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400005",
+        "address": "Волгоград, Волгоградская обл., Россия, 400005",
         "name": "Port-Saida St",
         "locationConfidence": 3.3977818,
         "calibratedProbability": 2.6402075
@@ -1918,7 +1910,7 @@
         "latitudeE7": 487113460,
         "longitudeE7": 445243080,
         "placeId": "ChIJO3M4bTLLGkERWj8wGI4A55w",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400005",
+        "address": "Волгоград, Волгоградская обл., Россия, 400005",
         "name": "Port-Saida St",
         "locationConfidence": 3.017787,
         "calibratedProbability": 2.3449368
@@ -1926,7 +1918,7 @@
         "latitudeE7": 487108669,
         "longitudeE7": 445238476,
         "placeId": "ChIJkbjgQTLLGkERfuD4H9d2i48",
-        "address": "пр. имени В.И. Ленина, 22А\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
+        "address": "пр. имени В.И. Ленина, 22А, Волгоград, Волгоградская обл., Россия, 400005",
         "name": "Vasha Optika",
         "locationConfidence": 2.491996,
         "calibratedProbability": 1.936377
@@ -1941,7 +1933,7 @@
         "latitudeE7": 487108164,
         "longitudeE7": 445228423,
         "placeId": "ChIJU8Y7WzLLGkERNBA468LBjvk",
-        "address": "ул. Порт-Саида, 9\nВолгоград\nВолгоградская обл.\nРоссия\n400066",
+        "address": "ул. Порт-Саида, 9, Волгоград, Волгоградская обл., Россия, 400066",
         "name": "Bul\u0027var",
         "locationConfidence": 1.2432439,
         "calibratedProbability": 0.9660485
@@ -1949,7 +1941,7 @@
         "latitudeE7": 487108669,
         "longitudeE7": 445238476,
         "placeId": "ChIJkbjgQTLLGkEReYJ9uNecD_M",
-        "address": "пр. имени В.И. Ленина, 22А\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
+        "address": "пр. имени В.И. Ленина, 22А, Волгоград, Волгоградская обл., Россия, 400005",
         "name": "Pitstsaoly",
         "locationConfidence": 1.2411643,
         "calibratedProbability": 0.96443254
@@ -2033,13 +2025,13 @@
           "latitudeE7": 487098300,
           "longitudeE7": 445196320,
           "placeId": "ChIJk51F3TPLGkERT9XfdBx_ij8",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400052",
+          "address": "Волгоград, Волгоградская обл., Россия, 400052",
           "name": "Dom tekhniki"
         }, {
           "latitudeE7": 487167190,
           "longitudeE7": 445102510,
           "placeId": "ChIJPUOLDTvLGkERJus5XHgIvOE",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Novorossiyskaya St"
         }],
         "name": "65",
@@ -2097,7 +2089,7 @@
         "latitudeE7": 487161233,
         "longitudeE7": 445115746,
         "placeId": "ChIJBfwlHTvLGkERfB9NK3WJsjY",
-        "address": "ул. Новороссийская, 14, корп. Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 14, корп. Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Sberbank",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -2117,7 +2109,7 @@
         "latitudeE7": 487169473,
         "longitudeE7": 445135679,
         "placeId": "ChIJOcJH1jrLGkER4NbZHFpO3dc",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Medical Clinic № 12",
         "locationConfidence": 23.914257,
         "calibratedProbability": 20.377905
@@ -2125,7 +2117,7 @@
         "latitudeE7": 487167190,
         "longitudeE7": 445102510,
         "placeId": "ChIJPUOLDTvLGkERJus5XHgIvOE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Novorossiyskaya St",
         "locationConfidence": 6.824868,
         "calibratedProbability": 5.815632
@@ -2133,7 +2125,7 @@
         "latitudeE7": 487174720,
         "longitudeE7": 445132980,
         "placeId": "ChIJl3bt1iTLGkERZZUkw8ee8qA",
-        "address": "Волгоград Волгоградская обл. 400087ул\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград Волгоградская обл. 400087ул, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Новороссийский Рынок",
         "locationConfidence": 6.64478,
         "calibratedProbability": 5.6621747
@@ -2141,7 +2133,7 @@
         "latitudeE7": 487170022,
         "longitudeE7": 445116802,
         "placeId": "ChIJs1mY5FzKGkEReAepgQUe3fE",
-        "address": "ул. Невская, 6\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 6, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kassandra Russia, Volgograd, Nevskaya Ulitsa, 6, 400087",
         "locationConfidence": 3.8503556,
         "calibratedProbability": 3.2809792
@@ -2149,7 +2141,7 @@
         "latitudeE7": 487169516,
         "longitudeE7": 445136679,
         "placeId": "ChIJOcJH1jrLGkER5M31NgU9QNQ",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Pharmacy 241",
         "locationConfidence": 2.305733,
         "calibratedProbability": 1.9647696
@@ -2157,8 +2149,7 @@
         "latitudeE7": 487150065,
         "longitudeE7": 445091241,
         "placeId": "ChIJNRtKtTvLGkERiG-czDKJjzI",
-        "address": "ул. Новороссийская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "ул. Новороссийская, 8",
+        "address": "ул. Новороссийская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 2.2805977,
         "calibratedProbability": 1.9433513
@@ -2166,7 +2157,7 @@
         "latitudeE7": 487181326,
         "longitudeE7": 445087285,
         "placeId": "ChIJBxKBnzzLGkERvroz6ZYuAPA",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bum",
         "locationConfidence": 2.0678678,
         "calibratedProbability": 1.7620791
@@ -2174,7 +2165,7 @@
         "latitudeE7": 487157720,
         "longitudeE7": 445114070,
         "placeId": "ChIJ08mB_jrLGkERwWhmd8cuFbA",
-        "address": "ул. Невская, 4\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 4, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Chip \u0026 Dip",
         "locationConfidence": 1.5832711,
         "calibratedProbability": 1.3491428
@@ -2182,7 +2173,7 @@
         "latitudeE7": 487162038,
         "longitudeE7": 445116036,
         "placeId": "ChIJoUXmAjvLGkER_8xlL8p0fYk",
-        "address": "ул. Новороссийская, 14-Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 14-Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Muztorg",
         "locationConfidence": 0.9757309,
         "calibratedProbability": 0.83144337
@@ -2299,7 +2290,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -2319,7 +2309,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 0.8559793,
         "calibratedProbability": 0.68958026
@@ -2327,7 +2317,7 @@
         "latitudeE7": 487172172,
         "longitudeE7": 445047539,
         "placeId": "ChIJA28nAzzLGkERY9hW9fh7uS8",
-        "address": "ул. Кубанская, 20\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Кубанская, 20, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Skver 8 Marta, Memorial",
         "locationConfidence": 0.29927272,
         "calibratedProbability": 0.24109526
@@ -2335,7 +2325,7 @@
         "latitudeE7": 487181810,
         "longitudeE7": 445051293,
         "placeId": "ChIJlcSmWTzLGkERJnPK1L0_PYE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rosgosstrakh",
         "locationConfidence": 0.2295844,
         "calibratedProbability": 0.18495408
@@ -2343,7 +2333,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.21053176,
         "calibratedProbability": 0.1696052
@@ -2459,7 +2449,7 @@
         "latitudeE7": 487190439,
         "longitudeE7": 445076899,
         "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -2479,7 +2469,7 @@
         "latitudeE7": 487189803,
         "longitudeE7": 445076347,
         "placeId": "ChIJ9yOMwTzLGkER9WAL0gz59ms",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Splav",
         "locationConfidence": 16.888174,
         "calibratedProbability": 10.900285
@@ -2487,7 +2477,7 @@
         "latitudeE7": 487197125,
         "longitudeE7": 445064935,
         "placeId": "ChIJE5Jg54nLGkERBem624VnT98",
-        "address": "ул. имени Маршала Рокоссовского, 49\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "ул. имени Маршала Рокоссовского, 49, Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Perekrestok",
         "locationConfidence": 9.603812,
         "calibratedProbability": 6.198674
@@ -2495,7 +2485,7 @@
         "latitudeE7": 487194540,
         "longitudeE7": 445070150,
         "placeId": "ChIJ702C3DzLGkERfqydSNV0UCE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Rodina, Cinema",
         "locationConfidence": 7.2172685,
         "calibratedProbability": 4.658306
@@ -2503,8 +2493,7 @@
         "latitudeE7": 487182655,
         "longitudeE7": 445050354,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_HOME",
         "locationConfidence": 4.730396,
         "calibratedProbability": 3.0531816
@@ -2512,7 +2501,7 @@
         "latitudeE7": 487189893,
         "longitudeE7": 445076729,
         "placeId": "ChIJK-iU9FvLGkERrO8n4b9h9iY",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Blinberi",
         "locationConfidence": 4.3658915,
         "calibratedProbability": 2.8179162
@@ -2520,7 +2509,7 @@
         "latitudeE7": 487184500,
         "longitudeE7": 445070240,
         "placeId": "ChIJKe7Z7DzLGkERPP2Fmv9PbmM",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "locationConfidence": 3.520451,
         "calibratedProbability": 2.272236
@@ -2528,7 +2517,7 @@
         "latitudeE7": 487200190,
         "longitudeE7": 445056230,
         "placeId": "ChIJIXyi3zzLGkERqdqt9q0dyeA",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Restoran \"Belyy Aist\"",
         "locationConfidence": 3.3894022,
         "calibratedProbability": 2.187652
@@ -2536,7 +2525,7 @@
         "latitudeE7": 487181326,
         "longitudeE7": 445087285,
         "placeId": "ChIJBxKBnzzLGkERvroz6ZYuAPA",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bum",
         "locationConfidence": 2.58542,
         "calibratedProbability": 1.6687306
@@ -2544,7 +2533,7 @@
         "latitudeE7": 487190220,
         "longitudeE7": 445057230,
         "placeId": "ChIJE7S85DzLGkER3Gaz-bjISqA",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "locationConfidence": 2.2343183,
         "calibratedProbability": 1.4421159
@@ -2647,7 +2636,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -2667,7 +2655,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 0.71106714,
         "calibratedProbability": 0.6044325
@@ -2675,7 +2663,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.22095935,
         "calibratedProbability": 0.18782336
@@ -2683,7 +2671,7 @@
         "latitudeE7": 487172172,
         "longitudeE7": 445047539,
         "placeId": "ChIJA28nAzzLGkERY9hW9fh7uS8",
-        "address": "ул. Кубанская, 20\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Кубанская, 20, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Skver 8 Marta, Memorial",
         "locationConfidence": 0.20150286,
         "calibratedProbability": 0.17128463
@@ -2691,7 +2679,7 @@
         "latitudeE7": 487184583,
         "longitudeE7": 445047087,
         "placeId": "ChIJ2zFgVjzLGkERivbwM3zyqGY",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Tserkov\u0027",
         "locationConfidence": 0.15814254,
         "calibratedProbability": 0.13442682
@@ -2707,7 +2695,7 @@
         "latitudeE7": 487190439,
         "longitudeE7": 445076899,
         "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -2727,7 +2715,7 @@
         "latitudeE7": 487189803,
         "longitudeE7": 445076347,
         "placeId": "ChIJ9yOMwTzLGkER9WAL0gz59ms",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Splav",
         "locationConfidence": 8.435147,
         "calibratedProbability": 5.2832503
@@ -2735,7 +2723,7 @@
         "latitudeE7": 487197125,
         "longitudeE7": 445064935,
         "placeId": "ChIJE5Jg54nLGkERBem624VnT98",
-        "address": "ул. имени Маршала Рокоссовского, 49\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "ул. имени Маршала Рокоссовского, 49, Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Perekrestok",
         "locationConfidence": 5.0571384,
         "calibratedProbability": 3.1674762
@@ -2743,7 +2731,7 @@
         "latitudeE7": 487200190,
         "longitudeE7": 445056230,
         "placeId": "ChIJIXyi3zzLGkERqdqt9q0dyeA",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Restoran \"Belyy Aist\"",
         "locationConfidence": 3.468728,
         "calibratedProbability": 2.172595
@@ -2751,7 +2739,7 @@
         "latitudeE7": 487194540,
         "longitudeE7": 445070150,
         "placeId": "ChIJ702C3DzLGkERfqydSNV0UCE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Rodina, Cinema",
         "locationConfidence": 3.1604755,
         "calibratedProbability": 1.9795249
@@ -2759,7 +2747,7 @@
         "latitudeE7": 487189893,
         "longitudeE7": 445076729,
         "placeId": "ChIJVZm0w23LGkER4dbv5ZGGdV4",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Sushivesla",
         "locationConfidence": 3.0308685,
         "calibratedProbability": 1.8983471
@@ -2767,7 +2755,7 @@
         "latitudeE7": 487189893,
         "longitudeE7": 445076729,
         "placeId": "ChIJK-iU9FvLGkERrO8n4b9h9iY",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Blinberi",
         "locationConfidence": 2.3351243,
         "calibratedProbability": 1.4625763
@@ -2775,8 +2763,7 @@
         "latitudeE7": 487182655,
         "longitudeE7": 445050316,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_HOME",
         "locationConfidence": 2.1360197,
         "calibratedProbability": 1.3378696
@@ -2784,7 +2771,7 @@
         "latitudeE7": 487184500,
         "longitudeE7": 445070240,
         "placeId": "ChIJKe7Z7DzLGkERPP2Fmv9PbmM",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "locationConfidence": 1.5462875,
         "calibratedProbability": 0.9684981
@@ -2792,7 +2779,7 @@
         "latitudeE7": 487179456,
         "longitudeE7": 445069716,
         "placeId": "ChIJ__-PhTzLGkERC2iLFSW0pPQ",
-        "address": "ул. Невская, 13а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 13а, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "South Med",
         "locationConfidence": 1.4203632,
         "calibratedProbability": 0.889627
@@ -2895,7 +2882,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -2915,7 +2901,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 1.5756269,
         "calibratedProbability": 1.2664424
@@ -2923,7 +2909,7 @@
         "latitudeE7": 487179400,
         "longitudeE7": 445049200,
         "placeId": "ChIJ9wSi_rQ0BUER0MnLDGjs52g",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kapital Meditsinskoye Strakhovaniye",
         "locationConfidence": 0.28138396,
         "calibratedProbability": 0.22616813
@@ -2931,7 +2917,7 @@
         "latitudeE7": 487181810,
         "longitudeE7": 445051293,
         "placeId": "ChIJlcSmWTzLGkERJnPK1L0_PYE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rosgosstrakh",
         "locationConfidence": 0.27564505,
         "calibratedProbability": 0.22155537
@@ -2939,7 +2925,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050171,
         "placeId": "ChIJ9wSi_rQ0BUER_l5syzF3rkw",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Pit-Stop, Magazin Avtozapchastey, Ip Lushnichenko M. I.",
         "locationConfidence": 0.1623568,
         "calibratedProbability": 0.1304976
@@ -3055,7 +3041,7 @@
         "latitudeE7": 487169473,
         "longitudeE7": 445135679,
         "placeId": "ChIJOcJH1jrLGkER4NbZHFpO3dc",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Medical Clinic № 12",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -3075,7 +3061,7 @@
         "latitudeE7": 487161233,
         "longitudeE7": 445115746,
         "placeId": "ChIJBfwlHTvLGkERfB9NK3WJsjY",
-        "address": "ул. Новороссийская, 14, корп. Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 14, корп. Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Sberbank",
         "locationConfidence": 12.071304,
         "calibratedProbability": 8.795753
@@ -3083,7 +3069,7 @@
         "latitudeE7": 487174720,
         "longitudeE7": 445132980,
         "placeId": "ChIJl3bt1iTLGkERZZUkw8ee8qA",
-        "address": "Волгоград Волгоградская обл. 400087ул\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград Волгоградская обл. 400087ул, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Новороссийский Рынок",
         "locationConfidence": 8.685325,
         "calibratedProbability": 6.328559
@@ -3091,7 +3077,7 @@
         "latitudeE7": 487167190,
         "longitudeE7": 445102510,
         "placeId": "ChIJPUOLDTvLGkERJus5XHgIvOE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Novorossiyskaya St",
         "locationConfidence": 3.2415872,
         "calibratedProbability": 2.3619814
@@ -3099,7 +3085,7 @@
         "latitudeE7": 487169516,
         "longitudeE7": 445136679,
         "placeId": "ChIJOcJH1jrLGkER5M31NgU9QNQ",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Pharmacy 241",
         "locationConfidence": 1.3433015,
         "calibratedProbability": 0.97879624
@@ -3107,7 +3093,7 @@
         "latitudeE7": 487171358,
         "longitudeE7": 445107087,
         "placeId": "ChIJG-hpPzvLGkER6y4qCndycNc",
-        "address": "ул. Невская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Zdorov\u0027ye",
         "locationConfidence": 0.99530584,
         "calibratedProbability": 0.72522926
@@ -3115,7 +3101,7 @@
         "latitudeE7": 487169500,
         "longitudeE7": 445153700,
         "placeId": "ChIJL8OyMyXLGkERN1y2kcgcEFs",
-        "address": "ул. Пархоменко, 23\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Пархоменко, 23, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Школа №10",
         "locationConfidence": 0.6881726,
         "calibratedProbability": 0.5014367
@@ -3123,7 +3109,7 @@
         "latitudeE7": 487170022,
         "longitudeE7": 445116802,
         "placeId": "ChIJs1mY5FzKGkEReAepgQUe3fE",
-        "address": "ул. Невская, 6\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 6, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kassandra Russia, Volgograd, Nevskaya Ulitsa, 6, 400087",
         "locationConfidence": 0.5658052,
         "calibratedProbability": 0.41227376
@@ -3131,7 +3117,7 @@
         "latitudeE7": 487157720,
         "longitudeE7": 445114070,
         "placeId": "ChIJ08mB_jrLGkERwWhmd8cuFbA",
-        "address": "ул. Невская, 4\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 4, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Chip \u0026 Dip",
         "locationConfidence": 0.5152895,
         "calibratedProbability": 0.3754655
@@ -3147,7 +3133,7 @@
         "latitudeE7": 487175732,
         "longitudeE7": 445095631,
         "placeId": "ChIJH5hHDPPLGkERDzxLCGeyxfQ",
-        "address": "ул. Невская, 10 ст.1\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 10 ст.1, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bristol\u0027",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -3167,7 +3153,7 @@
         "latitudeE7": 487171358,
         "longitudeE7": 445107087,
         "placeId": "ChIJG-hpPzvLGkER6y4qCndycNc",
-        "address": "ул. Невская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Zdorov\u0027ye",
         "locationConfidence": 3.372697,
         "calibratedProbability": 2.1807373
@@ -3175,8 +3161,7 @@
         "latitudeE7": 487150065,
         "longitudeE7": 445091241,
         "placeId": "ChIJNRtKtTvLGkERiG-czDKJjzI",
-        "address": "ул. Новороссийская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "ул. Новороссийская, 8",
+        "address": "ул. Новороссийская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 1.6818559,
         "calibratedProbability": 1.0874637
@@ -3184,7 +3169,7 @@
         "latitudeE7": 487181326,
         "longitudeE7": 445087285,
         "placeId": "ChIJBxKBnzzLGkERvroz6ZYuAPA",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bum",
         "locationConfidence": 1.6748561,
         "calibratedProbability": 1.0829377
@@ -3192,7 +3177,7 @@
         "latitudeE7": 487167190,
         "longitudeE7": 445102510,
         "placeId": "ChIJPUOLDTvLGkERJus5XHgIvOE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Novorossiyskaya St",
         "locationConfidence": 1.3783623,
         "calibratedProbability": 0.8912291
@@ -3200,7 +3185,7 @@
         "latitudeE7": 487169473,
         "longitudeE7": 445135679,
         "placeId": "ChIJOcJH1jrLGkER4NbZHFpO3dc",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Medical Clinic № 12",
         "locationConfidence": 0.88528425,
         "calibratedProbability": 0.57241195
@@ -3208,7 +3193,7 @@
         "latitudeE7": 487161233,
         "longitudeE7": 445115746,
         "placeId": "ChIJBfwlHTvLGkERfB9NK3WJsjY",
-        "address": "ул. Новороссийская, 14, корп. Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 14, корп. Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Sberbank",
         "locationConfidence": 0.7710702,
         "calibratedProbability": 0.4985628
@@ -3216,7 +3201,7 @@
         "latitudeE7": 487175918,
         "longitudeE7": 445101189,
         "placeId": "ChIJF4EMaDvLGkERoShwP-TvXW4",
-        "address": "ул. Невская, 10\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 10, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Zdorov\u0027ye",
         "locationConfidence": 0.50203353,
         "calibratedProbability": 0.3246076
@@ -3224,7 +3209,7 @@
         "latitudeE7": 487190439,
         "longitudeE7": 445076899,
         "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
         "locationConfidence": 0.4781946,
         "calibratedProbability": 0.3091937
@@ -3232,7 +3217,7 @@
         "latitudeE7": 487173805,
         "longitudeE7": 445097999,
         "placeId": "ChIJyRp5bG_LGkERWLo_F1IB7Q8",
-        "address": "ул. Невская, 10Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 10Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "МетроFitness- сеть-спорт клубов",
         "locationConfidence": 0.46432215,
         "calibratedProbability": 0.30022398
@@ -3335,7 +3320,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -3355,7 +3339,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 2.1558928,
         "calibratedProbability": 1.8438511
@@ -3363,7 +3347,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.18216257,
         "calibratedProbability": 0.15579654
@@ -3371,7 +3355,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050171,
         "placeId": "ChIJ9wSi_rQ0BUER_l5syzF3rkw",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Pit-Stop, Magazin Avtozapchastey, Ip Lushnichenko M. I.",
         "locationConfidence": 0.16009258,
         "calibratedProbability": 0.13692094
@@ -3379,7 +3363,7 @@
         "latitudeE7": 487181810,
         "longitudeE7": 445051293,
         "placeId": "ChIJlcSmWTzLGkERJnPK1L0_PYE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rosgosstrakh",
         "locationConfidence": 0.09697952,
         "calibratedProbability": 0.0829428
@@ -3463,31 +3447,31 @@
           "latitudeE7": 487190220,
           "longitudeE7": 445057230,
           "placeId": "ChIJE7S85DzLGkER3Gaz-bjISqA",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Rodina, Cinema"
         }, {
           "latitudeE7": 487135320,
           "longitudeE7": 444968410,
           "placeId": "ChIJiUkuZz_LGkEREN7V9Fd89C4",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
           "name": "Rokossovskogo St (Angarskaya St)"
         }, {
           "latitudeE7": 487045599,
           "longitudeE7": 444822221,
           "placeId": "ChIJmzSgilvLGkERMTzB3VMgfhg",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+          "address": "Волгоград, Волгоградская обл., Россия, 400120",
           "name": "School #48"
         }, {
           "latitudeE7": 486995370,
           "longitudeE7": 444739060,
           "placeId": "ChIJQ5HOqFjLGkERp3LXOPM_tpg",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+          "address": "Волгоград, Волгоградская обл., Россия, 400120",
           "name": "Eliseeva St"
         }, {
           "latitudeE7": 486960280,
           "longitudeE7": 444680000,
           "placeId": "ChIJR6snoabMGkERj8MLp2vYsHI",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+          "address": "Волгоград, Волгоградская обл., Россия, 400120",
           "name": "Mir, Cinema"
         }],
         "name": "77",
@@ -3580,8 +3564,7 @@
         "latitudeE7": 486972109,
         "longitudeE7": 444674355,
         "placeId": "ChIJh9Z3TaHMGkERb-Cl-q7x9bc",
-        "address": "Чембарская ул., 66\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
-        "name": "Чембарская ул., 66",
+        "address": "Чембарская ул., 66, Волгоград, Волгоградская обл., Россия, 400120",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -3601,7 +3584,7 @@
         "latitudeE7": 486965437,
         "longitudeE7": 444681583,
         "placeId": "ChIJBdbqpKbMGkERI5Rwu6BCr9g",
-        "address": "Ардатовская ул., 31 б\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
+        "address": "Ардатовская ул., 31 б, Волгоград, Волгоградская обл., Россия, 400120",
         "name": "Rakoed shop",
         "locationConfidence": 0.7457993,
         "calibratedProbability": 0.72321844
@@ -3609,7 +3592,7 @@
         "latitudeE7": 486974241,
         "longitudeE7": 444669471,
         "placeId": "ChIJJ8BBT6HMGkERpsWPsK8GBP4",
-        "address": "Ардатовская ул., 37/1\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
+        "address": "Ардатовская ул., 37/1, Волгоград, Волгоградская обл., Россия, 400120",
         "name": "Avtomasterskaya",
         "locationConfidence": 0.7356439,
         "calibratedProbability": 0.7133705
@@ -3617,7 +3600,7 @@
         "latitudeE7": 486966284,
         "longitudeE7": 444680802,
         "placeId": "ChIJFyA7sKbMGkERy4xFtCVxl4w",
-        "address": "Ардатовская ул., 31Б\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "Ардатовская ул., 31Б, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Gorodskaya Stolovaya",
         "locationConfidence": 0.7193519,
         "calibratedProbability": 0.69757175
@@ -3625,7 +3608,7 @@
         "latitudeE7": 486965000,
         "longitudeE7": 444695300,
         "placeId": "ChIJLU13wKbMGkERUaNYbWrnG1k",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+        "address": "Волгоград, Волгоградская обл., Россия, 400120",
         "name": "Mir, Cinema",
         "locationConfidence": 0.33363983,
         "calibratedProbability": 0.32353806
@@ -3641,7 +3624,7 @@
         "latitudeE7": 486965000,
         "longitudeE7": 444695300,
         "placeId": "ChIJLU13wKbMGkERUaNYbWrnG1k",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+        "address": "Волгоград, Волгоградская обл., Россия, 400120",
         "name": "Mir, Cinema",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -3661,7 +3644,7 @@
         "latitudeE7": 486961617,
         "longitudeE7": 444694817,
         "placeId": "ChIJPdPZILjNGkER0kmxdGIgX7E",
-        "address": "Ардатовская ул., дом 38\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
+        "address": "Ардатовская ул., 38, Волгоград, Волгоградская обл., Россия, 400120",
         "name": "Magnit",
         "locationConfidence": 1.1052417,
         "calibratedProbability": 0.85637134
@@ -3669,8 +3652,7 @@
         "latitudeE7": 486972109,
         "longitudeE7": 444674355,
         "placeId": "ChIJh9Z3TaHMGkERb-Cl-q7x9bc",
-        "address": "Чембарская ул., 66\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
-        "name": "Чембарская ул., 66",
+        "address": "Чембарская ул., 66, Волгоград, Волгоградская обл., Россия, 400120",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 0.81612784,
         "calibratedProbability": 0.6323581
@@ -3678,7 +3660,7 @@
         "latitudeE7": 486960680,
         "longitudeE7": 444690540,
         "placeId": "ChIJ5WgnmKbMGkERYaH5EwgMhnA",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+        "address": "Волгоград, Волгоградская обл., Россия, 400120",
         "name": "Mir, Cinema",
         "locationConfidence": 0.56817436,
         "calibratedProbability": 0.44023696
@@ -3686,7 +3668,7 @@
         "latitudeE7": 486965437,
         "longitudeE7": 444681583,
         "placeId": "ChIJBdbqpKbMGkERI5Rwu6BCr9g",
-        "address": "Ардатовская ул., 31 б\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
+        "address": "Ардатовская ул., 31 б, Волгоград, Волгоградская обл., Россия, 400120",
         "name": "Rakoed shop",
         "locationConfidence": 0.48255053,
         "calibratedProbability": 0.3738933
@@ -3770,37 +3752,37 @@
           "latitudeE7": 486965000,
           "longitudeE7": 444695300,
           "placeId": "ChIJLU13wKbMGkERUaNYbWrnG1k",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+          "address": "Волгоград, Волгоградская обл., Россия, 400120",
           "name": "Mir, Cinema"
         }, {
           "latitudeE7": 487000337,
           "longitudeE7": 444753354,
           "placeId": "ChIJgb1yuFjLGkERX2hV8t4t3_Y",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+          "address": "Волгоград, Волгоградская обл., Россия, 400120",
           "name": "Eliseeva St"
         }, {
           "latitudeE7": 487039320,
           "longitudeE7": 444817430,
           "placeId": "ChIJx_mNiFvLGkERxVFkMZpI1J8",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+          "address": "Волгоград, Волгоградская обл., Россия, 400120",
           "name": "School #48"
         }, {
           "latitudeE7": 487066400,
           "longitudeE7": 444861650,
           "placeId": "ChIJW280WEPLGkERW4Gwyqig99s",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+          "address": "Волгоград, Волгоградская обл., Россия, 400120",
           "name": "Rostovskaya St"
         }, {
           "latitudeE7": 487140430,
           "longitudeE7": 444982180,
           "placeId": "ChIJWQ7lPz_LGkERvD7WYx6dXA4",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
           "name": "Angarskaya St"
         }, {
           "latitudeE7": 487194540,
           "longitudeE7": 445070150,
           "placeId": "ChIJ702C3DzLGkERfqydSNV0UCE",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
           "name": "Rodina, Cinema"
         }],
         "name": "8s",
@@ -3844,7 +3826,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -3864,7 +3845,7 @@
         "latitudeE7": 487172172,
         "longitudeE7": 445047539,
         "placeId": "ChIJA28nAzzLGkERY9hW9fh7uS8",
-        "address": "ул. Кубанская, 20\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Кубанская, 20, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Skver 8 Marta, Memorial",
         "locationConfidence": 0.25052616,
         "calibratedProbability": 0.21282163
@@ -3872,7 +3853,7 @@
         "latitudeE7": 487197125,
         "longitudeE7": 445064935,
         "placeId": "ChIJE5Jg54nLGkERBem624VnT98",
-        "address": "ул. имени Маршала Рокоссовского, 49\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "ул. имени Маршала Рокоссовского, 49, Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Perekrestok",
         "locationConfidence": 0.16544181,
         "calibratedProbability": 0.1405426
@@ -3880,7 +3861,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.12279904,
         "calibratedProbability": 0.10431761
@@ -3888,7 +3869,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 0.11323198,
         "calibratedProbability": 0.096190415
@@ -4004,7 +3985,7 @@
         "latitudeE7": 487169473,
         "longitudeE7": 445135679,
         "placeId": "ChIJOcJH1jrLGkER4NbZHFpO3dc",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Medical Clinic № 12",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -4024,7 +4005,7 @@
         "latitudeE7": 487174720,
         "longitudeE7": 445132980,
         "placeId": "ChIJl3bt1iTLGkERZZUkw8ee8qA",
-        "address": "Волгоград Волгоградская обл. 400087ул\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград Волгоградская обл. 400087ул, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Новороссийский Рынок",
         "locationConfidence": 15.001848,
         "calibratedProbability": 11.825903
@@ -4032,7 +4013,7 @@
         "latitudeE7": 487161233,
         "longitudeE7": 445115746,
         "placeId": "ChIJBfwlHTvLGkERfB9NK3WJsjY",
-        "address": "ул. Новороссийская, 14, корп. Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 14, корп. Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Sberbank",
         "locationConfidence": 14.720602,
         "calibratedProbability": 11.6041975
@@ -4040,7 +4021,7 @@
         "latitudeE7": 487167190,
         "longitudeE7": 445102510,
         "placeId": "ChIJPUOLDTvLGkERJus5XHgIvOE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Novorossiyskaya St",
         "locationConfidence": 4.8094697,
         "calibratedProbability": 3.7912877
@@ -4048,7 +4029,7 @@
         "latitudeE7": 487170022,
         "longitudeE7": 445116802,
         "placeId": "ChIJs1mY5FzKGkEReAepgQUe3fE",
-        "address": "ул. Невская, 6\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 6, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kassandra Russia, Volgograd, Nevskaya Ulitsa, 6, 400087",
         "locationConfidence": 3.224716,
         "calibratedProbability": 2.542032
@@ -4056,7 +4037,7 @@
         "latitudeE7": 487178340,
         "longitudeE7": 445140460,
         "placeId": "ChIJHz53QMXLGkERQI2n38QIfaM",
-        "address": "ул. Новороссийская, 67\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 67, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bretsel\u0027",
         "locationConfidence": 1.6737306,
         "calibratedProbability": 1.3193959
@@ -4064,7 +4045,7 @@
         "latitudeE7": 487169516,
         "longitudeE7": 445136679,
         "placeId": "ChIJOcJH1jrLGkER5M31NgU9QNQ",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Pharmacy 241",
         "locationConfidence": 1.6046057,
         "calibratedProbability": 1.2649049
@@ -4072,7 +4053,7 @@
         "latitudeE7": 487157720,
         "longitudeE7": 445114070,
         "placeId": "ChIJ08mB_jrLGkERwWhmd8cuFbA",
-        "address": "ул. Невская, 4\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 4, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Chip \u0026 Dip",
         "locationConfidence": 1.5440717,
         "calibratedProbability": 1.2171862
@@ -4080,7 +4061,7 @@
         "latitudeE7": 487169500,
         "longitudeE7": 445153700,
         "placeId": "ChIJL8OyMyXLGkERN1y2kcgcEFs",
-        "address": "ул. Пархоменко, 23\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Пархоменко, 23, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Школа №10",
         "locationConfidence": 1.1872464,
         "calibratedProbability": 0.9359021
@@ -4088,8 +4069,7 @@
         "latitudeE7": 487150065,
         "longitudeE7": 445091241,
         "placeId": "ChIJNRtKtTvLGkERiG-czDKJjzI",
-        "address": "ул. Новороссийская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "ул. Новороссийская, 8",
+        "address": "ул. Новороссийская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 1.0863886,
         "calibratedProbability": 0.85639626
@@ -4206,7 +4186,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -4226,7 +4205,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 0.81684345,
         "calibratedProbability": 0.6902752
@@ -4234,7 +4213,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050171,
         "placeId": "ChIJ9wSi_rQ0BUER_l5syzF3rkw",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Pit-Stop, Magazin Avtozapchastey, Ip Lushnichenko M. I.",
         "locationConfidence": 0.3196732,
         "calibratedProbability": 0.2701405
@@ -4242,7 +4221,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.2097561,
         "calibratedProbability": 0.17725483
@@ -4250,7 +4229,7 @@
         "latitudeE7": 487197125,
         "longitudeE7": 445064935,
         "placeId": "ChIJE5Jg54nLGkERBem624VnT98",
-        "address": "ул. имени Маршала Рокоссовского, 49\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "ул. имени Маршала Рокоссовского, 49, Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Perekrestok",
         "locationConfidence": 0.13523221,
         "calibratedProbability": 0.11427825
@@ -4352,7 +4331,7 @@
         "latitudeE7": 487150190,
         "longitudeE7": 445093572,
         "placeId": "ChIJ7Qn9_AXLGkERACydNbzXw_0",
-        "address": "ул. Новороссийская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Красное\u0026Белое",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -4372,8 +4351,7 @@
         "latitudeE7": 487150065,
         "longitudeE7": 445091241,
         "placeId": "ChIJNRtKtTvLGkERiG-czDKJjzI",
-        "address": "ул. Новороссийская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "ул. Новороссийская, 8",
+        "address": "ул. Новороссийская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 29.147041,
         "calibratedProbability": 20.678816
@@ -4381,7 +4359,7 @@
         "latitudeE7": 487150083,
         "longitudeE7": 445098846,
         "placeId": "ChIJuaT-6EnLGkERhAHe9XW-T_U",
-        "address": "ул. Новороссийская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Stalingradskiy Obkom Kprf",
         "locationConfidence": 1.3340752,
         "calibratedProbability": 0.94648015
@@ -4389,7 +4367,7 @@
         "latitudeE7": 487152054,
         "longitudeE7": 445080078,
         "placeId": "ChIJr1_ZxTvLGkERMYhnenNQBlM",
-        "address": "ул. Новороссийская, 41\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 41, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Ministerstvo Truda I Sotsial\u0027noy Zashchity Naseleniya Volgogradskoy Oblasti",
         "locationConfidence": 0.68326616,
         "calibratedProbability": 0.48475367
@@ -4397,7 +4375,7 @@
         "latitudeE7": 487147102,
         "longitudeE7": 445095517,
         "placeId": "ChIJvZ66RVDLGkERDzdnGo_sJsg",
-        "address": "ул. Новороссийская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "OZON",
         "locationConfidence": 0.49886197,
         "calibratedProbability": 0.3539253
@@ -4500,7 +4478,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -4520,7 +4497,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 0.6330195,
         "calibratedProbability": 0.5217987
@@ -4528,7 +4505,7 @@
         "latitudeE7": 487172172,
         "longitudeE7": 445047539,
         "placeId": "ChIJA28nAzzLGkERY9hW9fh7uS8",
-        "address": "ул. Кубанская, 20\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Кубанская, 20, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Skver 8 Marta, Memorial",
         "locationConfidence": 0.22437713,
         "calibratedProbability": 0.18495432
@@ -4536,8 +4513,7 @@
         "latitudeE7": 487180313,
         "longitudeE7": 445049547,
         "placeId": "ChIJ_yRmXDzLGkER7uoyJRaRbvM",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Россия",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 0.17611499,
         "calibratedProbability": 0.14517178
@@ -4545,7 +4521,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.16224743,
         "calibratedProbability": 0.13374074
@@ -4680,7 +4656,7 @@
         "latitudeE7": 487150190,
         "longitudeE7": 445093572,
         "placeId": "ChIJ7Qn9_AXLGkERACydNbzXw_0",
-        "address": "ул. Новороссийская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Красное\u0026Белое",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -4700,8 +4676,7 @@
         "latitudeE7": 487150065,
         "longitudeE7": 445091241,
         "placeId": "ChIJNRtKtTvLGkERiG-czDKJjzI",
-        "address": "ул. Новороссийская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "ул. Новороссийская, 8",
+        "address": "ул. Новороссийская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 10.293013,
         "calibratedProbability": 6.578616
@@ -4709,7 +4684,7 @@
         "latitudeE7": 487147102,
         "longitudeE7": 445095517,
         "placeId": "ChIJvZ66RVDLGkERDzdnGo_sJsg",
-        "address": "ул. Новороссийская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "OZON",
         "locationConfidence": 1.9810001,
         "calibratedProbability": 1.2661248
@@ -4717,7 +4692,7 @@
         "latitudeE7": 487167190,
         "longitudeE7": 445102510,
         "placeId": "ChIJPUOLDTvLGkERJus5XHgIvOE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Novorossiyskaya St",
         "locationConfidence": 0.9572248,
         "calibratedProbability": 0.61179507
@@ -4725,7 +4700,7 @@
         "latitudeE7": 487161881,
         "longitudeE7": 445099946,
         "placeId": "ChIJqzJBCDvLGkERNcTzm7720O0",
-        "address": "ул. Невская, 7А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 7А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Dealux, photo studio",
         "locationConfidence": 0.91335076,
         "calibratedProbability": 0.5837537
@@ -4733,7 +4708,7 @@
         "latitudeE7": 487138164,
         "longitudeE7": 445105794,
         "placeId": "ChIJyRd5FjrLGkERHANWbwM8soI",
-        "address": "ул. Пархоменко, 8а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Пархоменко, 8а, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Пархоменко 8а",
         "locationConfidence": 0.79751426,
         "calibratedProbability": 0.5097186
@@ -4741,7 +4716,7 @@
         "latitudeE7": 487150083,
         "longitudeE7": 445098846,
         "placeId": "ChIJuaT-6EnLGkERhAHe9XW-T_U",
-        "address": "ул. Новороссийская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Stalingradskiy Obkom Kprf",
         "locationConfidence": 0.7458557,
         "calibratedProbability": 0.47670186
@@ -4844,7 +4819,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -4864,7 +4838,7 @@
         "latitudeE7": 487172172,
         "longitudeE7": 445047539,
         "placeId": "ChIJA28nAzzLGkERY9hW9fh7uS8",
-        "address": "ул. Кубанская, 20\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Кубанская, 20, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Skver 8 Marta, Memorial",
         "locationConfidence": 0.24627307,
         "calibratedProbability": 0.21594626
@@ -4872,7 +4846,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 0.1972119,
         "calibratedProbability": 0.17292663
@@ -4880,8 +4854,7 @@
         "latitudeE7": 487180313,
         "longitudeE7": 445049547,
         "placeId": "ChIJ_yRmXDzLGkER7uoyJRaRbvM",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Россия",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 0.13493145,
         "calibratedProbability": 0.11831557
@@ -4889,7 +4862,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.12408416,
         "calibratedProbability": 0.108804055
@@ -5005,7 +4978,7 @@
         "latitudeE7": 487183800,
         "longitudeE7": 445079570,
         "placeId": "ChIJfT_wljzLGkERHIS9HzJKYcI",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -5025,7 +4998,7 @@
         "latitudeE7": 487194540,
         "longitudeE7": 445070150,
         "placeId": "ChIJ702C3DzLGkERfqydSNV0UCE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Rodina, Cinema",
         "locationConfidence": 1.1213654,
         "calibratedProbability": 1.0363863
@@ -5033,7 +5006,7 @@
         "latitudeE7": 487181326,
         "longitudeE7": 445087285,
         "placeId": "ChIJBxKBnzzLGkERvroz6ZYuAPA",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bum",
         "locationConfidence": 0.5333409,
         "calibratedProbability": 0.4929233
@@ -5041,7 +5014,7 @@
         "latitudeE7": 487179456,
         "longitudeE7": 445069716,
         "placeId": "ChIJ__-PhTzLGkERC2iLFSW0pPQ",
-        "address": "ул. Невская, 13а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 13а, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "South Med",
         "locationConfidence": 0.49458566,
         "calibratedProbability": 0.457105
@@ -5049,7 +5022,7 @@
         "latitudeE7": 487190439,
         "longitudeE7": 445076899,
         "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
         "locationConfidence": 0.441546,
         "calibratedProbability": 0.4080848
@@ -5133,55 +5106,55 @@
           "latitudeE7": 487200190,
           "longitudeE7": 445056230,
           "placeId": "ChIJIXyi3zzLGkERqdqt9q0dyeA",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
           "name": "Restoran \"Belyy Aist\""
         }, {
           "latitudeE7": 487220520,
           "longitudeE7": 445033350,
           "placeId": "ChIJR3zv-RfLGkERt3bsuFCncgw",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
           "name": "Kaspiyskaya St"
         }, {
           "latitudeE7": 487272850,
           "longitudeE7": 444999000,
           "placeId": "ChIJ3zlQyxvLGkERHsOZ0cN_Lig",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
           "name": "Irtyshskaya St"
         }, {
           "latitudeE7": 487305280,
           "longitudeE7": 444978720,
           "placeId": "ChIJaUX_TxvLGkERv_nBKmkvC4M",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
           "name": "Dzhanybekovskaya St"
         }, {
           "latitudeE7": 487362480,
           "longitudeE7": 444941930,
           "placeId": "ChIJDSJMfwHLGkER518CDtCeu14",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400107",
+          "address": "Волгоград, Волгоградская обл., Россия, 400107",
           "name": "Tekhnologicheskiy College"
         }, {
           "latitudeE7": 487418870,
           "longitudeE7": 444908520,
           "placeId": "ChIJ-2XKR1XKGkERuxY40XJJj8w",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400107",
+          "address": "Волгоград, Волгоградская обл., Россия, 400107",
           "name": "Khorosheva St"
         }, {
           "latitudeE7": 487459410,
           "longitudeE7": 444881310,
           "placeId": "ChIJrRZuhFPKGkERkL4qfvCzdN0",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400048",
+          "address": "Волгоград, Волгоградская обл., Россия, 400048",
           "name": "Agentstvo vozdushnykh soobscheniy"
         }, {
           "latitudeE7": 487494200,
           "longitudeE7": 444857120,
           "placeId": "ChIJYQfRHlLKGkERUqtzluG5_9Y",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400048",
+          "address": "Волгоград, Волгоградская обл., Россия, 400048",
           "name": "Tsentr detskogo tvorchestva"
         }, {
           "latitudeE7": 487524240,
           "longitudeE7": 444836130,
           "placeId": "ChIJ5Y9yZE7KGkERR2Kcbc6TG0I",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400048",
+          "address": "Волгоград, Волгоградская обл., Россия, 400048",
           "name": "Zemlyachki St"
         }],
         "name": "65",
@@ -5394,7 +5367,7 @@
         "latitudeE7": 487564676,
         "longitudeE7": 444780763,
         "placeId": "ChIJXeqMA0nKGkERphoGRZ5Gh5o",
-        "address": "Историческая ул., 175\nВолгоград\nВолгоградская обл.\nРоссия\n400075",
+        "address": "Историческая ул., 175, Волгоград, Волгоградская обл., Россия, 400075",
         "name": "Auchan",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -5414,7 +5387,7 @@
         "latitudeE7": 487538530,
         "longitudeE7": 444791998,
         "placeId": "ChIJ05SbTUnKGkER4UqxuUrXvYo",
-        "address": "ш. Авиаторов, 2Г\nВолгоград\nВолгоградская обл.\nРоссия\n400048",
+        "address": "ш. Авиаторов, 2г, Волгоград, Волгоградская обл., Россия, 400048",
         "name": "Toyota Agat Na Aviatorov",
         "locationConfidence": 9.5835,
         "calibratedProbability": 5.927696
@@ -5422,7 +5395,7 @@
         "latitudeE7": 487545160,
         "longitudeE7": 444786540,
         "placeId": "ChIJ456nQUnKGkERWXlW-W6I67c",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400048",
+        "address": "Волгоград, Волгоградская обл., Россия, 400048",
         "name": "Real Mall (Park and ride Ashan)",
         "locationConfidence": 4.3877873,
         "calibratedProbability": 2.7139845
@@ -5430,7 +5403,7 @@
         "latitudeE7": 487546070,
         "longitudeE7": 444820870,
         "placeId": "ChIJWYMU1k7KGkEReJ-uq688JFM",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400089",
+        "address": "Волгоград, Волгоградская обл., Россия, 400089",
         "name": "Zemlyachki St (Samarskiy razyeezd)",
         "locationConfidence": 3.8879611,
         "calibratedProbability": 2.4048262
@@ -5438,7 +5411,7 @@
         "latitudeE7": 487547790,
         "longitudeE7": 444787930,
         "placeId": "ChIJhe90OknKGkERcGOJWtsjixA",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400048",
+        "address": "Волгоград, Волгоградская обл., Россия, 400048",
         "name": "Real Mall (Park and ride Ashan)",
         "locationConfidence": 2.8251019,
         "calibratedProbability": 1.7474144
@@ -5446,7 +5419,7 @@
         "latitudeE7": 487539372,
         "longitudeE7": 444813714,
         "placeId": "ChIJ_09Wz07KGkERFijSbk-NoDg",
-        "address": "ул. им. Землячки, 15Б\nВолгоград\nВолгоградская обл.\nРоссия\n400048",
+        "address": "ул. им. Землячки, 15Б, Волгоград, Волгоградская обл., Россия, 400048",
         "name": "Parking guarded 24 hours Volgograd",
         "locationConfidence": 2.2992961,
         "calibratedProbability": 1.422187
@@ -5454,7 +5427,7 @@
         "latitudeE7": 487530953,
         "longitudeE7": 444771637,
         "placeId": "ChIJjf6G-kvKGkER5dNrPh_W1o4",
-        "address": "ш. Авиаторов, 2А\nВолгоград\nВолгоградская обл.\nРоссия\n400048",
+        "address": "ш. Авиаторов, 2А, Волгоград, Волгоградская обл., Россия, 400048",
         "name": "Hyundai АГАТ на Авиаторов",
         "locationConfidence": 0.896027,
         "calibratedProbability": 0.5542209
@@ -5462,7 +5435,7 @@
         "latitudeE7": 487561510,
         "longitudeE7": 444822990,
         "placeId": "ChIJWVIQuEjKGkERm-zvcSNZ_zY",
-        "address": "Историческая ул., 130\nВолгоград\nВолгоградская обл.\nРоссия\n400075",
+        "address": "Историческая ул., 130, Волгоград, Волгоградская обл., Россия, 400075",
         "name": "Volgogradskaya Akademiya Mvd Rossii",
         "locationConfidence": 0.80041486,
         "calibratedProbability": 0.49508175
@@ -5470,7 +5443,7 @@
         "latitudeE7": 487523369,
         "longitudeE7": 444837111,
         "placeId": "ChIJ_y0wXE7KGkERIZkmBEXKTtI",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400048",
+        "address": "Волгоград, Волгоградская обл., Россия, 400048",
         "name": "Zemlyachki",
         "locationConfidence": 0.6250116,
         "calibratedProbability": 0.38658935
@@ -5478,7 +5451,7 @@
         "latitudeE7": 487537091,
         "longitudeE7": 444836798,
         "placeId": "ChIJm0su407KGkERrqk2Rx3RJQ4",
-        "address": "ул. им. Землячки, 38\nВолгоград\nВолгоградская обл.\nРоссия\n400048",
+        "address": "ул. им. Землячки, 38, Волгоград, Волгоградская обл., Россия, 400048",
         "name": "Radezh",
         "locationConfidence": 0.47435287,
         "calibratedProbability": 0.29340217
@@ -5878,7 +5851,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -5898,7 +5870,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 1.8028777,
         "calibratedProbability": 1.5675774
@@ -5906,7 +5878,7 @@
         "latitudeE7": 487179400,
         "longitudeE7": 445049200,
         "placeId": "ChIJ9wSi_rQ0BUER0MnLDGjs52g",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kapital Meditsinskoye Strakhovaniye",
         "locationConfidence": 0.2730568,
         "calibratedProbability": 0.23741914
@@ -5914,7 +5886,7 @@
         "latitudeE7": 487181810,
         "longitudeE7": 445051293,
         "placeId": "ChIJlcSmWTzLGkERJnPK1L0_PYE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rosgosstrakh",
         "locationConfidence": 0.25359592,
         "calibratedProbability": 0.22049817
@@ -5922,7 +5894,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.16472755,
         "calibratedProbability": 0.14322835
@@ -6024,7 +5996,7 @@
         "latitudeE7": 487183800,
         "longitudeE7": 445079570,
         "placeId": "ChIJfT_wljzLGkERHIS9HzJKYcI",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -6044,7 +6016,7 @@
         "latitudeE7": 487181125,
         "longitudeE7": 445087210,
         "placeId": "ChIJR6L1WDvLGkER86He9b_XjjY",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Nevskiy Passazh",
         "locationConfidence": 3.1862206,
         "calibratedProbability": 2.5164251
@@ -6052,7 +6024,7 @@
         "latitudeE7": 487194540,
         "longitudeE7": 445070150,
         "placeId": "ChIJ702C3DzLGkERfqydSNV0UCE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Rodina, Cinema",
         "locationConfidence": 1.2430216,
         "calibratedProbability": 0.9817182
@@ -6060,7 +6032,7 @@
         "latitudeE7": 487179456,
         "longitudeE7": 445069716,
         "placeId": "ChIJ__-PhTzLGkERC2iLFSW0pPQ",
-        "address": "ул. Невская, 13а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 13а, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "South Med",
         "locationConfidence": 0.5513075,
         "calibratedProbability": 0.43541366
@@ -6068,7 +6040,7 @@
         "latitudeE7": 487184500,
         "longitudeE7": 445070240,
         "placeId": "ChIJKe7Z7DzLGkERPP2Fmv9PbmM",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "locationConfidence": 0.4680344,
         "calibratedProbability": 0.36964592
@@ -6152,55 +6124,55 @@
           "latitudeE7": 487183800,
           "longitudeE7": 445079570,
           "placeId": "ChIJfT_wljzLGkERHIS9HzJKYcI",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Rodina, Cinema"
         }, {
           "latitudeE7": 487220520,
           "longitudeE7": 445033350,
           "placeId": "ChIJR3zv-RfLGkERt3bsuFCncgw",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
           "name": "Kaspiyskaya St"
         }, {
           "latitudeE7": 487272850,
           "longitudeE7": 444999000,
           "placeId": "ChIJ3zlQyxvLGkERHsOZ0cN_Lig",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
           "name": "Irtyshskaya St"
         }, {
           "latitudeE7": 487305280,
           "longitudeE7": 444978720,
           "placeId": "ChIJaUX_TxvLGkERv_nBKmkvC4M",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
           "name": "Dzhanybekovskaya St"
         }, {
           "latitudeE7": 487362480,
           "longitudeE7": 444941930,
           "placeId": "ChIJDSJMfwHLGkER518CDtCeu14",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400107",
+          "address": "Волгоград, Волгоградская обл., Россия, 400107",
           "name": "Tekhnologicheskiy College"
         }, {
           "latitudeE7": 487418870,
           "longitudeE7": 444908520,
           "placeId": "ChIJ-2XKR1XKGkERuxY40XJJj8w",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400107",
+          "address": "Волгоград, Волгоградская обл., Россия, 400107",
           "name": "Khorosheva St"
         }, {
           "latitudeE7": 487459410,
           "longitudeE7": 444881310,
           "placeId": "ChIJrRZuhFPKGkERkL4qfvCzdN0",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400048",
+          "address": "Волгоград, Волгоградская обл., Россия, 400048",
           "name": "Agentstvo vozdushnykh soobscheniy"
         }, {
           "latitudeE7": 487494200,
           "longitudeE7": 444857120,
           "placeId": "ChIJYQfRHlLKGkERUqtzluG5_9Y",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400048",
+          "address": "Волгоград, Волгоградская обл., Россия, 400048",
           "name": "Tsentr detskogo tvorchestva"
         }, {
           "latitudeE7": 487524240,
           "longitudeE7": 444836130,
           "placeId": "ChIJ5Y9yZE7KGkERR2Kcbc6TG0I",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400048",
+          "address": "Волгоград, Волгоградская обл., Россия, 400048",
           "name": "Zemlyachki St"
         }],
         "name": "10a",
@@ -6412,7 +6384,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -6432,7 +6403,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 1.8179585,
         "calibratedProbability": 1.6187425
@@ -6440,7 +6411,7 @@
         "latitudeE7": 487179400,
         "longitudeE7": 445049200,
         "placeId": "ChIJ9wSi_rQ0BUER0MnLDGjs52g",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kapital Meditsinskoye Strakhovaniye",
         "locationConfidence": 0.35478586,
         "calibratedProbability": 0.31590763
@@ -6448,7 +6419,7 @@
         "latitudeE7": 487186584,
         "longitudeE7": 445060920,
         "placeId": "ChIJQZtk8DzLGkERvtQ1BmoC3WY",
-        "address": "ул. имени Маршала Рокоссовского, 32\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 32, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Territoriya",
         "locationConfidence": 0.28382713,
         "calibratedProbability": 0.2527247
@@ -6456,7 +6427,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.113387525,
         "calibratedProbability": 0.10096227
@@ -6558,7 +6529,7 @@
         "latitudeE7": 487161233,
         "longitudeE7": 445115746,
         "placeId": "ChIJBfwlHTvLGkERfB9NK3WJsjY",
-        "address": "ул. Новороссийская, 14, корп. Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 14, корп. Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Sberbank",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -6578,7 +6549,7 @@
         "latitudeE7": 487169473,
         "longitudeE7": 445135679,
         "placeId": "ChIJOcJH1jrLGkER4NbZHFpO3dc",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Medical Clinic № 12",
         "locationConfidence": 3.8273733,
         "calibratedProbability": 3.2829401
@@ -6586,7 +6557,7 @@
         "latitudeE7": 487174720,
         "longitudeE7": 445132980,
         "placeId": "ChIJl3bt1iTLGkERZZUkw8ee8qA",
-        "address": "Волгоград Волгоградская обл. 400087ул\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград Волгоградская обл. 400087ул, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Новороссийский Рынок",
         "locationConfidence": 2.9981413,
         "calibratedProbability": 2.571664
@@ -6594,7 +6565,7 @@
         "latitudeE7": 487162038,
         "longitudeE7": 445116036,
         "placeId": "ChIJoUXmAjvLGkER_8xlL8p0fYk",
-        "address": "ул. Новороссийская, 14-Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 14-Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Muztorg",
         "locationConfidence": 2.8138776,
         "calibratedProbability": 2.4136114
@@ -6602,7 +6573,7 @@
         "latitudeE7": 487157720,
         "longitudeE7": 445114070,
         "placeId": "ChIJ08mB_jrLGkERwWhmd8cuFbA",
-        "address": "ул. Невская, 4\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 4, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Chip \u0026 Dip",
         "locationConfidence": 1.4353822,
         "calibratedProbability": 1.2312031
@@ -6610,7 +6581,7 @@
         "latitudeE7": 487167190,
         "longitudeE7": 445102510,
         "placeId": "ChIJPUOLDTvLGkERJus5XHgIvOE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Novorossiyskaya St",
         "locationConfidence": 0.86875856,
         "calibratedProbability": 0.7451801
@@ -6618,7 +6589,7 @@
         "latitudeE7": 487161939,
         "longitudeE7": 445112827,
         "placeId": "ChIJXaFEsVHLGkERVrlGIe4i3-o",
-        "address": "ул. Новороссийская, 14А\nВолгоград\nВолгоградская обл.\nРоссия\n400073",
+        "address": "ул. Новороссийская, 14А, Волгоград, Волгоградская обл., Россия, 400073",
         "name": "Rybka Kamchatki",
         "locationConfidence": 0.6659116,
         "calibratedProbability": 0.57118756
@@ -6626,7 +6597,7 @@
         "latitudeE7": 487181125,
         "longitudeE7": 445087210,
         "placeId": "ChIJR6L1WDvLGkER86He9b_XjjY",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Nevskiy Passazh",
         "locationConfidence": 0.66479284,
         "calibratedProbability": 0.5702279
@@ -6634,7 +6605,7 @@
         "latitudeE7": 487178340,
         "longitudeE7": 445140460,
         "placeId": "ChIJHz53QMXLGkERQI2n38QIfaM",
-        "address": "ул. Новороссийская, 67\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 67, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bretsel\u0027",
         "locationConfidence": 0.5331643,
         "calibratedProbability": 0.45732316
@@ -6642,7 +6613,7 @@
         "latitudeE7": 487169516,
         "longitudeE7": 445136679,
         "placeId": "ChIJOcJH1jrLGkER5M31NgU9QNQ",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Pharmacy 241",
         "locationConfidence": 0.51272684,
         "calibratedProbability": 0.43979287
@@ -6759,7 +6730,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -6779,7 +6749,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 2.0546408,
         "calibratedProbability": 1.7280302
@@ -6787,7 +6757,7 @@
         "latitudeE7": 487179400,
         "longitudeE7": 445049200,
         "placeId": "ChIJ9wSi_rQ0BUER0MnLDGjs52g",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kapital Meditsinskoye Strakhovaniye",
         "locationConfidence": 0.422678,
         "calibratedProbability": 0.3554881
@@ -6795,7 +6765,7 @@
         "latitudeE7": 487181810,
         "longitudeE7": 445051293,
         "placeId": "ChIJlcSmWTzLGkERJnPK1L0_PYE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rosgosstrakh",
         "locationConfidence": 0.3070717,
         "calibratedProbability": 0.25825885
@@ -6803,7 +6773,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.18203633,
         "calibratedProbability": 0.1530994
@@ -6905,7 +6875,7 @@
         "latitudeE7": 487227221,
         "longitudeE7": 445125779,
         "placeId": "ChIJHTaNtSPLGkERsPMEJnxdCUk",
-        "address": "ул. имени Маршала Рокоссовского, 42\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 42, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Parfyum Dekor",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -6925,7 +6895,7 @@
         "latitudeE7": 487228048,
         "longitudeE7": 445127297,
         "placeId": "ChIJrZ2KtSPLGkERbaEolPbWDpk",
-        "address": "ул. имени Маршала Рокоссовского, 42\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 42, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Volgofarm Apteka 72",
         "locationConfidence": 13.87211,
         "calibratedProbability": 12.459311
@@ -6933,7 +6903,7 @@
         "latitudeE7": 487226080,
         "longitudeE7": 445120470,
         "placeId": "ChIJB7bNtCPLGkERkG1HiNtzGBo",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Dvinskaya St",
         "locationConfidence": 1.8554463,
         "calibratedProbability": 1.6664791
@@ -6941,7 +6911,7 @@
         "latitudeE7": 487225384,
         "longitudeE7": 445128437,
         "placeId": "ChIJb_EkVuDLGkEREQtwRlRW30I",
-        "address": "Волгоград улица Рокоссовского 42 помещение V\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград улица Рокоссовского 42 помещение V, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Ural\u0027skiy Bank Rekonstruktsii I Razvitiya",
         "locationConfidence": 1.459475,
         "calibratedProbability": 1.3108354
@@ -6949,7 +6919,7 @@
         "latitudeE7": 487223406,
         "longitudeE7": 445119384,
         "placeId": "ChIJi4dRsiPLGkERR5hTgGw1tLE",
-        "address": "ул. имени Маршала Рокоссовского, 42 Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 42 Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rusters",
         "locationConfidence": 1.1412132,
         "calibratedProbability": 1.0249867
@@ -6957,7 +6927,7 @@
         "latitudeE7": 487226512,
         "longitudeE7": 445125067,
         "placeId": "ChIJmx8UPHLLGkERYe6oXrP3kk0",
-        "address": "ул. имени Маршала Рокоссовского, 42\nВолгоград\nВолгоградская обл.\nРоссия\n400081",
+        "address": "ул. имени Маршала Рокоссовского, 42, Волгоград, Волгоградская обл., Россия, 400081",
         "name": "Igroman",
         "locationConfidence": 1.0805098,
         "calibratedProbability": 0.9704657
@@ -6965,7 +6935,7 @@
         "latitudeE7": 487232945,
         "longitudeE7": 445134030,
         "placeId": "ChIJ22aG0yPLGkEREvItR0gCUZc",
-        "address": "ул. имени Маршала Рокоссовского, 44\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 44, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Modeks",
         "locationConfidence": 0.9115665,
         "calibratedProbability": 0.8187284
@@ -6973,7 +6943,7 @@
         "latitudeE7": 487219916,
         "longitudeE7": 445113152,
         "placeId": "ChIJ4ciAqyPLGkERXQPuJrzCuNc",
-        "address": "Двинская ул., 17\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Двинская ул., 17, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Magnit",
         "locationConfidence": 0.8555972,
         "calibratedProbability": 0.76845926
@@ -6981,7 +6951,7 @@
         "latitudeE7": 487234503,
         "longitudeE7": 445137718,
         "placeId": "ChIJycGG1CPLGkERNUIHod5SpU4",
-        "address": "ул. имени Маршала Рокоссовского, 44\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 44, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Pekarnya Khlebnitsa",
         "locationConfidence": 0.61650383,
         "calibratedProbability": 0.55371624
@@ -7139,7 +7109,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -7159,7 +7128,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 1.3825616,
         "calibratedProbability": 1.1469978
@@ -7167,7 +7136,7 @@
         "latitudeE7": 487197125,
         "longitudeE7": 445064935,
         "placeId": "ChIJE5Jg54nLGkERBem624VnT98",
-        "address": "ул. имени Маршала Рокоссовского, 49\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "ул. имени Маршала Рокоссовского, 49, Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Perekrestok",
         "locationConfidence": 0.47523013,
         "calibratedProbability": 0.39425942
@@ -7175,7 +7144,7 @@
         "latitudeE7": 487190220,
         "longitudeE7": 445057230,
         "placeId": "ChIJE7S85DzLGkER3Gaz-bjISqA",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "locationConfidence": 0.4103231,
         "calibratedProbability": 0.3404114
@@ -7183,7 +7152,7 @@
         "latitudeE7": 487194540,
         "longitudeE7": 445070150,
         "placeId": "ChIJ702C3DzLGkERfqydSNV0UCE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Rodina, Cinema",
         "locationConfidence": 0.37614495,
         "calibratedProbability": 0.31205657
@@ -7285,7 +7254,7 @@
         "latitudeE7": 487181125,
         "longitudeE7": 445087210,
         "placeId": "ChIJR6L1WDvLGkER86He9b_XjjY",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Nevskiy Passazh",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -7303,7 +7272,7 @@
           "latitudeE7": 487181408,
           "longitudeE7": 445086919,
           "placeId": "ChIJUQHzaFvKGkERcDc4iFhnB3k",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Mts",
           "sourceInfo": {
             "deviceTag": -433751553
@@ -7324,7 +7293,7 @@
           "latitudeE7": 487180972,
           "longitudeE7": 445087767,
           "placeId": "ChIJORdvu6QtBUER4gka0RabqU4",
-          "address": "ул. Невская, 12в\nВолгоград\nВолгоградская обл.\nРоссия\n400059",
+          "address": "ул. Невская, 12в, Волгоград, Волгоградская обл., Россия, 400059",
           "name": "Pyaterochka",
           "locationConfidence": 8.324801,
           "calibratedProbability": 9.746471
@@ -7332,7 +7301,7 @@
           "latitudeE7": 487181326,
           "longitudeE7": 445087285,
           "placeId": "ChIJBxKBnzzLGkERvroz6ZYuAPA",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Bum",
           "locationConfidence": 7.656513,
           "calibratedProbability": 8.964056
@@ -7340,7 +7309,7 @@
           "latitudeE7": 487181780,
           "longitudeE7": 445088090,
           "placeId": "ChIJvVg0KJLLGkERK4e1qfqNehg",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Apteka Vita Tsentral\u0027naya",
           "locationConfidence": 6.338708,
           "calibratedProbability": 7.421202
@@ -7348,15 +7317,15 @@
           "latitudeE7": 487180902,
           "longitudeE7": 445087885,
           "placeId": "ChIJU__p2S3LGkERUBmKBA9Zogk",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
-          "name": "Signal34 - Remont Telefonov",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400005",
+          "name": "Remont Telefonov Signal34 Volgograd",
           "locationConfidence": 4.061035,
           "calibratedProbability": 4.7545595
         }, {
           "latitudeE7": 487190439,
           "longitudeE7": 445076899,
           "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
-          "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
           "locationConfidence": 2.2284372,
           "calibratedProbability": 2.608999
@@ -7364,7 +7333,7 @@
           "latitudeE7": 487200190,
           "longitudeE7": 445056230,
           "placeId": "ChIJIXyi3zzLGkERqdqt9q0dyeA",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
           "name": "Restoran \"Belyy Aist\"",
           "locationConfidence": 0.9387234,
           "calibratedProbability": 1.0990341
@@ -7372,7 +7341,7 @@
           "latitudeE7": 487178482,
           "longitudeE7": 445090815,
           "placeId": "ChIJR6L1WDvLGkERNs-Sm9jchRE",
-          "address": "ул. Невская, 12в\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12в, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Apteka Ekonom",
           "locationConfidence": 0.9323718,
           "calibratedProbability": 1.0915978
@@ -7380,7 +7349,7 @@
           "latitudeE7": 487189803,
           "longitudeE7": 445076347,
           "placeId": "ChIJ9yOMwTzLGkER9WAL0gz59ms",
-          "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Splav",
           "locationConfidence": 0.7212238,
           "calibratedProbability": 0.8443909
@@ -7388,7 +7357,7 @@
           "latitudeE7": 487180620,
           "longitudeE7": 445088727,
           "placeId": "ChIJrcYmnjzLGkERtoOMfgP9XQU",
-          "address": "ТЦ \"Невский пассаж\nул. Невская, 12В, Цокольный этаж\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ТЦ \"Невский пассаж, ул. Невская, 12В, Цокольный этаж, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Voyentorg",
           "locationConfidence": 0.5546573,
           "calibratedProbability": 0.649379
@@ -7405,15 +7374,15 @@
         "latitudeE7": 487180902,
         "longitudeE7": 445087885,
         "placeId": "ChIJU__p2S3LGkERUBmKBA9Zogk",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
-        "name": "Signal34 - Remont Telefonov",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400005",
+        "name": "Remont Telefonov Signal34 Volgograd",
         "locationConfidence": 3.796084,
         "calibratedProbability": 3.4556532
       }, {
         "latitudeE7": 487183800,
         "longitudeE7": 445079570,
         "placeId": "ChIJfT_wljzLGkERHIS9HzJKYcI",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "locationConfidence": 0.740967,
         "calibratedProbability": 0.67451745
@@ -7421,7 +7390,7 @@
         "latitudeE7": 487175732,
         "longitudeE7": 445095631,
         "placeId": "ChIJH5hHDPPLGkERDzxLCGeyxfQ",
-        "address": "ул. Невская, 10 ст.1\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 10 ст.1, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bristol\u0027",
         "locationConfidence": 0.42351118,
         "calibratedProbability": 0.38553095
@@ -7429,7 +7398,7 @@
         "latitudeE7": 487190439,
         "longitudeE7": 445076899,
         "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
-        "address": "ул. Невская, 16А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
         "locationConfidence": 0.3759137,
         "calibratedProbability": 0.34220198
@@ -7532,7 +7501,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -7552,7 +7520,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 0.37693197,
         "calibratedProbability": 0.3254307
@@ -7560,8 +7528,7 @@
         "latitudeE7": 487180313,
         "longitudeE7": 445049547,
         "placeId": "ChIJ_yRmXDzLGkER7uoyJRaRbvM",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Россия",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 0.14480619,
         "calibratedProbability": 0.12502092
@@ -7569,7 +7536,7 @@
         "latitudeE7": 487172172,
         "longitudeE7": 445047539,
         "placeId": "ChIJA28nAzzLGkERY9hW9fh7uS8",
-        "address": "ул. Кубанская, 20\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Кубанская, 20, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Skver 8 Marta, Memorial",
         "locationConfidence": 0.13836125,
         "calibratedProbability": 0.11945656
@@ -7577,7 +7544,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.123351626,
         "calibratedProbability": 0.10649775
@@ -7679,7 +7646,7 @@
         "latitudeE7": 487161233,
         "longitudeE7": 445115746,
         "placeId": "ChIJBfwlHTvLGkERfB9NK3WJsjY",
-        "address": "ул. Новороссийская, 14, корп. Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 14, корп. Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Sberbank",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -7699,7 +7666,7 @@
         "latitudeE7": 487169473,
         "longitudeE7": 445135679,
         "placeId": "ChIJOcJH1jrLGkER4NbZHFpO3dc",
-        "address": "ул. Новороссийская, 26\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 26, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Medical Clinic № 12",
         "locationConfidence": 4.5759177,
         "calibratedProbability": 3.5767372
@@ -7707,7 +7674,7 @@
         "latitudeE7": 487162038,
         "longitudeE7": 445116036,
         "placeId": "ChIJoUXmAjvLGkER_8xlL8p0fYk",
-        "address": "ул. Новороссийская, 14-Б\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Новороссийская, 14-Б, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Muztorg",
         "locationConfidence": 4.0449824,
         "calibratedProbability": 3.1617348
@@ -7715,7 +7682,7 @@
         "latitudeE7": 487174720,
         "longitudeE7": 445132980,
         "placeId": "ChIJl3bt1iTLGkERZZUkw8ee8qA",
-        "address": "Волгоград Волгоградская обл. 400087ул\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград Волгоградская обл. 400087ул, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Новороссийский Рынок",
         "locationConfidence": 3.0057995,
         "calibratedProbability": 2.3494642
@@ -7723,7 +7690,7 @@
         "latitudeE7": 487157720,
         "longitudeE7": 445114070,
         "placeId": "ChIJ08mB_jrLGkERwWhmd8cuFbA",
-        "address": "ул. Невская, 4\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 4, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Chip \u0026 Dip",
         "locationConfidence": 2.278342,
         "calibratedProbability": 1.7808516
@@ -7731,7 +7698,7 @@
         "latitudeE7": 487159333,
         "longitudeE7": 445110916,
         "placeId": "ChIJEw3b_TrLGkERX13jy4IWa2w",
-        "address": "ул. Невская, 4\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 4, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Animal Planet",
         "locationConfidence": 0.7726958,
         "calibratedProbability": 0.6039728
@@ -7739,7 +7706,7 @@
         "latitudeE7": 487167190,
         "longitudeE7": 445102510,
         "placeId": "ChIJPUOLDTvLGkERJus5XHgIvOE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Novorossiyskaya St",
         "locationConfidence": 0.55526423,
         "calibratedProbability": 0.43401876
@@ -7841,7 +7808,7 @@
         "latitudeE7": 487181125,
         "longitudeE7": 445087210,
         "placeId": "ChIJR6L1WDvLGkER86He9b_XjjY",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Nevskiy Passazh",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -7859,7 +7826,7 @@
           "latitudeE7": 487181408,
           "longitudeE7": 445086919,
           "placeId": "ChIJUQHzaFvKGkERcDc4iFhnB3k",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Mts",
           "sourceInfo": {
             "deviceTag": -433751553
@@ -7880,7 +7847,7 @@
           "latitudeE7": 487180972,
           "longitudeE7": 445087767,
           "placeId": "ChIJORdvu6QtBUER4gka0RabqU4",
-          "address": "ул. Невская, 12в\nВолгоград\nВолгоградская обл.\nРоссия\n400059",
+          "address": "ул. Невская, 12в, Волгоград, Волгоградская обл., Россия, 400059",
           "name": "Pyaterochka",
           "locationConfidence": 18.941067,
           "calibratedProbability": 22.4466
@@ -7888,7 +7855,7 @@
           "latitudeE7": 487181326,
           "longitudeE7": 445087285,
           "placeId": "ChIJBxKBnzzLGkERvroz6ZYuAPA",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Bum",
           "locationConfidence": 9.061791,
           "calibratedProbability": 10.73891
@@ -7896,15 +7863,15 @@
           "latitudeE7": 487180902,
           "longitudeE7": 445087885,
           "placeId": "ChIJU__p2S3LGkERUBmKBA9Zogk",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
-          "name": "Signal34 - Remont Telefonov",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400005",
+          "name": "Remont Telefonov Signal34 Volgograd",
           "locationConfidence": 7.556617,
           "calibratedProbability": 8.955164
         }, {
           "latitudeE7": 487180620,
           "longitudeE7": 445088727,
           "placeId": "ChIJrcYmnjzLGkERtoOMfgP9XQU",
-          "address": "ТЦ \"Невский пассаж\nул. Невская, 12В, Цокольный этаж\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ТЦ \"Невский пассаж, ул. Невская, 12В, Цокольный этаж, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Voyentorg",
           "locationConfidence": 1.6007216,
           "calibratedProbability": 1.8969765
@@ -7912,7 +7879,7 @@
           "latitudeE7": 487181780,
           "longitudeE7": 445088090,
           "placeId": "ChIJvVg0KJLLGkERK4e1qfqNehg",
-          "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Apteka Vita Tsentral\u0027naya",
           "locationConfidence": 1.3392471,
           "calibratedProbability": 1.5871093
@@ -7920,7 +7887,7 @@
           "latitudeE7": 487178482,
           "longitudeE7": 445090815,
           "placeId": "ChIJR6L1WDvLGkERNs-Sm9jchRE",
-          "address": "ул. Невская, 12в\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ул. Невская, 12в, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Apteka Ekonom",
           "locationConfidence": 1.2642179,
           "calibratedProbability": 1.498194
@@ -7928,7 +7895,7 @@
           "latitudeE7": 487179556,
           "longitudeE7": 445089349,
           "placeId": "ChIJD-gvnjzLGkERLPu836anV5c",
-          "address": "ТЦ \"Невский пассаж\"\nул. Невская, 12В, Цокольный этаж\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "ТЦ \"Невский пассаж\", ул. Невская, 12В, Цокольный этаж, Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Fabrics, clothing accessories",
           "locationConfidence": 0.45288718,
           "calibratedProbability": 0.5367056
@@ -7945,15 +7912,15 @@
         "latitudeE7": 487180902,
         "longitudeE7": 445087885,
         "placeId": "ChIJU__p2S3LGkERUBmKBA9Zogk",
-        "address": "ул. Невская, 12В\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
-        "name": "Signal34 - Remont Telefonov",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400005",
+        "name": "Remont Telefonov Signal34 Volgograd",
         "locationConfidence": 11.610783,
         "calibratedProbability": 10.080238
       }, {
         "latitudeE7": 487175732,
         "longitudeE7": 445095631,
         "placeId": "ChIJH5hHDPPLGkERDzxLCGeyxfQ",
-        "address": "ул. Невская, 10 ст.1\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 10 ст.1, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Bristol\u0027",
         "locationConfidence": 1.272823,
         "calibratedProbability": 1.1050383
@@ -7961,7 +7928,7 @@
         "latitudeE7": 487171358,
         "longitudeE7": 445107087,
         "placeId": "ChIJG-hpPzvLGkER6y4qCndycNc",
-        "address": "ул. Невская, 8\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 8, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Zdorov\u0027ye",
         "locationConfidence": 0.84087896,
         "calibratedProbability": 0.7300335
@@ -7969,7 +7936,7 @@
         "latitudeE7": 487173550,
         "longitudeE7": 445084285,
         "placeId": "ChIJk_DFYTXLGkER-nFUgBx8iwk",
-        "address": "ул. Невская, 11А\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Невская, 11А, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Альфа-Банк, ОО \"Волгоградский\"",
         "locationConfidence": 0.301482,
         "calibratedProbability": 0.26174036
@@ -8072,7 +8039,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -8092,7 +8058,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 2.3849425,
         "calibratedProbability": 1.9452714
@@ -8100,7 +8066,7 @@
         "latitudeE7": 487179400,
         "longitudeE7": 445049200,
         "placeId": "ChIJ9wSi_rQ0BUER0MnLDGjs52g",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kapital Meditsinskoye Strakhovaniye",
         "locationConfidence": 0.5316549,
         "calibratedProbability": 0.43364275
@@ -8108,7 +8074,7 @@
         "latitudeE7": 487181810,
         "longitudeE7": 445051293,
         "placeId": "ChIJlcSmWTzLGkERJnPK1L0_PYE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rosgosstrakh",
         "locationConfidence": 0.3753879,
         "calibratedProbability": 0.30618405
@@ -8116,7 +8082,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.19902058,
         "calibratedProbability": 0.16233055
@@ -8132,7 +8098,7 @@
         "latitudeE7": 487197125,
         "longitudeE7": 445064935,
         "placeId": "ChIJE5Jg54nLGkERBem624VnT98",
-        "address": "ул. имени Маршала Рокоссовского, 49\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "ул. имени Маршала Рокоссовского, 49, Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Perekrestok",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -8152,7 +8118,7 @@
         "latitudeE7": 487194540,
         "longitudeE7": 445070150,
         "placeId": "ChIJ702C3DzLGkERfqydSNV0UCE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Rodina, Cinema",
         "locationConfidence": 1.0294193,
         "calibratedProbability": 0.829264
@@ -8160,7 +8126,7 @@
         "latitudeE7": 487190220,
         "longitudeE7": 445057230,
         "placeId": "ChIJE7S85DzLGkER3Gaz-bjISqA",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rodina, Cinema",
         "locationConfidence": 0.23380798,
         "calibratedProbability": 0.18834749
@@ -8168,8 +8134,7 @@
         "latitudeE7": 487182617,
         "longitudeE7": 445050087,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_HOME",
         "locationConfidence": 0.18649441,
         "calibratedProbability": 0.15023334
@@ -8177,7 +8142,7 @@
         "latitudeE7": 487200190,
         "longitudeE7": 445056230,
         "placeId": "ChIJIXyi3zzLGkERqdqt9q0dyeA",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Restoran \"Belyy Aist\"",
         "locationConfidence": 0.13227351,
         "calibratedProbability": 0.10655489
@@ -8194,7 +8159,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -8214,7 +8178,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 1.5597992,
         "calibratedProbability": 1.1930746
@@ -8222,7 +8186,7 @@
         "latitudeE7": 487197125,
         "longitudeE7": 445064935,
         "placeId": "ChIJE5Jg54nLGkERBem624VnT98",
-        "address": "ул. имени Маршала Рокоссовского, 49\nВолгоград\nВолгоградская обл.\nРоссия\n400012",
+        "address": "ул. имени Маршала Рокоссовского, 49, Волгоград, Волгоградская обл., Россия, 400012",
         "name": "Perekrestok",
         "locationConfidence": 0.36015856,
         "calibratedProbability": 0.27548164
@@ -8230,7 +8194,7 @@
         "latitudeE7": 487181810,
         "longitudeE7": 445051293,
         "placeId": "ChIJlcSmWTzLGkERJnPK1L0_PYE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rosgosstrakh",
         "locationConfidence": 0.1964728,
         "calibratedProbability": 0.15028006
@@ -8238,7 +8202,7 @@
         "latitudeE7": 487181074,
         "longitudeE7": 445050172,
         "placeId": "ChIJ_x5aYpbLGkERbjKdQ1ROdKQ",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400000",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400000",
         "name": "Kamneobrabatyvayushchaya Fabrika Danila-Master",
         "locationConfidence": 0.17145391,
         "calibratedProbability": 0.13114336
@@ -8408,55 +8372,55 @@
           "latitudeE7": 487184500,
           "longitudeE7": 445070240,
           "placeId": "ChIJKe7Z7DzLGkERPP2Fmv9PbmM",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Rodina, Cinema"
         }, {
           "latitudeE7": 487164840,
           "longitudeE7": 445097440,
           "placeId": "ChIJMxCQCzvLGkERpEub3ECS6vU",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Novorossiyskaya St"
         }, {
           "latitudeE7": 487150450,
           "longitudeE7": 445117240,
           "placeId": "ChIJP7EVYTrLGkERX5ItLBk0Uqk",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
           "name": "Zheleznodorozhnyy vokzal"
         }, {
           "latitudeE7": 487083950,
           "longitudeE7": 445184240,
           "placeId": "ChIJx9tJ8zPLGkERYvuxJAYnfyE",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400008",
+          "address": "Волгоград, Волгоградская обл., Россия, 400008",
           "name": "Komsomol\u0027skaya St (Tsentral\u0027nyy Market)"
         }, {
           "latitudeE7": 487064099,
           "longitudeE7": 445152484,
           "placeId": "ChIJk6scujXLGkERZ5op73iuokE",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400098",
+          "address": "Волгоград, Волгоградская обл., Россия, 400098",
           "name": "Alleya Geroyev"
         }, {
           "latitudeE7": 487032660,
           "longitudeE7": 445103810,
           "placeId": "ChIJH1y9rEvLGkERUjT0_gpHA9k",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400098",
+          "address": "Волгоград, Волгоградская обл., Россия, 400098",
           "name": "Dom Soyuzov (Sovremennik Shop)"
         }, {
           "latitudeE7": 487002960,
           "longitudeE7": 445048030,
           "placeId": "ChIJd0_qVkzLGkER8eEHrh7HE2Q",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+          "address": "Волгоград, Волгоградская обл., Россия, 400001",
           "name": "Chekistov Square"
         }, {
           "latitudeE7": 486976813,
           "longitudeE7": 445005522,
           "placeId": "ChIJPz3VilLLGkER3N4ZnmmlET4",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+          "address": "Волгоград, Волгоградская обл., Россия, 400001",
           "name": "Torgovyy tsentr"
         }, {
           "latitudeE7": 486951510,
           "longitudeE7": 444963190,
           "placeId": "ChIJ2zave1PLGkERAOJXwS-ksVg",
-          "address": "Волгоград\nВолгоградская обл.\nРоссия\n400074",
+          "address": "Волгоград, Волгоградская обл., Россия, 400074",
           "name": "Yuzhnaya hotel"
         }],
         "name": "15a",
@@ -8559,7 +8523,7 @@
         "latitudeE7": 486980700,
         "longitudeE7": 444939630,
         "placeId": "ChIJm37Yz6w0BUERmbHCipRgI10",
-        "address": "Академическая ул., 22\nВолгоград\nВолгоградская обл.\nРоссия\n400074",
+        "address": "Академическая ул., 22, Волгоград, Волгоградская обл., Россия, 400074",
         "name": "Singularis Lab",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -8579,15 +8543,14 @@
         "latitudeE7": 486984406,
         "longitudeE7": 444934578,
         "placeId": "ChIJOfcfe1HLGkERHubkDK0A8Nc",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия",
-        "name": "Россия",
+        "address": "Волгоград, Волгоградская обл., Россия",
         "locationConfidence": 2.2002816,
         "calibratedProbability": 1.9885863
       }, {
         "latitudeE7": 486978293,
         "longitudeE7": 444948485,
         "placeId": "ChIJoVQh11PLGkERyexA2wp354Q",
-        "address": "Козловская ул., 14\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "address": "Козловская ул., 14, Волгоград, Волгоградская обл., Россия, 400001",
         "name": "ПАО \"Волгоградэнергосбыт\"",
         "locationConfidence": 1.0021693,
         "calibratedProbability": 0.9057477
@@ -8595,7 +8558,7 @@
         "latitudeE7": 486982031,
         "longitudeE7": 444936472,
         "placeId": "ChIJTevGD1HLGkERjHY99h7TZeA",
-        "address": "Академическая ул., 22\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "address": "Академическая ул., 22, Волгоград, Волгоградская обл., Россия, 400001",
         "name": "Volgogradskiy Filial Anoo Vpo \"Mezhdunarodnyy Slavyanskiy Institut\"",
         "locationConfidence": 0.5428,
         "calibratedProbability": 0.4905757
@@ -8603,8 +8566,7 @@
         "latitudeE7": 487000197,
         "longitudeE7": 444916357,
         "placeId": "ChIJRyiaVVDLGkERt3k3o4Pwl-c",
-        "address": "Академическая ул., 30\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
-        "name": "Академическая ул., 30",
+        "address": "Академическая ул., 30, Волгоград, Волгоградская обл., Россия, 400001",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 0.13058229,
         "calibratedProbability": 0.1180186
@@ -8731,8 +8693,7 @@
         "latitudeE7": 487036040,
         "longitudeE7": 444912450,
         "placeId": "ChIJxc3GTUXLGkERu6mHx4Lp2ks",
-        "address": "ул. Милиционера Буханцева, 2Б\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
-        "name": "ул. Милиционера Буханцева, 2Б",
+        "address": "ул. Милиционера Буханцева, 2Б, Волгоград, Волгоградская обл., Россия, 400120",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -8752,7 +8713,7 @@
         "latitudeE7": 487020611,
         "longitudeE7": 444926309,
         "placeId": "ChIJy8lzGVDLGkERVcRt1wc1ON0",
-        "address": "Профсоюзная ул., 34\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
+        "address": "Профсоюзная ул., 34, Волгоград, Волгоградская обл., Россия, 400001",
         "name": "Hotel Marton Palace",
         "locationConfidence": 14.842818,
         "calibratedProbability": 10.590597
@@ -8760,7 +8721,7 @@
         "latitudeE7": 487028986,
         "longitudeE7": 444913759,
         "placeId": "ChIJX1-GqVrLGkER_izt2vjAe7w",
-        "address": "Ростовская ул., 2К\nВолгоград\nВолгоградская обл.\nРоссия\n400120",
+        "address": "Ростовская ул., 2К, Волгоград, Волгоградская обл., Россия, 400120",
         "name": "Apteka 24 Chasa",
         "locationConfidence": 12.615887,
         "calibratedProbability": 9.001644
@@ -8774,7 +8735,7 @@
         "latitudeE7": 487026970,
         "longitudeE7": 444916290,
         "placeId": "ChIJay05AVDLGkERE6Ehb9aehio",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
+        "address": "Волгоград, Волгоградская обл., Россия, 400120",
         "name": "Rostovskaya",
         "locationConfidence": 4.191304,
         "calibratedProbability": 2.990565
@@ -8782,7 +8743,7 @@
         "latitudeE7": 487021280,
         "longitudeE7": 444913240,
         "placeId": "ChIJxUKPDlDLGkERc3f68w91ArM",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400001",
+        "address": "Волгоград, Волгоградская обл., Россия, 400001",
         "name": "Rostovskaya St",
         "locationConfidence": 2.993284,
         "calibratedProbability": 2.1357577
@@ -8790,8 +8751,7 @@
         "latitudeE7": 487000197,
         "longitudeE7": 444916357,
         "placeId": "ChIJRyiaVVDLGkERt3k3o4Pwl-c",
-        "address": "Академическая ул., 30\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
-        "name": "Академическая ул., 30",
+        "address": "Академическая ул., 30, Волгоград, Волгоградская обл., Россия, 400001",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 1.9785393,
         "calibratedProbability": 1.4117206
@@ -8799,8 +8759,7 @@
         "latitudeE7": 487033252,
         "longitudeE7": 444907074,
         "placeId": "ChIJT-JQslrLGkERZfL9_NU1Pi0",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400120",
-        "name": "",
+        "address": "Волгоград, Волгоградская обл., Россия, 400120",
         "locationConfidence": 0.69544464,
         "calibratedProbability": 0.4962113
       }],
@@ -8927,7 +8886,6 @@
         "longitudeE7": 445050171,
         "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
         "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
-        "name": "ул. имени Маршала Рокоссовского, 30",
         "semanticType": "TYPE_HOME",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -8947,7 +8905,7 @@
         "latitudeE7": 487182512,
         "longitudeE7": 445052037,
         "placeId": "ChIJdV1PWDzLGkERCuhZfmM2HBo",
-        "address": "ул. имени Маршала Рокоссовского, 30\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Kirpichnyy Dvor",
         "locationConfidence": 0.28891608,
         "calibratedProbability": 0.24765275
@@ -8955,7 +8913,7 @@
         "latitudeE7": 487172172,
         "longitudeE7": 445047539,
         "placeId": "ChIJA28nAzzLGkERY9hW9fh7uS8",
-        "address": "ул. Кубанская, 20\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "ул. Кубанская, 20, Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Skver 8 Marta, Memorial",
         "locationConfidence": 0.2307074,
         "calibratedProbability": 0.19775751
@@ -8963,7 +8921,7 @@
         "latitudeE7": 487181810,
         "longitudeE7": 445051293,
         "placeId": "ChIJlcSmWTzLGkERJnPK1L0_PYE",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "name": "Rosgosstrakh",
         "locationConfidence": 0.16900395,
         "calibratedProbability": 0.14486662
@@ -8971,8 +8929,7 @@
         "latitudeE7": 487180313,
         "longitudeE7": 445049547,
         "placeId": "ChIJ_yRmXDzLGkER7uoyJRaRbvM",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Россия",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 0.14295107,
         "calibratedProbability": 0.12253463

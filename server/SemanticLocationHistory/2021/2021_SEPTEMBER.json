@@ -2352,8 +2352,8 @@
         "latitudeE7": 599353828,
         "longitudeE7": 303277245,
         "placeId": "ChIJ0W1TRQ8xlkYRrerZSy1h9S0",
-        "address": "Невский пр., 30\nСанкт-Петербург\nРоссия\n191011",
-        "name": "Nevsky, 30",
+        "address": "191186 Невский проспект, 30, оф.4.28\nСанкт-Петербург\nРоссия\n191186",
+        "name": "Nevskiy 30",
         "locationConfidence": 6.5392623,
         "calibratedProbability": 5.012016
       }, {
@@ -3240,7 +3240,7 @@
         "latitudeE7": 599581208,
         "longitudeE7": 303130304,
         "placeId": "ChIJdTbj0EMxlkYRViy7WsRrD-4",
-        "address": "Кронверкская ул., 5\nСанкт-Петербург\nРоссия\n197101",
+        "address": "Кронверкская\nКаменноостровский пр., 10А\nСанкт-Петербург\nРоссия\n197101",
         "name": "Перекрёсток",
         "locationConfidence": 0.046089955,
         "calibratedProbability": 0.042868204
@@ -21395,7 +21395,7 @@
         "latitudeE7": 599292074,
         "longitudeE7": 303587192,
         "placeId": "ChIJ2d6D0roxlkYRz8E3H9hM318",
-        "address": "ул. Пушкинская, 10\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Лиговский пр., 53\nСанкт-Петербург\nРоссия\n191040",
         "name": "Art Center \"Pushkinskaya-10\"",
         "locationConfidence": 0.035752743,
         "calibratedProbability": 0.034033388
@@ -25097,7 +25097,7 @@
         "latitudeE7": 599292074,
         "longitudeE7": 303587192,
         "placeId": "ChIJ2d6D0roxlkYRz8E3H9hM318",
-        "address": "ул. Пушкинская, 10\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Лиговский пр., 53\nСанкт-Петербург\nРоссия\n191040",
         "name": "Art Center \"Pushkinskaya-10\"",
         "locationConfidence": 1.2405097,
         "calibratedProbability": 1.0122745

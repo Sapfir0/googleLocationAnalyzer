@@ -120,8 +120,6 @@
         "latitudeE7": 487118746,
         "longitudeE7": 445154766,
         "placeId": "ChIJ-38E5jDLGkERaSXP9jFSMm4",
-        "address": "Коммунистическая ул., 16\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Kassa Avtovokzala",
         "locationConfidence": 1.6537576,
         "calibratedProbability": 1.9351435
       }, {
@@ -2933,8 +2931,6 @@
         "latitudeE7": 487133156,
         "longitudeE7": 444999058,
         "placeId": "ChIJZRFLyzjLGkERupk2Xt_u--Q",
-        "address": "Голубинская ул., 16\nВолгоград\nВолгоградская обл.\nРоссия\n400131",
-        "name": "Radezh",
         "locationConfidence": 0.7694306,
         "calibratedProbability": 0.73216844
       }],
@@ -5874,15 +5870,11 @@
         }, {
           "placeId": "ChIJxaUeYWFJ4kAR3CmIkCyGlrs"
         }, {
-          "placeId": "ChIJeQ8_12NJ4kARMTqI6dapd0Q"
-        }, {
           "placeId": "ChIJd9ks0mNJ4kARpTOOhFgsWBI"
         }, {
           "placeId": "ChIJKW5nzWNJ4kARX884F1AkklM"
         }, {
           "placeId": "ChIJ-1KOM2JJ4kARwDEOigReCrM"
-        }, {
-          "placeId": "ChIJXwFgNmJJ4kARcO2H1QwNdEg"
         }, {
           "placeId": "ChIJcVPON2JJ4kAR7pvHWDDkxoI"
         }, {
@@ -7094,8 +7086,6 @@
           "latitudeE7": 472175293,
           "longitudeE7": 389179888,
           "placeId": "ChIJyZrt7kT940ARImxYk-gMRw0",
-          "address": "Октябрьская ул., 17\nТаганрог\nРостовская обл.\nРоссия\n347935",
-          "name": "Azs Yuzhnyy Istok",
           "locationConfidence": 0.65392727,
           "calibratedProbability": 7.6716347
         }, {
@@ -7158,8 +7148,6 @@
         "latitudeE7": 472175293,
         "longitudeE7": 389179888,
         "placeId": "ChIJyZrt7kT940ARImxYk-gMRw0",
-        "address": "Октябрьская ул., 17\nТаганрог\nРостовская обл.\nРоссия\n347935",
-        "name": "Azs Yuzhnyy Istok",
         "locationConfidence": 3.8777606,
         "calibratedProbability": 4.955212
       }, {
@@ -17558,8 +17546,6 @@
         "latitudeE7": 487175150,
         "longitudeE7": 445077570,
         "placeId": "ChIJm2t4gTzLGkER8yDRUTSJsMo",
-        "address": "ул. Невская, 11а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Vtb Strakhovaniye",
         "locationConfidence": 0.61378866,
         "calibratedProbability": 0.527776
       }, {
@@ -17949,8 +17935,6 @@
           "latitudeE7": 487175150,
           "longitudeE7": 445077570,
           "placeId": "ChIJm2t4gTzLGkER8yDRUTSJsMo",
-          "address": "ул. Невская, 11а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-          "name": "Vtb Strakhovaniye",
           "locationConfidence": 0.42334506,
           "calibratedProbability": 0.76822
         }],
@@ -17996,8 +17980,6 @@
         "latitudeE7": 487175150,
         "longitudeE7": 445077570,
         "placeId": "ChIJm2t4gTzLGkER8yDRUTSJsMo",
-        "address": "ул. Невская, 11а\nВолгоград\nВолгоградская обл.\nРоссия\n400087",
-        "name": "Vtb Strakhovaniye",
         "locationConfidence": 0.70852757,
         "calibratedProbability": 0.7253854
       }, {

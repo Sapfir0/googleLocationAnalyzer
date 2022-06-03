@@ -1,0 +1,2629 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599285314,
+        "longitudeE7": 303538285,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "sourceInfo": {
+          "deviceTag": -966935694
+        },
+        "locationConfidence": 57.110893,
+        "calibratedProbability": 60.0365
+      },
+      "duration": {
+        "startTimestamp": "2022-04-11T10:14:33.566Z",
+        "endTimestamp": "2022-04-14T10:27:22.998Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 599282000,
+      "centerLngE7": 303558700,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599279564,
+        "longitudeE7": 303560606,
+        "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
+        "name": "Магазин ножей Nozhikov.ru",
+        "locationConfidence": 9.369466,
+        "calibratedProbability": 9.849433
+      }, {
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "locationConfidence": 7.433767,
+        "calibratedProbability": 7.8145742
+      }, {
+        "latitudeE7": 599284873,
+        "longitudeE7": 303561638,
+        "placeId": "ChIJqfJTj20xlkYR1-rhqsX8O0g",
+        "address": "Пушкинская ул., 13, Санкт-Петербург, Россия, 191040",
+        "name": "Neon Coffee",
+        "locationConfidence": 4.129723,
+        "calibratedProbability": 4.341275
+      }, {
+        "latitudeE7": 599287109,
+        "longitudeE7": 303571672,
+        "placeId": "ChIJS1hBSqUxlkYRUS0gXVu4au8",
+        "address": "Пушкинская ул., 14, Санкт-Петербург, Россия, 195009",
+        "name": "Fragrant World",
+        "locationConfidence": 1.4430568,
+        "calibratedProbability": 1.5169799
+      }, {
+        "latitudeE7": 599267567,
+        "longitudeE7": 303555629,
+        "placeId": "ChIJszLOHLAxlkYRjPQi-oJd17M",
+        "address": "Кузнечный пер., 17/2 лит.А, Санкт-Петербург, Россия, 191040",
+        "name": "Planeta Zdorov\u0027ya",
+        "locationConfidence": 0.9411426,
+        "calibratedProbability": 0.98935425
+      }, {
+        "latitudeE7": 599281809,
+        "longitudeE7": 303559021,
+        "placeId": "ChIJaSe6UaUxlkYRC0IFx7zM1_A",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
+        "name": "Клиника по борьбе с лишним весом №1",
+        "locationConfidence": 0.617381,
+        "calibratedProbability": 0.6490074
+      }, {
+        "latitudeE7": 599288836,
+        "longitudeE7": 303577130,
+        "placeId": "ChIJi6YQM6UxlkYR5AdPhnMVsOA",
+        "address": "Пушкинская ул., д. 12/2, вход с Лиговского пер., Санкт-Петербург, Россия, 191040",
+        "name": "Avangard",
+        "locationConfidence": 0.52783555,
+        "calibratedProbability": 0.55487484
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 46,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599281870,
+        "longitudeE7": 303557543,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599266319,
+        "longitudeE7": 303410229,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-14T10:27:22.998Z",
+        "endTimestamp": "2022-04-14T10:37:25Z"
+      },
+      "distance": 877,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 92.1693205833435
+      }, {
+        "activityType": "STILL",
+        "probability": 3.0752625316381454
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.0828088745474815
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.5038386918604374
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.3708980977535248
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.32861093059182167
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.17939878161996603
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.10847353842109442
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.07774204132147133
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.05718471365980804
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.022240377438720316
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.01605115830898285
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.006967144145164639
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.001203415831696475
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.4188096031375608E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599282073,
+          "lngE7": 303552932
+        }, {
+          "latE7": 599272537,
+          "lngE7": 303528327
+        }, {
+          "latE7": 599272689,
+          "lngE7": 303524475
+        }, {
+          "latE7": 599262504,
+          "lngE7": 303426342
+        }, {
+          "latE7": 599266624,
+          "lngE7": 303410606
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1005.3822017621751,
+        "travelMode": "WALK",
+        "confidence": 0.9957407972027138
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 599272270,
+          "lngE7": 303524837,
+          "accuracyMeters": 4,
+          "timestamp": "2022-04-14T10:29:38.999Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599269710,
+        "longitudeE7": 303380330,
+        "placeId": "ChIJk9-7bakxlkYRKdjy8UYIKQ0",
+        "address": "ул. Ломоносова, 9, Санкт-Петербург, Россия, 191002",
+        "name": "ITMO University",
+        "sourceInfo": {
+          "deviceTag": -966935694
+        },
+        "locationConfidence": 41.1174,
+        "calibratedProbability": 35.745487
+      },
+      "duration": {
+        "startTimestamp": "2022-04-14T10:37:25Z",
+        "endTimestamp": "2022-04-14T10:49:20.999Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 599265350,
+      "centerLngE7": 303405575,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599257235,
+        "longitudeE7": 303404675,
+        "placeId": "ChIJIcJfUqkxlkYRu-PVVOkCytY",
+        "address": "Загородный просп., 15, Санкт-Петербург, Россия, 191002",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 34.53938,
+        "calibratedProbability": 30.026873
+      }, {
+        "latitudeE7": 599267265,
+        "longitudeE7": 303412844,
+        "placeId": "ChIJx_vK1AsxlkYRyjcOXguZA6U",
+        "address": "ул. Ломоносова, 26, Санкт-Петербург, Россия, 191028",
+        "name": "Bomu",
+        "locationConfidence": 3.955994,
+        "calibratedProbability": 3.4391506
+      }, {
+        "latitudeE7": 599264886,
+        "longitudeE7": 303426751,
+        "placeId": "ChIJ27PQtgMxlkYRqrf5yWY1jcw",
+        "address": "Загородный просп., 11, Санкт-Петербург, Россия, 191002",
+        "name": "Pyat\u0027 Uglov",
+        "locationConfidence": 3.123278,
+        "calibratedProbability": 2.7152274
+      }, {
+        "latitudeE7": 599264653,
+        "longitudeE7": 303408704,
+        "placeId": "ChIJK43CSakxlkYRnTxHcJwvLdI",
+        "address": "ул. Ломоносова, 11, Санкт-Петербург, Россия, 191002",
+        "name": "Appo",
+        "locationConfidence": 3.035528,
+        "calibratedProbability": 2.6389418
+      }, {
+        "latitudeE7": 599266746,
+        "longitudeE7": 303411901,
+        "placeId": "ChIJj1LLNakxlkYRqFCxT3FvpIA",
+        "address": "ул. Ломоносова, 26, Санкт-Петербург, Россия, 191002",
+        "name": "Buklya Na Lomonosova",
+        "locationConfidence": 1.7849799,
+        "calibratedProbability": 1.5517756
+      }, {
+        "latitudeE7": 599269318,
+        "longitudeE7": 303447730,
+        "placeId": "ChIJHTah4K4xlkYRAha6tsJcGk4",
+        "address": "Загородный просп., д. 10, Санкт-Петербург, Россия, 191002",
+        "name": "Dr.Head",
+        "locationConfidence": 1.3136926,
+        "calibratedProbability": 1.142061
+      }, {
+        "latitudeE7": 599272326,
+        "longitudeE7": 303396918,
+        "placeId": "ChIJB13OPKkxlkYRQjleqhFtsy8",
+        "address": "ул. Ломоносова, 20, Санкт-Петербург, Россия, 191002",
+        "name": "Bookstore for kindergartens and schools",
+        "locationConfidence": 1.1369811,
+        "calibratedProbability": 0.9884366
+      }, {
+        "latitudeE7": 599261424,
+        "longitudeE7": 303430049,
+        "placeId": "ChIJkyuTyK4xlkYR6m7IUmAPoPQ",
+        "address": "Загородный просп., д. 18, Санкт-Петербург, Россия, 191002",
+        "name": "Azbuka Vkusa",
+        "locationConfidence": 1.1045475,
+        "calibratedProbability": 0.96024036
+      }, {
+        "latitudeE7": 599261703,
+        "longitudeE7": 303419329,
+        "placeId": "ChIJZz29IisxlkYRXUungM9hm2s",
+        "address": "Загородный просп., 13, Санкт-Петербург, Россия, 191002",
+        "name": "Khacho I Puri",
+        "locationConfidence": 1.1038282,
+        "calibratedProbability": 0.95961505
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 33,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599266147,
+        "longitudeE7": 303408457,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599268744,
+        "longitudeE7": 303556247,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-14T10:49:20.999Z",
+        "endTimestamp": "2022-04-14T11:00:48.220Z"
+      },
+      "distance": 878,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 92.816162109375
+      }, {
+        "activityType": "STILL",
+        "probability": 2.5834444910287857
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.235911600291729
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.3914890587329865
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.30506670009344816
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.26954147033393383
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.17322341445833445
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.09909009095281363
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.06038714200258255
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.03164058143738657
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.022261441336013377
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.007604373968206346
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.00367562570318114
+      }, {
+        "activityType": "FLYING",
+        "probability": 5.01885460835183E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.8238500426880364E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599266967,
+          "lngE7": 303409538
+        }, {
+          "latE7": 599281692,
+          "lngE7": 303444328
+        }, {
+          "latE7": 599268951,
+          "lngE7": 303442687
+        }, {
+          "latE7": 599262504,
+          "lngE7": 303426342
+        }, {
+          "latE7": 599270935,
+          "lngE7": 303527145
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1681.5721142880357,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 599269180,
+          "lngE7": 303442326,
+          "accuracyMeters": 14,
+          "timestamp": "2022-04-14T10:52:10.999Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "sourceInfo": {
+          "deviceTag": -966935694
+        },
+        "locationConfidence": 50.258465,
+        "calibratedProbability": 37.704853
+      },
+      "duration": {
+        "startTimestamp": "2022-04-14T11:00:48.220Z",
+        "endTimestamp": "2022-04-14T12:45:33.559Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 599274033,
+      "centerLngE7": 303560467,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599281845,
+        "longitudeE7": 303561382,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "locationConfidence": 37.2081,
+        "calibratedProbability": 27.914223
+      }, {
+        "latitudeE7": 599267567,
+        "longitudeE7": 303555629,
+        "placeId": "ChIJszLOHLAxlkYRjPQi-oJd17M",
+        "address": "Кузнечный пер., 17/2 лит.А, Санкт-Петербург, Россия, 191040",
+        "name": "Planeta Zdorov\u0027ya",
+        "locationConfidence": 4.2378244,
+        "calibratedProbability": 3.1792963
+      }, {
+        "latitudeE7": 599279564,
+        "longitudeE7": 303560606,
+        "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
+        "name": "Магазин ножей Nozhikov.ru",
+        "locationConfidence": 1.8744165,
+        "calibratedProbability": 1.4062228
+      }, {
+        "latitudeE7": 599268008,
+        "longitudeE7": 303557454,
+        "placeId": "ChIJQ51OA7AxlkYRITgqbmncgm8",
+        "address": "Кузнечный пер., 17, Санкт-Петербург, Россия, 191040",
+        "name": "MIDOL, second-hand network",
+        "locationConfidence": 1.6570225,
+        "calibratedProbability": 1.2431297
+      }, {
+        "latitudeE7": 599284873,
+        "longitudeE7": 303561638,
+        "placeId": "ChIJqfJTj20xlkYR1-rhqsX8O0g",
+        "address": "Пушкинская ул., 13, Санкт-Петербург, Россия, 191040",
+        "name": "Neon Coffee",
+        "locationConfidence": 1.1486064,
+        "calibratedProbability": 0.8617063
+      }, {
+        "latitudeE7": 599271698,
+        "longitudeE7": 303554542,
+        "placeId": "ChIJN3b4_q8xlkYRzLN7LhXD8bo",
+        "address": "Пушкинская ул., 19, Санкт-Петербург, Россия, 191040",
+        "name": "Feniks",
+        "locationConfidence": 0.86948776,
+        "calibratedProbability": 0.6523062
+      }, {
+        "latitudeE7": 599257714,
+        "longitudeE7": 303570271,
+        "placeId": "ChIJ__W-arAxlkYRopHE0x0Q9og",
+        "address": "Лиговский пр., 73, Санкт-Петербург, Россия, 191040",
+        "name": "Alfa Bank",
+        "locationConfidence": 0.8597907,
+        "calibratedProbability": 0.6450313
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599282659,
+        "longitudeE7": 303564272,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599148704,
+        "longitudeE7": 303437738,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-14T12:45:33.559Z",
+        "endTimestamp": "2022-04-14T13:09:52.999Z"
+      },
+      "distance": 2364,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 94.90008354187012
+      }, {
+        "activityType": "STILL",
+        "probability": 2.0343568176031113
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.072197314351797
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.9180878289043903
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4635572899132967
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.24797613732516766
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.13495659222826362
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0964432256296277
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.055175600573420525
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0414240756072104
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.02204945049015805
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.010541364463279024
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0025831637685769238
+      }, {
+        "activityType": "FLYING",
+        "probability": 5.708020125894109E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.85638979136138E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599282722,
+          "lngE7": 303563842
+        }, {
+          "latE7": 599160804,
+          "lngE7": 303447475
+        }, {
+          "latE7": 599143257,
+          "lngE7": 303420028
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1921.2290038244973,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599142178,
+        "longitudeE7": 303410731,
+        "placeId": "ChIJEZW0lE0wlkYRsQkIfAjYdcQ",
+        "address": "Боровая ул., 47, Санкт-Петербург, Россия, 192007",
+        "name": "Auchan",
+        "sourceInfo": {
+          "deviceTag": -966935694
+        },
+        "locationConfidence": 97.53429,
+        "calibratedProbability": 87.75386
+      },
+      "duration": {
+        "startTimestamp": "2022-04-14T13:09:52.999Z",
+        "endTimestamp": "2022-04-14T14:43:09.834Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599145050,
+      "centerLngE7": 303423850,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599154352,
+        "longitudeE7": 303438336,
+        "placeId": "ChIJNyeWEU0wlkYR11NZK8zfBdY",
+        "locationConfidence": 0.87339944,
+        "calibratedProbability": 0.78581774
+      }, {
+        "latitudeE7": 599142700,
+        "longitudeE7": 303438400,
+        "placeId": "ChIJDbYHrE0wlkYRCtkQDLNdW7o",
+        "address": "Боровая ул., 52Б, Санкт-Петербург, Россия, 192007",
+        "name": "Craft Manufactory",
+        "locationConfidence": 0.46856487,
+        "calibratedProbability": 0.42157868
+      }, {
+        "latitudeE7": 599153037,
+        "longitudeE7": 303411351,
+        "placeId": "ChIJmcRVnU0wlkYRytYXRvCnieE",
+        "address": "набережная Обводного канала, 60, Санкт-Петербург, Россия, 192007",
+        "name": "БЦ \"Сенатор\"",
+        "locationConfidence": 0.41338703,
+        "calibratedProbability": 0.3719339
+      }, {
+        "latitudeE7": 599155230,
+        "longitudeE7": 303439740,
+        "placeId": "ChIJuW6DEU0wlkYRcwCQi__c8gs",
+        "address": "Боровая ул., 43, Санкт-Петербург, Россия, 192007",
+        "locationConfidence": 0.29756686,
+        "calibratedProbability": 0.26772782
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 599148704,
+          "lngE7": 303437738,
+          "accuracyMeters": 14,
+          "timestamp": "2022-04-14T13:09:52.999Z"
+        }, {
+          "latE7": 599140305,
+          "lngE7": 303407485,
+          "accuracyMeters": 39,
+          "timestamp": "2022-04-14T13:26:49.999Z"
+        }, {
+          "latE7": 599140945,
+          "lngE7": 303418843,
+          "accuracyMeters": 21,
+          "timestamp": "2022-04-14T14:38:41.998Z"
+        }, {
+          "latE7": 599154483,
+          "lngE7": 303441338,
+          "accuracyMeters": 21,
+          "timestamp": "2022-04-14T14:41:50Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 452.39564058877556
+      },
+      "locationConfidence": 85,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599142523,
+        "longitudeE7": 303419200,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599274261,
+        "longitudeE7": 303560316,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-14T14:43:09.834Z",
+        "endTimestamp": "2022-04-14T15:04:17.999Z"
+      },
+      "distance": 2342,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 94.78210806846619
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.6496054828166962
+      }, {
+        "activityType": "STILL",
+        "probability": 1.0967578738927841
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.0898472741246223
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.5283889826387167
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.353892520070076
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.19433393608778715
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.09931126842275262
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.09734997292980552
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.06441803998313844
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.02937317476607859
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.010768142237793654
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0031767671316629276
+      }, {
+        "activityType": "FLYING",
+        "probability": 6.608953299291898E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.278210864403718E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599142494,
+          "lngE7": 303419532
+        }, {
+          "latE7": 599160804,
+          "lngE7": 303447475
+        }, {
+          "latE7": 599274406,
+          "lngE7": 303559150
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1834.1110266111507,
+        "travelMode": "WALK",
+        "confidence": 0.9112007197404265
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599285314,
+        "longitudeE7": 303538285,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "sourceInfo": {
+          "deviceTag": -966935694
+        },
+        "locationConfidence": 62.944283,
+        "calibratedProbability": 66.77388
+      },
+      "duration": {
+        "startTimestamp": "2022-04-14T15:04:17.999Z",
+        "endTimestamp": "2022-04-22T04:30:57.806Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599279400,
+      "centerLngE7": 303559233,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "locationConfidence": 9.212881,
+        "calibratedProbability": 9.773402
+      }, {
+        "latitudeE7": 599279564,
+        "longitudeE7": 303560606,
+        "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
+        "name": "Магазин ножей Nozhikov.ru",
+        "locationConfidence": 4.227547,
+        "calibratedProbability": 4.4847555
+      }, {
+        "latitudeE7": 599284873,
+        "longitudeE7": 303561638,
+        "placeId": "ChIJqfJTj20xlkYR1-rhqsX8O0g",
+        "address": "Пушкинская ул., 13, Санкт-Петербург, Россия, 191040",
+        "name": "Neon Coffee",
+        "locationConfidence": 0.8058411,
+        "calibratedProbability": 0.8548693
+      }, {
+        "latitudeE7": 599267567,
+        "longitudeE7": 303555629,
+        "placeId": "ChIJszLOHLAxlkYRjPQi-oJd17M",
+        "address": "Кузнечный пер., 17/2 лит.А, Санкт-Петербург, Россия, 191040",
+        "name": "Planeta Zdorov\u0027ya",
+        "locationConfidence": 0.7767764,
+        "calibratedProbability": 0.8240363
+      }, {
+        "latitudeE7": 599274300,
+        "longitudeE7": 303582070,
+        "placeId": "ChIJ8W80KO0klkYRcWC-RM-TiBY",
+        "address": "Лиговский пр., 63, Санкт-Петербург, Россия, 191040",
+        "name": "Cinnabon",
+        "locationConfidence": 0.72280407,
+        "calibratedProbability": 0.76678026
+      }, {
+        "latitudeE7": 599275250,
+        "longitudeE7": 303583417,
+        "placeId": "ChIJ71ZBZBYxlkYRhz1WXef2hfg",
+        "address": "Лиговский пр., 63а, Санкт-Петербург, Россия, 191040",
+        "name": "Audiotekhnika V Spb - Stereozona",
+        "locationConfidence": 0.53507835,
+        "calibratedProbability": 0.5676331
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 50,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599299123,
+        "longitudeE7": 303622406,
+        "placeId": "ChIJ_X2vWqIxlkYRxd9qpgHBZOU",
+        "address": "Невский пр., 85, Санкт-Петербург, Ленинградская обл., Россия, 191036",
+        "name": "Moscow Railway Station",
+        "sourceInfo": {
+          "deviceTag": -966935694
+        },
+        "locationConfidence": 88.37683,
+        "calibratedProbability": 61.7829
+      },
+      "duration": {
+        "startTimestamp": "2022-04-22T04:30:57.806Z",
+        "endTimestamp": "2022-04-22T04:35:32.905Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 599293933,
+      "centerLngE7": 303604367,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599295616,
+        "longitudeE7": 303623123,
+        "placeId": "ChIJEYM-N9QxlkYRf5-F89_mRkQ",
+        "address": "Невский пр., д. 85, Санкт-Петербург, Россия, 191086",
+        "name": "Московский вокзал",
+        "locationConfidence": 6.053317,
+        "calibratedProbability": 4.231782
+      }, {
+        "latitudeE7": 599281883,
+        "longitudeE7": 303561211,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "locationConfidence": 1.4750458,
+        "calibratedProbability": 1.0311822
+      }, {
+        "latitudeE7": 599294918,
+        "longitudeE7": 303621967,
+        "placeId": "ChIJR3s0H7sxlkYRMtps465tM1U",
+        "address": "Санкт-Петербург, Россия",
+        "name": "Moskovsky Rail Terminal",
+        "locationConfidence": 0.93236023,
+        "calibratedProbability": 0.6517989
+      }, {
+        "latitudeE7": 599292018,
+        "longitudeE7": 303592628,
+        "placeId": "ChIJ4RPu0boxlkYR95nhXrNWq4o",
+        "address": "Лиговский пр., 53, Санкт-Петербург, Россия, 191040",
+        "name": "24 Chasa",
+        "locationConfidence": 0.6359307,
+        "calibratedProbability": 0.4445695
+      }, {
+        "latitudeE7": 599290060,
+        "longitudeE7": 303602710,
+        "placeId": "ChIJD0kLz7oxlkYRwQC24L_8F8Y",
+        "address": "Санкт-Петербург, Россия, 191040",
+        "name": "Moskovskiy Railway Station",
+        "locationConfidence": 0.5096984,
+        "calibratedProbability": 0.3563224
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 73,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599293810,
+        "longitudeE7": 303607688,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 597994924,
+        "longitudeE7": 302731881,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-22T04:35:32.905Z",
+        "endTimestamp": "2022-04-22T05:27:12.653Z"
+      },
+      "distance": 16447,
+      "activityType": "IN_SUBWAY",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_SUBWAY",
+        "probability": 46.49864733219147
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 26.315727829933167
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 7.947315275669098
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.7544160187244415
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.5678460747003555
+      }, {
+        "activityType": "STILL",
+        "probability": 4.513364657759666
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.5495547782629728
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.46500558964908123
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.17629768699407578
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.12363962596282363
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.06773320492357016
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.011280257604084909
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.008346079266630113
+      }, {
+        "activityType": "SKIING",
+        "probability": 8.166832230926957E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 5.813971526436035E-6
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 599302870,
+          "longitudeE7": 303591170,
+          "placeId": "ChIJiyo0MLsxlkYRF9GYqnUmIK4",
+          "address": "Санкт-Петербург, Россия, 191036",
+          "name": "Ploshchad\u0027 Vosstaniya"
+        }, {
+          "latitudeE7": 599261230,
+          "longitudeE7": 303472130,
+          "placeId": "ChIJ8X42Eq8xlkYRHQy4Z1sxIOk",
+          "address": "Санкт-Петербург, Россия, 191002",
+          "name": "Vladimirskaya"
+        }, {
+          "latitudeE7": 599211990,
+          "longitudeE7": 303323590,
+          "placeId": "ChIJ5cIaS6sxlkYRr00rYQw7Vck",
+          "address": "Санкт-Петербург, Россия, 191180",
+          "name": "Pushkinskaya"
+        }, {
+          "latitudeE7": 599148340,
+          "longitudeE7": 303170040,
+          "placeId": "ChIJB1j8tFcwlkYRKBNzQ9fB9-A",
+          "address": "Санкт-Петербург, Россия, 190005",
+          "name": "Tekhnologicheskiy Institut 1"
+        }],
+        "name": "1",
+        "hexRgbColor": "F23229",
+        "linePlaceId": "ChIJ7-8HWXQxlkYRm3eZ0rAjo0Q",
+        "stopTimesInfo": [{
+          "scheduledDepartureTimestamp": "2022-04-22T04:42:27Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T04:43:31Z",
+          "scheduledDepartureTimestamp": "2022-04-22T04:43:41Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T04:44:56Z",
+          "scheduledDepartureTimestamp": "2022-04-22T04:45:06Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T04:46:33Z"
+        }],
+        "source": "INFERRED",
+        "confidence": 0.9827545523655967,
+        "distanceMeters": 3013.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 599293810,
+          "lngE7": 303607688,
+          "accuracyMeters": 59,
+          "timestamp": "2022-04-22T04:35:32.905Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3063.0401716773404
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 598029127,
+        "longitudeE7": 302678391,
+        "placeId": "ChIJQe42d88klkYRm2c5uNutajk",
+        "address": "лит. ЗА, Пулковское ш., д. 41, Санкт-Петербург, Россия, 196140",
+        "name": "Pulkovo Airport",
+        "sourceInfo": {
+          "deviceTag": -966935694
+        },
+        "locationConfidence": 98.63341,
+        "calibratedProbability": 89.26432
+      },
+      "duration": {
+        "startTimestamp": "2022-04-22T05:27:12.653Z",
+        "endTimestamp": "2022-04-22T05:51:52.414Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 597996830,
+          "longitudeE7": 302734710,
+          "placeId": "ChIJhyU5YLEklkYRB7cyo4w3iy4",
+          "address": "Санкт-Петербург, Россия, 196210",
+          "name": "Aeroport \"Pulkovo-1\"",
+          "sourceInfo": {
+            "deviceTag": -966935694
+          },
+          "locationConfidence": 71.22284,
+          "calibratedProbability": 65.70178,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2022-04-22T05:27:12.653Z",
+          "endTimestamp": "2022-04-22T05:39:01.671Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 597994667,
+        "centerLngE7": 302731333,
+        "visitConfidence": 94,
+        "otherCandidateLocations": [{
+          "latitudeE7": 597991310,
+          "longitudeE7": 302736050,
+          "placeId": "ChIJ6eXkZLEklkYRbqndsP687xE",
+          "address": "Санкт-Петербург, Россия, 196210",
+          "name": "Aeroport \"Pulkovo-1\"",
+          "locationConfidence": 19.191378,
+          "calibratedProbability": 17.7037
+        }, {
+          "latitudeE7": 597999114,
+          "longitudeE7": 302728000,
+          "placeId": "ChIJeXSRPrIklkYRkB21Y2ds7Lw",
+          "address": "Аэропорт Пулково, 2, лит А, Санкт-Петербург, Россия, 196210",
+          "name": "Starbucks",
+          "locationConfidence": 2.736065,
+          "calibratedProbability": 2.5239704,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 597984463,
+          "longitudeE7": 302756338,
+          "placeId": "ChIJs0MfELEklkYRf-qUdYBh-tQ",
+          "address": "Пулковское шоссе, д. 41, лит. ЗИ, Санкт-Петербург, Россия, 196210",
+          "name": "P2",
+          "locationConfidence": 2.1702063,
+          "calibratedProbability": 2.001976
+        }, {
+          "latitudeE7": 598001532,
+          "longitudeE7": 302730013,
+          "placeId": "ChIJu-o1ObIklkYRj2UyHptMP7g",
+          "address": "Пулковское шоссе, 41, лит. ЗА, Санкт-Петербург, Россия, 196210",
+          "name": "Aeroservis",
+          "locationConfidence": 0.68341976,
+          "calibratedProbability": 0.6304424,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 597995290,
+          "longitudeE7": 302718088,
+          "placeId": "ChIJwXalfbEklkYRiu5bSNtQIf4",
+          "address": "Пулковское шоссе, 41 Аэропорт Пулково, 3 этаж, напротив стойки регистрации 212, Pulkovo Airport, Санкт-Петербург, Russia, 196140",
+          "name": "Aeroflot Russian Airlines",
+          "locationConfidence": 0.6456602,
+          "calibratedProbability": 0.59560984,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 597996800,
+          "longitudeE7": 302722150,
+          "placeId": "ChIJx96S27MklkYRYgXy35FtpCc",
+          "address": "1, Пулковское ш., 41 лит.31, Санкт-Петербург, Ленинградская обл., Россия, 196140",
+          "name": "Healthy people",
+          "locationConfidence": 0.50516236,
+          "calibratedProbability": 0.46600312,
+          "isCurrentLocation": true
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 57,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }],
+      "centerLatE7": 597994667,
+      "centerLngE7": 302731333,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 598010471,
+        "longitudeE7": 302766614,
+        "placeId": "ChIJ2Q79sbYklkYR2rG8R4rN1EY",
+        "address": "Pulkovskoe shosse, 39, Санкт-Петербург, Ленинградская обл., Россия, 196210",
+        "locationConfidence": 0.24507415,
+        "calibratedProbability": 0.22179481
+      }, {
+        "latitudeE7": 597977660,
+        "longitudeE7": 302638735,
+        "placeId": "ChIJpUIXgbIklkYRTa6qs9OZAfs",
+        "address": "Пулковское ш., д.41, Санкт-Петербург, Россия, 196210",
+        "locationConfidence": 0.15178494,
+        "calibratedProbability": 0.13736704
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 597994924,
+          "lngE7": 302731881,
+          "accuracyMeters": 46,
+          "timestamp": "2022-04-22T05:27:12.653Z"
+        }, {
+          "latE7": 597993492,
+          "lngE7": 302691218,
+          "accuracyMeters": 40,
+          "timestamp": "2022-04-22T05:44:33.936Z"
+        }, {
+          "latE7": 597977288,
+          "lngE7": 302681410,
+          "accuracyMeters": 5,
+          "timestamp": "2022-04-22T05:45:31.149Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 412.21182598684817
+      },
+      "locationConfidence": 86,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 597977070,
+        "longitudeE7": 302680885,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 487919264,
+        "longitudeE7": 443546757,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-22T05:51:52.414Z",
+        "endTimestamp": "2022-04-22T10:02:45.422Z"
+      },
+      "distance": 1520913,
+      "activityType": "FLYING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "FLYING",
+        "probability": 52.423328161239624
+      }, {
+        "activityType": "STILL",
+        "probability": 26.843807101249695
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 8.337006717920303
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 5.346705392003059
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 2.989521622657776
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.117406576871872
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.4429843984544277
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.2717467024922371
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.10352041572332382
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.09904754115268588
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.0131261142087169
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.01083016031770967
+      }, {
+        "activityType": "SKIING",
+        "probability": 5.500871338881552E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.162596269452479E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.0507223979772107E-7
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 597979533,
+          "lngE7": 302681902,
+          "accuracyMeters": 34,
+          "timestamp": "2022-04-22T07:06:31.019Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1520925.5704043962
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487857531,
+        "longitudeE7": 443455342,
+        "placeId": "ChIJCe7x9MPIGkERmnkT3JSZerI",
+        "address": "ш. Авиаторов, 161, Волгоград, Волгоградская обл., Россия, 400036",
+        "name": "Volgograd International Airport",
+        "sourceInfo": {
+          "deviceTag": -966935694
+        },
+        "locationConfidence": 95.57358,
+        "calibratedProbability": 77.8909
+      },
+      "duration": {
+        "startTimestamp": "2022-04-22T10:02:45.422Z",
+        "endTimestamp": "2022-04-22T10:16:48Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 487916471,
+          "longitudeE7": 443541456,
+          "placeId": "ChIJD1e9v9fJGkERKzABtws3khU",
+          "address": "Аэропорт, Волгоградская обл., Россия, 400036",
+          "name": "Aeroport Volgograd",
+          "sourceInfo": {
+            "deviceTag": -966935694
+          },
+          "locationConfidence": 83.0461,
+          "calibratedProbability": 67.257225
+        },
+        "duration": {
+          "startTimestamp": "2022-04-22T10:02:45.422Z",
+          "endTimestamp": "2022-04-22T10:16:48Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 487923467,
+        "centerLngE7": 443544933,
+        "visitConfidence": 85,
+        "otherCandidateLocations": [{
+          "latitudeE7": 487922410,
+          "longitudeE7": 443555680,
+          "placeId": "ChIJsw9Fce7IGkERnIy4Be6RnzE",
+          "address": "Волгоградская обл., Россия, 400036",
+          "name": "Aeroport",
+          "locationConfidence": 3.9984581,
+          "calibratedProbability": 3.238264
+        }, {
+          "latitudeE7": 487916470,
+          "longitudeE7": 443549859,
+          "placeId": "ChIJezfQfO7IGkERmmr0vcalejc",
+          "address": "ш. Авиаторов, 161-а, Волгоград, Волгоградская обл., Россия, 400036",
+          "name": "Tamozhennyy Post, Mezhdunarodnyy Aeroport Volgograd",
+          "locationConfidence": 3.7616193,
+          "calibratedProbability": 3.0464535
+        }, {
+          "latitudeE7": 487919510,
+          "longitudeE7": 443542740,
+          "placeId": "ChIJl3p1f-7IGkERig-ipPAGhbM",
+          "address": "Волгоградская обл., Россия, 400036",
+          "name": "Aeroport",
+          "locationConfidence": 2.902988,
+          "calibratedProbability": 2.3510666
+        }, {
+          "latitudeE7": 487929907,
+          "longitudeE7": 443551302,
+          "placeId": "ChIJC3Nr5-3IGkERq47KLGt6pJo",
+          "address": "ш. Авиаторов, 161В, Волгоград, Волгоградская обл., Россия, 400036",
+          "name": "Ekipazh",
+          "locationConfidence": 0.87637544,
+          "calibratedProbability": 0.7097573
+        }, {
+          "latitudeE7": 487925340,
+          "longitudeE7": 443542092,
+          "placeId": "ChIJN4CMhKPJGkERcwntJpDZM9M",
+          "address": "Международный Аэропорт, Сталинград, Волгоградская обл., Россия, 400036",
+          "name": "Pamyatnik",
+          "locationConfidence": 0.70613164,
+          "calibratedProbability": 0.57188064
+        }, {
+          "latitudeE7": 487916671,
+          "longitudeE7": 443537841,
+          "placeId": "ChIJFUOcFO7IGkERZ9KhjYGHMsQ",
+          "address": "поселок Аэропорт, здание Аэровокзала, павильон 700, шоссе Авиаторов 161А, Волгоград аэропорт, Волгоградская обл., Russia, 400036",
+          "name": "Aeroflot Russian Airlines",
+          "locationConfidence": 0.6473607,
+          "calibratedProbability": 0.5242833
+        }, {
+          "latitudeE7": 487925260,
+          "longitudeE7": 443542025,
+          "placeId": "ChIJJ0KIlM7JGkERRj4SYCNfTXk",
+          "address": "Международный Аэропорт, Сталинград, Волгоградская обл., Россия, 400036",
+          "name": "Skul\u0027pturnaya Kompozitsiya \"Khleb-Sol\u0027\"",
+          "locationConfidence": 0.64093,
+          "calibratedProbability": 0.5190752
+        }, {
+          "latitudeE7": 487930515,
+          "longitudeE7": 443550652,
+          "placeId": "ChIJ-fNC4O3IGkERZ4anDzsQm_E",
+          "address": "ш. Авиаторов, 161В, Волгоград, Волгоградская обл., Россия, 400036",
+          "name": "Gostinitsa",
+          "locationConfidence": 0.594196,
+          "calibratedProbability": 0.4812264
+        }, {
+          "latitudeE7": 487938756,
+          "longitudeE7": 443541508,
+          "placeId": "ChIJI7Kjk-3IGkERoQMLpGbBE1s",
+          "address": "P2 суточная, ш. Авиаторов, 3, Аэропорт, Волгоградская обл., Россия, 400036",
+          "name": "Long-Term Paid Parking",
+          "locationConfidence": 0.49202433,
+          "calibratedProbability": 0.3984798
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 68,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }],
+      "centerLatE7": 487923467,
+      "centerLngE7": 443544933,
+      "visitConfidence": 85,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487946324,
+        "longitudeE7": 443536044,
+        "placeId": "ChIJm1ilg-3IGkER_V6Rqq-rXCM",
+        "address": "Бесплатная, P3 Бесплатная, ул. пос. Аэропорт, 25, P3, Волгоградская обл., Russia, 400036",
+        "name": "Free Parking",
+        "locationConfidence": 0.5823711,
+        "calibratedProbability": 0.4746229
+      }, {
+        "latitudeE7": 487922087,
+        "longitudeE7": 443564455,
+        "placeId": "ChIJO0DOEu7IGkERX98XmTTi9eI",
+        "address": "Гумрак, Волгоградская обл., Россия, 400036",
+        "name": "Terminal A",
+        "locationConfidence": 0.57549846,
+        "calibratedProbability": 0.46902183
+      }, {
+        "latitudeE7": 487929887,
+        "longitudeE7": 443562225,
+        "placeId": "ChIJIWUuCO7IGkERig8lg7AjVPs",
+        "address": "ш. Авиаторов, 157, Волгоградская обл., Россия, 400036",
+        "locationConfidence": 0.19268024,
+        "calibratedProbability": 0.15703124
+      }, {
+        "latitudeE7": 487922520,
+        "longitudeE7": 443565390,
+        "placeId": "ChIJ40DOEu7IGkERqFmFaC5E-2M",
+        "address": "ш. Авиаторов, 161А, Волгоград, Волгоградская обл., Россия, 400036",
+        "locationConfidence": 0.13023558,
+        "calibratedProbability": 0.10613987
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 82,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487932141,
+        "longitudeE7": 443540806,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 487183225,
+        "longitudeE7": 445055860,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-22T10:16:48Z",
+        "endTimestamp": "2022-04-22T10:55:05.025Z"
+      },
+      "distance": 14779,
+      "activityType": "IN_BUS",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 84.01120901107788
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 11.181624978780746
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.4812456220388412
+      }, {
+        "activityType": "STILL",
+        "probability": 1.1757321655750275
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.6287598982453346
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.18808088498190045
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.14149106573313475
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.11213031830266118
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.031609542202204466
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.031211072928272188
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.015189476835075766
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.0014634094441134948
+      }, {
+        "activityType": "SKIING",
+        "probability": 1.9957908534706803E-4
+      }, {
+        "activityType": "SAILING",
+        "probability": 5.486431859935692E-5
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.858131674723154E-7
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 487922410,
+          "longitudeE7": 443555680,
+          "placeId": "ChIJsw9Fce7IGkERnIy4Be6RnzE",
+          "address": "Волгоградская обл., Россия, 400036",
+          "name": "Aeroport"
+        }, {
+          "latitudeE7": 487950620,
+          "longitudeE7": 443576660,
+          "placeId": "ChIJ5_UkP_LIGkERN5bdWIJS5Jc",
+          "address": "Волгоградская обл., Россия, 400036",
+          "name": "Aeroport Settlement"
+        }, {
+          "latitudeE7": 487962131,
+          "longitudeE7": 443669765,
+          "placeId": "ChIJYQiBm_bIGkERzFyaE0_n1PI",
+          "address": "Волгоградская обл., Россия, 400036",
+          "name": "Transgaz"
+        }, {
+          "latitudeE7": 487843160,
+          "longitudeE7": 443762940,
+          "placeId": "ChIJyzXbU_3IGkERrGlBz-8lP1g",
+          "address": "Волгоградская обл., Россия, 400122",
+          "name": "Voyennyy gorodok"
+        }, {
+          "latitudeE7": 487795290,
+          "longitudeE7": 443800340,
+          "placeId": "ChIJoTiEkRzJGkERChlfIBaGyLU",
+          "address": "Волгоградская обл., Россия, 400122",
+          "name": "Gurmak Station"
+        }, {
+          "latitudeE7": 487750470,
+          "longitudeE7": 443840670,
+          "placeId": "ChIJi58ZEhrJGkERj-47IjSV-nk",
+          "address": "Волгоградская обл., Россия, 400122",
+          "name": "Gurmak Settlement"
+        }, {
+          "latitudeE7": 487700210,
+          "longitudeE7": 443978670,
+          "placeId": "ChIJizWiLhPJGkERFeXbYdzSZiU",
+          "address": "Волгоградская обл., Россия, 400075",
+          "name": "17-Y Kilometr"
+        }, {
+          "latitudeE7": 487657750,
+          "longitudeE7": 444099420,
+          "placeId": "ChIJYa23sG_JGkERwVfXD8bEDrM",
+          "address": "Волгоградская обл., Россия, 400075",
+          "name": "Betonnaya Station"
+        }, {
+          "latitudeE7": 487636530,
+          "longitudeE7": 444158260,
+          "placeId": "ChIJJxHSPGXJGkERWpef2EwLQUg",
+          "address": "Волгоградская обл., Россия, 400075",
+          "name": "Podstantsiya"
+        }, {
+          "latitudeE7": 487589230,
+          "longitudeE7": 444352720,
+          "placeId": "ChIJP8R15NbLGkERyOVVax03KZ8",
+          "address": "Волгоград, Волгоградская обл., Россия, 400075",
+          "name": "Rybokompleks"
+        }, {
+          "latitudeE7": 487590850,
+          "longitudeE7": 444462510,
+          "placeId": "ChIJ8zCPrdPLGkER831mqwhYFdI",
+          "address": "Волгоград, Волгоградская обл., Россия, 400075",
+          "name": "VZBT"
+        }, {
+          "latitudeE7": 487585500,
+          "longitudeE7": 444513100,
+          "placeId": "ChIJA30JYM3LGkERi1auupxd6W4",
+          "address": "Волгоград, Волгоградская обл., Россия, 400075",
+          "name": "Volgogradmash"
+        }, {
+          "latitudeE7": 487575770,
+          "longitudeE7": 444578950,
+          "placeId": "ChIJwSPDMTPKGkER9gClL6YnXM8",
+          "address": "Волгоград, Волгоградская обл., Россия, 400075",
+          "name": "Optovyy Market"
+        }, {
+          "latitudeE7": 487567680,
+          "longitudeE7": 444633520,
+          "placeId": "ChIJr7w8jTTKGkERi0XAbD30k7U",
+          "address": "Волгоград, Волгоградская обл., Россия, 400075",
+          "name": "Motornyy Zavod"
+        }, {
+          "latitudeE7": 487555860,
+          "longitudeE7": 444712570,
+          "placeId": "ChIJJQYYCkrKGkER4LLhxfedQLY",
+          "address": "Волгоград, Волгоградская обл., Россия, 400042",
+          "name": "Avrora Zavod"
+        }, {
+          "latitudeE7": 487545160,
+          "longitudeE7": 444786540,
+          "placeId": "ChIJ456nQUnKGkERWXlW-W6I67c",
+          "address": "Волгоград, Волгоградская обл., Россия, 400048",
+          "name": "Real Mall (Park and ride Ashan)"
+        }, {
+          "latitudeE7": 487521229,
+          "longitudeE7": 444832429,
+          "placeId": "ChIJ5Y9yZE7KGkERMxtjhARaqLs",
+          "address": "Волгоград, Волгоградская обл., Россия, 400048",
+          "name": "Zemlyachki St"
+        }, {
+          "latitudeE7": 487485840,
+          "longitudeE7": 444857010,
+          "placeId": "ChIJ_2o3OVLKGkEREy7jI7khyN4",
+          "address": "Волгоград, Волгоградская обл., Россия, 400048",
+          "name": "Tsentr detskogo tvorchestva"
+        }, {
+          "latitudeE7": 487449340,
+          "longitudeE7": 444882560,
+          "placeId": "ChIJw-xMhFTKGkER3UJOeECG3oc",
+          "address": "Волгоград, Волгоградская обл., Россия, 400048",
+          "name": "Agentstvo vozdushnykh soobscheniy"
+        }, {
+          "latitudeE7": 487413320,
+          "longitudeE7": 444903200,
+          "placeId": "ChIJOdTITFXKGkERkgPRB-rtfRE",
+          "address": "Волгоград, Волгоградская обл., Россия, 400107",
+          "name": "Khorosheva St"
+        }, {
+          "latitudeE7": 487360350,
+          "longitudeE7": 444936190,
+          "placeId": "ChIJg42iewHLGkERgZIfX3U04SE",
+          "address": "Волгоград, Волгоградская обл., Россия, 400107",
+          "name": "Tekhnologicheskiy College"
+        }, {
+          "latitudeE7": 487338370,
+          "longitudeE7": 444950080,
+          "placeId": "ChIJ5w3S2wPLGkERjTdilgprmNo",
+          "address": "Волгоград, Волгоградская обл., Россия, 400107",
+          "name": "Tekhnologicheskiy College"
+        }, {
+          "latitudeE7": 487291910,
+          "longitudeE7": 444981080,
+          "placeId": "ChIJiRm_ERvLGkER3Dy_iKwIP70",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
+          "name": "Dzhanybekovskaya St"
+        }, {
+          "latitudeE7": 487260680,
+          "longitudeE7": 445001060,
+          "placeId": "ChIJCW3CiRnLGkERPwtRKI2FyZc",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
+          "name": "Irtyshskaya St"
+        }, {
+          "latitudeE7": 487218050,
+          "longitudeE7": 445028310,
+          "placeId": "ChIJsdsi5RfLGkERoUeHMn1Nkk4",
+          "address": "Волгоград, Волгоградская обл., Россия, 400012",
+          "name": "Kaspiyskaya St"
+        }, {
+          "latitudeE7": 487184500,
+          "longitudeE7": 445070240,
+          "placeId": "ChIJKe7Z7DzLGkERPP2Fmv9PbmM",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
+          "name": "Rodina, Cinema"
+        }],
+        "name": "6",
+        "hexRgbColor": "000000",
+        "linePlaceId": "ChIJu1U-2trLGkERL50pfnf7hx4",
+        "stopTimesInfo": [{
+          "scheduledDepartureTimestamp": "2022-04-22T12:10:00Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:11:31Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:11:31Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:13:53Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:13:53Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:17:24Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:17:24Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:19:10Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:19:10Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:20:53Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:20:53Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:23:46Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:23:46Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:26:20Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:26:20Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:27:53Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:27:53Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:31:48Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:31:48Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:34:00Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:34:00Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:35:21Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:35:21Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:36:55Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:36:55Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:38:21Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:38:21Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:40:07Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:40:07Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:41:50Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:41:50Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:43:23Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:43:23Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:44:47Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:44:47Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:46:14Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:46:14Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:47:39Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:47:39Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:49:29Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:49:29Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:50:35Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:50:35Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:52:16Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:52:16Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:53:33Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:53:33Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:55:07Z",
+          "scheduledDepartureTimestamp": "2022-04-22T12:55:07Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-22T12:56:38Z"
+        }],
+        "source": "INFERRED",
+        "confidence": 0.5690837838302844,
+        "distanceMeters": 16275.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 487932141,
+          "lngE7": 443540806,
+          "accuracyMeters": 4,
+          "timestamp": "2022-04-22T10:16:48Z"
+        }, {
+          "latE7": 487903736,
+          "lngE7": 443719268,
+          "accuracyMeters": 7,
+          "timestamp": "2022-04-22T10:20:37.025Z"
+        }, {
+          "latE7": 487637572,
+          "lngE7": 444160224,
+          "accuracyMeters": 5,
+          "timestamp": "2022-04-22T10:28:09.998Z"
+        }, {
+          "latE7": 487556878,
+          "lngE7": 444713505,
+          "accuracyMeters": 91,
+          "timestamp": "2022-04-22T10:37:10.188Z"
+        }, {
+          "latE7": 487377452,
+          "lngE7": 444925479,
+          "accuracyMeters": 59,
+          "timestamp": "2022-04-22T10:45:24.963Z"
+        }, {
+          "latE7": 487200563,
+          "lngE7": 445052163,
+          "accuracyMeters": 38,
+          "timestamp": "2022-04-22T10:50:46.577Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 14960.840772793284
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487188631,
+        "longitudeE7": 445064105,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 487184369,
+        "longitudeE7": 445055399,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-23T07:38:03.340Z",
+        "endTimestamp": "2022-04-23T08:24:05Z"
+      },
+      "distance": 79,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 69.46044564247131
+      }, {
+        "activityType": "STILL",
+        "probability": 16.759303212165833
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.812387704849243
+      }, {
+        "activityType": "CYCLING",
+        "probability": 3.769851103425026
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.1826948262751102
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.6578327156603336
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.5300271324813366
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.2963806502521038
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.22610467858612537
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.1334455912001431
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.11648015351966023
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03770904149860144
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.010965890396619216
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.006349718751152977
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.683153184079856E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487189521,
+          "lngE7": 445065536
+        }, {
+          "latE7": 487194328,
+          "lngE7": 445068359
+        }, {
+          "latE7": 487234191,
+          "lngE7": 445134925
+        }, {
+          "latE7": 487248649,
+          "lngE7": 445078620
+        }, {
+          "latE7": 487247428,
+          "lngE7": 445080184
+        }, {
+          "latE7": 487173080,
+          "lngE7": 445132980
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2749.234233468016,
+        "travelMode": "WALK",
+        "confidence": 0.9918929357436429
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 487233315,
+          "lngE7": 445136185,
+          "accuracyMeters": 5,
+          "timestamp": "2022-04-23T07:47:08Z"
+        }, {
+          "latE7": 487248039,
+          "lngE7": 445081253,
+          "accuracyMeters": 5,
+          "timestamp": "2022-04-23T07:55:28Z"
+        }]
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487182180,
+        "longitudeE7": 445057183,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 486995053,
+        "longitudeE7": 444891365,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-23T08:46:45Z",
+        "endTimestamp": "2022-04-23T09:36:55Z"
+      },
+      "distance": 2410,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 77.32824683189392
+      }, {
+        "activityType": "STILL",
+        "probability": 10.743769258260727
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 7.120553404092789
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.735769584774971
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.037251390516758
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.8793327957391739
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.7264962419867516
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.1779979793354869
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.14916774816811085
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.09098376031033695
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.007331732922466472
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0016336223779944703
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.001039194376062369
+      }, {
+        "activityType": "SAILING",
+        "probability": 4.205804088996956E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.0711585218814434E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487176017,
+          "lngE7": 445038223
+        }, {
+          "latE7": 487084045,
+          "lngE7": 444887504
+        }, {
+          "latE7": 487061080,
+          "lngE7": 444865837
+        }, {
+          "latE7": 487044067,
+          "lngE7": 444848709
+        }, {
+          "latE7": 487029190,
+          "lngE7": 444826698
+        }, {
+          "latE7": 486995048,
+          "lngE7": 444874839
+        }, {
+          "latE7": 486996803,
+          "lngE7": 444891700
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3039.4315031018987,
+        "travelMode": "WALK",
+        "confidence": 0.9893635260841087
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 487061310,
+          "lngE7": 444866257,
+          "accuracyMeters": 4,
+          "timestamp": "2022-04-23T09:10:43Z"
+        }, {
+          "latE7": 487029915,
+          "lngE7": 444827843,
+          "accuracyMeters": 4,
+          "timestamp": "2022-04-23T09:17:48Z"
+        }]
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 486995053,
+        "longitudeE7": 444891365,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 487180492,
+        "longitudeE7": 445087053,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-23T09:36:55Z",
+        "endTimestamp": "2022-04-23T09:58:08.019Z"
+      },
+      "distance": 2512,
+      "activityType": "IN_BUS",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_BUS",
+        "probability": 31.464406847953796
+      }, {
+        "activityType": "WALKING",
+        "probability": 31.31115734577179
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 25.804251432418823
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 4.4877417385578156
+      }, {
+        "activityType": "STILL",
+        "probability": 3.5560760647058487
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.9369212910532951
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.7205061614513397
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.5094668827950954
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.17010736046358943
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.028987741097807884
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.005961503120488487
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0028731517886626534
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0012419618542480748
+      }, {
+        "activityType": "SAILING",
+        "probability": 2.829794539138675E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.5004094677806279E-5
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 486957400,
+          "longitudeE7": 444978940,
+          "placeId": "ChIJg7APDlPLGkERpTOQGEweI78",
+          "address": "Волгоград, Волгоградская обл., Россия, 400001",
+          "name": "Kazachiy teatr"
+        }, {
+          "latitudeE7": 486973310,
+          "longitudeE7": 445005520,
+          "placeId": "ChIJAbMJd03LGkERx-AkjmYEJgs",
+          "address": "Волгоград, Волгоградская обл., Россия, 400001",
+          "name": "Torgovyy tsentr"
+        }, {
+          "latitudeE7": 487006610,
+          "longitudeE7": 445060420,
+          "placeId": "ChIJA8ELYEzLGkERWahf1GtUCFU",
+          "address": "Волгоград, Волгоградская обл., Россия, 400001",
+          "name": "Chekistov Square"
+        }, {
+          "latitudeE7": 487038390,
+          "longitudeE7": 445121680,
+          "placeId": "ChIJn40IX0rLGkERQ5pdZn6VVS8",
+          "address": "Волгоград, Волгоградская обл., Россия, 400098",
+          "name": "Dom Soyuzov (Sovremennik Shop)"
+        }, {
+          "latitudeE7": 487079494,
+          "longitudeE7": 445189940,
+          "placeId": "ChIJtbj2iDPLGkERBi7nuiJIZrI",
+          "address": "Волгоград, Волгоградская обл., Россия, 400008",
+          "name": "Komsomolskaya St (Tsentral\u0027nyy Market)"
+        }, {
+          "latitudeE7": 487098300,
+          "longitudeE7": 445196320,
+          "placeId": "ChIJk51F3TPLGkERT9XfdBx_ij8",
+          "address": "Волгоград, Волгоградская обл., Россия, 400052",
+          "name": "Dom tekhniki"
+        }, {
+          "latitudeE7": 487167190,
+          "longitudeE7": 445102510,
+          "placeId": "ChIJPUOLDTvLGkERJus5XHgIvOE",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
+          "name": "Novorossiyskaya St"
+        }, {
+          "latitudeE7": 487183800,
+          "longitudeE7": 445079570,
+          "placeId": "ChIJfT_wljzLGkERHIS9HzJKYcI",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
+          "name": "Rodina, Cinema"
+        }],
+        "name": "65",
+        "hexRgbColor": "000000",
+        "linePlaceId": "ChIJORoJjhbLGkERs-aeyg-GeO4",
+        "stopTimesInfo": [{
+          "scheduledDepartureTimestamp": "2022-04-23T09:30:42Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-23T09:31:30Z",
+          "scheduledDepartureTimestamp": "2022-04-23T09:31:40Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-23T09:33:19Z",
+          "scheduledDepartureTimestamp": "2022-04-23T09:33:29Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-23T09:35:12Z",
+          "scheduledDepartureTimestamp": "2022-04-23T09:35:22Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-23T09:37:25Z",
+          "scheduledDepartureTimestamp": "2022-04-23T09:37:35Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-23T09:38:24Z",
+          "scheduledDepartureTimestamp": "2022-04-23T09:38:34Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-23T09:41:40Z",
+          "scheduledDepartureTimestamp": "2022-04-23T09:41:50Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-04-23T09:42:35Z"
+        }],
+        "source": "INFERRED",
+        "confidence": 0.0,
+        "distanceMeters": 3647.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 486995053,
+          "lngE7": 444891365,
+          "accuracyMeters": 5,
+          "timestamp": "2022-04-23T09:36:55Z"
+        }, {
+          "latE7": 487038860,
+          "lngE7": 444928405,
+          "accuracyMeters": 6,
+          "timestamp": "2022-04-23T09:39:04.999Z"
+        }, {
+          "latE7": 487107762,
+          "lngE7": 445018894,
+          "accuracyMeters": 9,
+          "timestamp": "2022-04-23T09:42:57Z"
+        }, {
+          "latE7": 487187798,
+          "lngE7": 444992754,
+          "accuracyMeters": 9,
+          "timestamp": "2022-04-23T09:48:19.533Z"
+        }, {
+          "latE7": 487193455,
+          "lngE7": 445070332,
+          "accuracyMeters": 9,
+          "timestamp": "2022-04-23T09:55:51.950Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3948.6797974070037
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487182958,
+        "longitudeE7": 445051364,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 487226330,
+        "longitudeE7": 445123986,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-27T14:57:05.380Z",
+        "endTimestamp": "2022-04-27T15:03:01.609Z"
+      },
+      "distance": 718,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 83.53471755981445
+      }, {
+        "activityType": "STILL",
+        "probability": 7.332399487495422
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 4.637397453188896
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.000662125647068
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.5129788778722286
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.24573064874857664
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.23715391289442778
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.22549054119735956
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.16354451654478908
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.07229340844787657
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.027487135957926512
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.006543041672557592
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0019537632397259586
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0016492062059114687
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.8517519961847029E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 487183570,
+          "lngE7": 445050506
+        }, {
+          "latE7": 487194328,
+          "lngE7": 445068359
+        }, {
+          "latE7": 487226829,
+          "lngE7": 445123291
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 735.0412182365305,
+        "travelMode": "WALK",
+        "confidence": 0.9720682035704576
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 487225284,
+        "longitudeE7": 445122484,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 487180672,
+        "longitudeE7": 445053137,
+        "sourceInfo": {
+          "deviceTag": -966935694
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-27T15:44:57.756Z",
+        "endTimestamp": "2022-04-27T15:49:32.728Z"
+      },
+      "distance": 710,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 72.61263132095337
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 10.873393714427948
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.1912892162799835
+      }, {
+        "activityType": "STILL",
+        "probability": 3.2328858971595764
+      }, {
+        "activityType": "CYCLING",
+        "probability": 3.1524553894996643
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.191083900630474
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.6279236637055874
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.5815337412059307
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.2622523810714483
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.23194579407572746
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.03409066121093929
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.004460650234250352
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0023882003006292507
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0016536665498279035
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 9.342601714479315E-6
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487182615,
+        "longitudeE7": 445052750,
+        "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
+        "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": -966935694
+        },
+        "locationConfidence": 91.71437,
+        "calibratedProbability": 63.220806
+      },
+      "duration": {
+        "startTimestamp": "2022-04-30T15:05:43.308Z",
+        "endTimestamp": "2022-04-30T15:10:33Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 487184521,
+      "centerLngE7": 445055867,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487194540,
+        "longitudeE7": 445070150,
+        "placeId": "ChIJ702C3DzLGkERfqydSNV0UCE",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
+        "name": "Rodina, Cinema",
+        "locationConfidence": 1.6897658,
+        "calibratedProbability": 1.1647941
+      }, {
+        "latitudeE7": 487172172,
+        "longitudeE7": 445047539,
+        "placeId": "ChIJA28nAzzLGkERY9hW9fh7uS8",
+        "address": "ул. Кубанская, 20, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Skver 8 Marta, Memorial",
+        "locationConfidence": 1.5330604,
+        "calibratedProbability": 1.0567735
+      }, {
+        "latitudeE7": 487183152,
+        "longitudeE7": 445067030,
+        "placeId": "ChIJ884DjTzLGkERn5A2kpJJX1M",
+        "address": "ул. Невская, 13, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Cinema Rodina",
+        "locationConfidence": 0.8008498,
+        "calibratedProbability": 0.55204403
+      }, {
+        "latitudeE7": 487180313,
+        "longitudeE7": 445049547,
+        "placeId": "ChIJ_yRmXDzLGkER7uoyJRaRbvM",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.6161082,
+        "calibratedProbability": 0.4246974
+      }, {
+        "latitudeE7": 487197125,
+        "longitudeE7": 445064935,
+        "placeId": "ChIJE5Jg54nLGkERBem624VnT98",
+        "address": "ул. имени Маршала Рокоссовского, 49, Волгоград, Волгоградская обл., Россия, 400012",
+        "name": "Perekrestok",
+        "locationConfidence": 0.58382505,
+        "calibratedProbability": 0.40244392
+      }, {
+        "latitudeE7": 487181125,
+        "longitudeE7": 445087210,
+        "placeId": "ChIJR6L1WDvLGkER86He9b_XjjY",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Nevskiy Passazh",
+        "locationConfidence": 0.49601364,
+        "calibratedProbability": 0.34191352
+      }, {
+        "latitudeE7": 487190439,
+        "longitudeE7": 445076899,
+        "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
+        "locationConfidence": 0.4941129,
+        "calibratedProbability": 0.3406033
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 77,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487181125,
+        "longitudeE7": 445087210,
+        "placeId": "ChIJR6L1WDvLGkER86He9b_XjjY",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Nevskiy Passazh",
+        "sourceInfo": {
+          "deviceTag": -966935694
+        },
+        "locationConfidence": 53.618492,
+        "calibratedProbability": 37.675167
+      },
+      "duration": {
+        "startTimestamp": "2022-04-30T15:10:33Z",
+        "endTimestamp": "2022-04-30T15:48:00.999Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 487180972,
+          "longitudeE7": 445087767,
+          "placeId": "ChIJORdvu6QtBUER4gka0RabqU4",
+          "address": "ул. Невская, 12в, Волгоград, Волгоградская обл., Россия, 400059",
+          "name": "Pyaterochka",
+          "sourceInfo": {
+            "deviceTag": -966935694
+          },
+          "locationConfidence": 9.829705,
+          "calibratedProbability": 20.559132
+        },
+        "duration": {
+          "startTimestamp": "2022-04-30T15:10:33Z",
+          "endTimestamp": "2022-04-30T15:48:00.999Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 487182833,
+        "centerLngE7": 445083267,
+        "visitConfidence": 88,
+        "otherCandidateLocations": [{
+          "latitudeE7": 487181280,
+          "longitudeE7": 445088450,
+          "placeId": "ChIJUQHzaFvKGkERcDc4iFhnB3k",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
+          "name": "Mts",
+          "locationConfidence": 5.86615,
+          "calibratedProbability": 12.269234
+        }, {
+          "latitudeE7": 487190439,
+          "longitudeE7": 445076899,
+          "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
+          "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
+          "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
+          "locationConfidence": 5.7570496,
+          "calibratedProbability": 12.041047
+        }, {
+          "latitudeE7": 487179910,
+          "longitudeE7": 445090116,
+          "placeId": "ChIJA30mnjzLGkERDEcUTywhkok",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
+          "name": "Magnit",
+          "locationConfidence": 3.34243,
+          "calibratedProbability": 6.9907956
+        }, {
+          "latitudeE7": 487181326,
+          "longitudeE7": 445087285,
+          "placeId": "ChIJBxKBnzzLGkERvroz6ZYuAPA",
+          "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
+          "name": "Bum",
+          "locationConfidence": 2.3493931,
+          "calibratedProbability": 4.9138284
+        }, {
+          "latitudeE7": 487183800,
+          "longitudeE7": 445079570,
+          "placeId": "ChIJfT_wljzLGkERHIS9HzJKYcI",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
+          "name": "Rodina, Cinema",
+          "locationConfidence": 2.1528418,
+          "calibratedProbability": 4.502735
+        }, {
+          "latitudeE7": 487181720,
+          "longitudeE7": 445088360,
+          "placeId": "ChIJR6L1WDvLGkERNs-Sm9jchRE",
+          "address": "ул. Невская, 12в, Волгоград, Волгоградская обл., Россия, 400087",
+          "name": "Apteka Ekonom",
+          "locationConfidence": 2.101365,
+          "calibratedProbability": 4.39507
+        }, {
+          "latitudeE7": 487184500,
+          "longitudeE7": 445070240,
+          "placeId": "ChIJKe7Z7DzLGkERPP2Fmv9PbmM",
+          "address": "Волгоград, Волгоградская обл., Россия, 400087",
+          "name": "Rodina, Cinema",
+          "locationConfidence": 0.6280471,
+          "calibratedProbability": 1.3135799
+        }, {
+          "latitudeE7": 487189893,
+          "longitudeE7": 445076729,
+          "placeId": "ChIJK-iU9FvLGkERrO8n4b9h9iY",
+          "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
+          "name": "Blinberi",
+          "locationConfidence": 0.56326365,
+          "calibratedProbability": 1.1780833
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 1,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }],
+      "centerLatE7": 487182833,
+      "centerLngE7": 445083267,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487179550,
+        "longitudeE7": 445050300,
+        "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
+        "address": "ул. имени Маршала Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 18.608202,
+        "calibratedProbability": 13.075101
+      }, {
+        "latitudeE7": 487190439,
+        "longitudeE7": 445076899,
+        "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
+        "locationConfidence": 13.607186,
+        "calibratedProbability": 9.561124
+      }, {
+        "latitudeE7": 487181326,
+        "longitudeE7": 445087285,
+        "placeId": "ChIJBxKBnzzLGkERvroz6ZYuAPA",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Bum",
+        "locationConfidence": 3.398435,
+        "calibratedProbability": 2.3879192
+      }, {
+        "latitudeE7": 487189893,
+        "longitudeE7": 445076729,
+        "placeId": "ChIJK-iU9FvLGkERrO8n4b9h9iY",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Blinberi",
+        "locationConfidence": 1.6928471,
+        "calibratedProbability": 1.1894834
+      }, {
+        "latitudeE7": 487183800,
+        "longitudeE7": 445079570,
+        "placeId": "ChIJfT_wljzLGkERHIS9HzJKYcI",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Rodina, Cinema",
+        "locationConfidence": 1.432175,
+        "calibratedProbability": 1.0063214
+      }, {
+        "latitudeE7": 487175732,
+        "longitudeE7": 445095631,
+        "placeId": "ChIJH5hHDPPLGkERDzxLCGeyxfQ",
+        "address": "ул. Невская, 10 ст.1, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Bristol\u0027",
+        "locationConfidence": 1.4035187,
+        "calibratedProbability": 0.98618597
+      }, {
+        "latitudeE7": 487189893,
+        "longitudeE7": 445076729,
+        "placeId": "ChIJzdn2wDzLGkERulXqIrucy9I",
+        "address": "ул. Невская, 16а, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Sfera, Klub",
+        "locationConfidence": 1.3010417,
+        "calibratedProbability": 0.9141803
+      }, {
+        "latitudeE7": 487190870,
+        "longitudeE7": 445076430,
+        "placeId": "ChIJIU1N3YDLGkEREf38rQJtWKg",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "DNS Technopoint",
+        "locationConfidence": 1.0677478,
+        "calibratedProbability": 0.7502557
+      }, {
+        "latitudeE7": 487176514,
+        "longitudeE7": 445080032,
+        "placeId": "ChIJ2YW6nTzLGkERBUQAyE_P7tM",
+        "address": "ул. Невская, 11А, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Kvest-Khill",
+        "locationConfidence": 0.8791902,
+        "calibratedProbability": 0.61776525
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 487182615,
+        "longitudeE7": 445052750,
+        "placeId": "ChIJ5X6FWzzLGkERFV6MnCuMW4s",
+        "address": "ул. им. Рокоссовского, 30, Волгоград, Волгоградская обл., Россия, 400087",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": -966935694
+        },
+        "locationConfidence": 84.92658,
+        "calibratedProbability": 55.754936
+      },
+      "duration": {
+        "startTimestamp": "2022-04-30T15:48:00.999Z",
+        "endTimestamp": "2022-05-01T11:55:11.946Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 487185325,
+      "centerLngE7": 445053600,
+      "visitConfidence": 75,
+      "otherCandidateLocations": [{
+        "latitudeE7": 487181125,
+        "longitudeE7": 445087210,
+        "placeId": "ChIJR6L1WDvLGkER86He9b_XjjY",
+        "address": "ул. Невская, 12В, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Nevskiy Passazh",
+        "locationConfidence": 6.4648247,
+        "calibratedProbability": 4.2442055
+      }, {
+        "latitudeE7": 487190439,
+        "longitudeE7": 445076899,
+        "placeId": "ChIJHSLCvzzLGkERer6a1N_SUEo",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Kollegiya Advokatov Volgogradskoy Oblasti \"Belyy Aist\"",
+        "locationConfidence": 3.8043532,
+        "calibratedProbability": 2.4975863
+      }, {
+        "latitudeE7": 487194540,
+        "longitudeE7": 445070150,
+        "placeId": "ChIJ702C3DzLGkERfqydSNV0UCE",
+        "address": "Волгоград, Волгоградская обл., Россия, 400012",
+        "name": "Rodina, Cinema",
+        "locationConfidence": 0.65765196,
+        "calibratedProbability": 0.43175343
+      }, {
+        "latitudeE7": 487189893,
+        "longitudeE7": 445076729,
+        "placeId": "ChIJzdn2wDzLGkERulXqIrucy9I",
+        "address": "ул. Невская, 16а, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Sfera, Klub",
+        "locationConfidence": 0.6571558,
+        "calibratedProbability": 0.4314277
+      }, {
+        "latitudeE7": 487189893,
+        "longitudeE7": 445076729,
+        "placeId": "ChIJK-iU9FvLGkERrO8n4b9h9iY",
+        "address": "ул. Невская, 16А, Волгоград, Волгоградская обл., Россия, 400087",
+        "name": "Blinberi",
+        "locationConfidence": 0.6024971,
+        "calibratedProbability": 0.39554384
+      }, {
+        "latitudeE7": 487180313,
+        "longitudeE7": 445049547,
+        "placeId": "ChIJ_yRmXDzLGkER7uoyJRaRbvM",
+        "address": "Волгоград, Волгоградская обл., Россия, 400087",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.5586466,
+        "calibratedProbability": 0.3667557
+      }, {
+        "latitudeE7": 487197125,
+        "longitudeE7": 445064935,
+        "placeId": "ChIJE5Jg54nLGkERBem624VnT98",
+        "address": "ул. имени Маршала Рокоссовского, 49, Волгоград, Волгоградская обл., Россия, 400012",
+        "name": "Perekrestok",
+        "locationConfidence": 0.48174852,
+        "calibratedProbability": 0.3162715
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 69,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

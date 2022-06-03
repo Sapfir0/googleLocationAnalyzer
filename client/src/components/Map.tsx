@@ -1,7 +1,7 @@
 import 'leaflet/dist/leaflet.css';
-import React from 'react';
+import React, { useState } from 'react';
 import { Circle, MapContainer, TileLayer } from 'react-leaflet';
-import { LocationInfo, PlaceVisit } from 'typings/common';
+import { PlaceVisit } from 'typings/common';
 import './Map.css';
 
 export interface ColoredPlaceVisit extends PlaceVisit {
@@ -9,7 +9,7 @@ export interface ColoredPlaceVisit extends PlaceVisit {
 }
 
 export interface ILocationMapProps {
-    coordinates:  ColoredPlaceVisit[];
+    coordinates: ColoredPlaceVisit[];
 }
 
 export function LocationsMap(props: ILocationMapProps) {
@@ -22,7 +22,7 @@ export function LocationsMap(props: ILocationMapProps) {
                         key={`${placeVisit.centerLngE7}-${placeVisit.centerLatE7}-${i}`}
                         center={{ lat: placeVisit.centerLatE7, lng: placeVisit.centerLngE7 }}
                         pathOptions={{ color: placeVisit.color }}
-                        radius={5}
+                        radius={10}
                     />
                 );
             })}

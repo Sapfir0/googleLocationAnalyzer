@@ -1,0 +1,3167 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 95.01781,
+        "calibratedProbability": 74.706856
+      },
+      "duration": {
+        "startTimestamp": "2022-02-01T12:50:57.598Z",
+        "endTimestamp": "2022-02-01T13:00:31.004Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599270935,
+      "centerLngE7": 303559020,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599281960,
+        "longitudeE7": 303560123,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "locationConfidence": 2.141192,
+        "calibratedProbability": 1.683492
+      }, {
+        "latitudeE7": 599267567,
+        "longitudeE7": 303555629,
+        "placeId": "ChIJszLOHLAxlkYRjPQi-oJd17M",
+        "address": "Кузнечный пер., 17/2 лит.А, Санкт-Петербург, Россия, 191040",
+        "name": "Planeta Zdorov\u0027ya",
+        "locationConfidence": 0.4566523,
+        "calibratedProbability": 0.35903856
+      }, {
+        "latitudeE7": 599273700,
+        "longitudeE7": 303554890,
+        "placeId": "ChIJx-4KE6ExlkYR-aPzVysYeNU",
+        "address": "Лиговский пр., 266Д, Санкт-Петербург, Россия, 196084",
+        "name": "Sintezia",
+        "locationConfidence": 0.31590348,
+        "calibratedProbability": 0.24837613
+      }, {
+        "latitudeE7": 599271698,
+        "longitudeE7": 303554542,
+        "placeId": "ChIJN3b4_q8xlkYRzLN7LhXD8bo",
+        "address": "Пушкинская ул., 19, Санкт-Петербург, Россия, 191040",
+        "name": "Feniks",
+        "locationConfidence": 0.26110673,
+        "calibratedProbability": 0.2052927
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 81,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599269435,
+        "longitudeE7": 303558851,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599282756,
+        "longitudeE7": 303563764,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-01T13:00:31.004Z",
+        "endTimestamp": "2022-02-01T13:03:07Z"
+      },
+      "distance": 150,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 95.56766152381897
+      }, {
+        "activityType": "STILL",
+        "probability": 2.435949258506298
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.2602959759533405
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.27479552663862705
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.188210338819772
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.13739331625401974
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.04727665218524635
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03705189155880362
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.030373045592568815
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.014119189290795475
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0024099539587041363
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.0019529266864992678
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.001583978155395016
+      }, {
+        "activityType": "SAILING",
+        "probability": 9.315838724432979E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.2229517745709906E-9
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599268646,
+          "lngE7": 303558444
+        }, {
+          "latE7": 599275856,
+          "lngE7": 303559951
+        }, {
+          "latE7": 599282760,
+          "lngE7": 303563861
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 171.03416609899682,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599285314,
+        "longitudeE7": 303538285,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 89.164406,
+        "calibratedProbability": 87.521645
+      },
+      "duration": {
+        "startTimestamp": "2022-02-02T21:42:07.412Z",
+        "endTimestamp": "2022-02-09T09:03:19.579Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599281883,
+      "centerLngE7": 303561572,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599294488,
+        "longitudeE7": 303574005,
+        "placeId": "ChIJV_jPFJ4xlkYRObr6b39CYA4",
+        "address": "Точка продаж средств от насекомых Пушкинская улица, д. 10 вход через магазин продукты, Санкт-Петербург, Россия, 191028",
+        "name": "Точка Продаж ДезСредств УНИ Дез Чернышевская",
+        "locationConfidence": 0.2034995,
+        "calibratedProbability": 0.19975023
+      }, {
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "locationConfidence": 0.13320646,
+        "calibratedProbability": 0.13075227
+      }, {
+        "latitudeE7": 599291900,
+        "longitudeE7": 303471870,
+        "placeId": "ChIJzXeuUK8xlkYRsBJZR-_p58w",
+        "address": "Владимирский пр., 15, Санкт-Петербург, Россия, 191002",
+        "name": "DNS",
+        "locationConfidence": 0.09922396,
+        "calibratedProbability": 0.09739586
+      }, {
+        "latitudeE7": 599281809,
+        "longitudeE7": 303559021,
+        "placeId": "ChIJaSe6UaUxlkYRC0IFx7zM1_A",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
+        "name": "Клиника по борьбе с лишним весом №1",
+        "locationConfidence": 0.095189735,
+        "calibratedProbability": 0.093435965
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 74,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599281944,
+        "longitudeE7": 303561838,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599278766,
+        "longitudeE7": 303457843,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-09T09:03:19.579Z",
+        "endTimestamp": "2022-02-09T09:17:05.495Z"
+      },
+      "distance": 696,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 71.44832611083984
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 20.329956710338593
+      }, {
+        "activityType": "STILL",
+        "probability": 3.0915258452296257
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 2.6485001668334007
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.9007647633552551
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.7113940548151731
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.3789791138842702
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.22123130038380623
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.21641626954078674
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.021399649267550558
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.020456721540540457
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.008595013059675694
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.002137492447218392
+      }, {
+        "activityType": "SKIING",
+        "probability": 3.11830808641389E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.4725272556859181E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599281768,
+          "lngE7": 303563308
+        }, {
+          "latE7": 599270019,
+          "lngE7": 303546752
+        }, {
+          "latE7": 599277343,
+          "lngE7": 303483276
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 565.9862300095069,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599278766,
+        "longitudeE7": 303457843,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 598920754,
+        "longitudeE7": 303176679,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-09T09:17:05.495Z",
+        "endTimestamp": "2022-02-09T09:25:05.156Z"
+      },
+      "distance": 4278,
+      "activityType": "IN_SUBWAY",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_SUBWAY",
+        "probability": 81.21452927589417
+      }, {
+        "activityType": "WALKING",
+        "probability": 11.874805390834808
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 2.4798255413770676
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.4099852181971073
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.3466959819197655
+      }, {
+        "activityType": "STILL",
+        "probability": 0.851417426019907
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.44418773613870144
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.23844456300139427
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.08041636901907623
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.03803667495958507
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.016051929560489953
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.004541517409961671
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.001003372290142579
+      }, {
+        "activityType": "SKIING",
+        "probability": 4.685056751441152E-5
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.583640679176824E-6
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 599268120,
+          "longitudeE7": 303459740,
+          "placeId": "ChIJ6xU0OK8xlkYRaOUzPAi3bMY",
+          "address": "Санкт-Петербург, Россия, 191002",
+          "name": "Dostoyevskaya"
+        }, {
+          "latitudeE7": 599262400,
+          "longitudeE7": 303179680,
+          "placeId": "ChIJQbcikAExlkYRSoAefl9MpWw",
+          "address": "Санкт-Петербург, Россия",
+          "name": "Spasskaya"
+        }],
+        "name": "4",
+        "hexRgbColor": "E67402",
+        "linePlaceId": "ChIJTxdhItsxlkYRjihmXq0L_AE",
+        "stopTimesInfo": [{
+          "scheduledDepartureTimestamp": "2022-02-09T09:19:30Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-02-09T09:21:32Z"
+        }],
+        "source": "INFERRED",
+        "confidence": 0.0,
+        "distanceMeters": 1621.0
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 598920754,
+        "longitudeE7": 303176679,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 598924974,
+        "longitudeE7": 303222038,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-09T09:25:05.156Z",
+        "endTimestamp": "2022-02-09T09:32:31Z"
+      },
+      "distance": 556,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 65.38999676704407
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 24.334928393363953
+      }, {
+        "activityType": "STILL",
+        "probability": 5.854403972625732
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 2.598206140100956
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.6040239240974188
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.45227394439280033
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.3823365783318877
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.20121748093515635
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.14604359166696668
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.016460112237837166
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.012239912757650018
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.006582908827112988
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.00117794852485531
+      }, {
+        "activityType": "SKIING",
+        "probability": 1.1699520428010146E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 5.303683270341253E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 598920860,
+          "lngE7": 303176631
+        }, {
+          "latE7": 598905487,
+          "lngE7": 303191909
+        }, {
+          "latE7": 598911514,
+          "lngE7": 303198471
+        }, {
+          "latE7": 598925476,
+          "lngE7": 303221626
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 936.1147457785546,
+        "travelMode": "WALK",
+        "confidence": 0.9999801201614504
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 598906860,
+          "lngE7": 303195934,
+          "accuracyMeters": 49,
+          "timestamp": "2022-02-09T09:29:45.962Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 598924721,
+        "longitudeE7": 303227173,
+        "placeId": "ChIJSeBE3WswlkYRaWqzopSz2J8",
+        "address": "Лиговский пр., 274А, Санкт-Петербург, Россия, 196084",
+        "name": "Klinika Bud\u0027 Zdorov",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 57.548203,
+        "calibratedProbability": 50.93738
+      },
+      "duration": {
+        "startTimestamp": "2022-02-09T09:32:31Z",
+        "endTimestamp": "2022-02-09T09:55:49.904Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 598926550,
+      "centerLngE7": 303229375,
+      "visitConfidence": 97,
+      "otherCandidateLocations": [{
+        "latitudeE7": 598926057,
+        "longitudeE7": 303231026,
+        "placeId": "ChIJ2ZlZ3WswlkYRi7zp9mbpGw0",
+        "address": "Лиговский пр., д. 274а, Санкт-Петербург, Россия, 196084",
+        "name": "Be healthy!",
+        "locationConfidence": 35.939217,
+        "calibratedProbability": 31.810719
+      }, {
+        "latitudeE7": 598924620,
+        "longitudeE7": 303178150,
+        "placeId": "ChIJSV0TtW4wlkYREQ63Mif3ILo",
+        "address": "Санкт-Петербург, Россия, 196084",
+        "name": "Moskovskie vorota",
+        "locationConfidence": 2.0498095,
+        "calibratedProbability": 1.8143387
+      }, {
+        "latitudeE7": 598913946,
+        "longitudeE7": 303192497,
+        "placeId": "ChIJx8OprW4wlkYRKNjEs9lD8a0",
+        "address": "пл. Московские Ворота, 103, Санкт-Петербург, Россия, 196084",
+        "name": "Moscow Triumphal Gate",
+        "locationConfidence": 1.2503326,
+        "calibratedProbability": 1.1067013
+      }, {
+        "latitudeE7": 598925124,
+        "longitudeE7": 303225009,
+        "placeId": "ChIJvYiN5WswlkYRpXGsDQ2iPnY",
+        "address": "Лиговский пр., 274, Санкт-Петербург, Россия, 196084",
+        "name": "St. Petersburg Futures Exchange",
+        "locationConfidence": 0.8905244,
+        "calibratedProbability": 0.7882258
+      }, {
+        "latitudeE7": 598928904,
+        "longitudeE7": 303197603,
+        "placeId": "ChIJv7pAQWkwlkYRL7ErxdS55Ds",
+        "address": "Московский пр-т., дом 110, Санкт-Петербург, Россия, 196084",
+        "name": "Voyennyy Komissariat Sankt-Peterburga, Otdel Moskovskogo Rayona",
+        "locationConfidence": 0.67799145,
+        "calibratedProbability": 0.60010755
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 46,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 598930704,
+        "longitudeE7": 303220422,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 598914570,
+        "longitudeE7": 303187502,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-09T09:55:49.904Z",
+        "endTimestamp": "2022-02-09T09:57:50.026Z"
+      },
+      "distance": 256,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 91.23504161834717
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 3.6969877779483795
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 2.152693085372448
+      }, {
+        "activityType": "STILL",
+        "probability": 1.608365774154663
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.35549395252019167
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.30934372916817665
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.23301637265831232
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.21673962473869324
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.17457022331655025
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.0061484235629905015
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.006133015995146707
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.004351565075921826
+      }, {
+        "activityType": "SAILING",
+        "probability": 9.265264452551492E-4
+      }, {
+        "activityType": "SKIING",
+        "probability": 1.7292589973294525E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.182022116441033E-8
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 598924620,
+        "longitudeE7": 303178150,
+        "placeId": "ChIJSV0TtW4wlkYREQ63Mif3ILo",
+        "address": "Санкт-Петербург, Россия, 196084",
+        "name": "Moskovskie vorota",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 88.207726,
+        "calibratedProbability": 67.72944
+      },
+      "duration": {
+        "startTimestamp": "2022-02-09T09:57:50.026Z",
+        "endTimestamp": "2022-02-09T10:04:54.111Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 598916917,
+      "centerLngE7": 303181833,
+      "visitConfidence": 84,
+      "otherCandidateLocations": [{
+        "latitudeE7": 598924721,
+        "longitudeE7": 303227173,
+        "placeId": "ChIJSeBE3WswlkYRaWqzopSz2J8",
+        "address": "Лиговский пр., 274А, Санкт-Петербург, Россия, 196084",
+        "name": "Klinika Bud\u0027 Zdorov",
+        "locationConfidence": 3.7383888,
+        "calibratedProbability": 2.8704853
+      }, {
+        "latitudeE7": 598913946,
+        "longitudeE7": 303192497,
+        "placeId": "ChIJx8OprW4wlkYRKNjEs9lD8a0",
+        "address": "пл. Московские Ворота, 103, Санкт-Петербург, Россия, 196084",
+        "name": "Moscow Triumphal Gate",
+        "locationConfidence": 3.6053677,
+        "calibratedProbability": 2.7683463
+      }, {
+        "latitudeE7": 598913500,
+        "longitudeE7": 303184100,
+        "placeId": "ChIJw3w0sG4wlkYRQhd80lVf7Vw",
+        "address": "Санкт-Петербург, Россия, 196084",
+        "name": "Moskovskie vorota Station",
+        "locationConfidence": 1.0118631,
+        "calibratedProbability": 0.77694917
+      }, {
+        "latitudeE7": 598905040,
+        "longitudeE7": 303189480,
+        "placeId": "ChIJS373n24wlkYRHaYWEXzNzMs",
+        "address": "Санкт-Петербург, Россия, 196084",
+        "name": "St. M. Moskovskiye Vorota",
+        "locationConfidence": 0.4927699,
+        "calibratedProbability": 0.37836853
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 73,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 598921663,
+        "longitudeE7": 303179997,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599288396,
+        "longitudeE7": 303568491,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-09T10:04:54.111Z",
+        "endTimestamp": "2022-02-09T10:26:15.887Z"
+      },
+      "distance": 5520,
+      "activityType": "IN_SUBWAY",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_SUBWAY",
+        "probability": 75.6091833114624
+      }, {
+        "activityType": "WALKING",
+        "probability": 17.28716641664505
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 2.2989174351096153
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.3342991471290588
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.2080752290785313
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.8885410614311695
+      }, {
+        "activityType": "STILL",
+        "probability": 0.8717848919332027
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.26382000651210546
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.19633560441434383
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.01873319415608421
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.01657725515542552
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.005939828770351596
+      }, {
+        "activityType": "SAILING",
+        "probability": 5.833152044942835E-4
+      }, {
+        "activityType": "SKIING",
+        "probability": 3.637591134975082E-5
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.9298062642624245E-6
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 598924620,
+          "longitudeE7": 303178350,
+          "placeId": "ChIJSV0TtW4wlkYREQ63Mif3ILo",
+          "address": "Санкт-Петербург, Россия, 196084",
+          "name": "Moskovskie vorota"
+        }, {
+          "latitudeE7": 599054640,
+          "longitudeE7": 303178720,
+          "placeId": "ChIJ6dQZk1swlkYRdquX8G01bWI",
+          "address": "Московский пр-т., 69, Санкт-Петербург, Россия, 196084",
+          "name": "Frunzenskaya"
+        }, {
+          "latitudeE7": 599150580,
+          "longitudeE7": 303182200,
+          "placeId": "ChIJH7VHFFYwlkYRtKbO1bJUc0w",
+          "address": "Московский пр-т., 28, Санкт-Петербург, Россия, 190013",
+          "name": "Tekhnologicheskiy Institut 2"
+        }],
+        "name": "2",
+        "hexRgbColor": "3349EE",
+        "linePlaceId": "ChIJK2l0jHIxlkYRnOJ9Mn8oiz0",
+        "stopTimesInfo": [{
+          "scheduledDepartureTimestamp": "2022-02-09T10:04:44Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-02-09T10:06:33Z",
+          "scheduledDepartureTimestamp": "2022-02-09T10:06:43Z"
+        }, {
+          "scheduleArrivalTimestamp": "2022-02-09T10:08:07Z"
+        }],
+        "source": "INFERRED",
+        "confidence": 0.9253262346732618,
+        "distanceMeters": 2580.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 598921663,
+          "lngE7": 303179997,
+          "accuracyMeters": 17,
+          "timestamp": "2022-02-09T10:04:54.111Z"
+        }, {
+          "latE7": 599156923,
+          "lngE7": 303179657,
+          "accuracyMeters": 21,
+          "timestamp": "2022-02-09T10:09:47.647Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2724.818091416136
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599285314,
+        "longitudeE7": 303538285,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 87.539085,
+        "calibratedProbability": 83.763275
+      },
+      "duration": {
+        "startTimestamp": "2022-02-09T10:26:15.887Z",
+        "endTimestamp": "2022-02-16T08:07:21Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599281963,
+      "centerLngE7": 303561983,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "locationConfidence": 0.27046773,
+        "calibratedProbability": 0.25880167
+      }, {
+        "latitudeE7": 599292628,
+        "longitudeE7": 303587346,
+        "placeId": "ChIJHccZMqUxlkYR-jvnLOuMatg",
+        "address": "Пушкинская ул., 10, Санкт-Петербург, Россия, 191040",
+        "name": "Ulitsa Dzhona Lennona",
+        "locationConfidence": 0.26103672,
+        "calibratedProbability": 0.24977745
+      }, {
+        "latitudeE7": 599275128,
+        "longitudeE7": 303535720,
+        "placeId": "ChIJ4Xls8a8xlkYRATw7AE1LB0w",
+        "address": "ул. Марата, 24А, Санкт-Петербург, Россия, 191040",
+        "name": "Rossiyskiy Gosudarstvennyy Muzey Arktiki I Antarktiki",
+        "locationConfidence": 0.20274946,
+        "calibratedProbability": 0.19400428
+      }, {
+        "latitudeE7": 599294488,
+        "longitudeE7": 303574005,
+        "placeId": "ChIJV_jPFJ4xlkYRObr6b39CYA4",
+        "address": "Точка продаж средств от насекомых Пушкинская улица, д. 10 вход через магазин продукты, Санкт-Петербург, Россия, 191028",
+        "name": "Точка Продаж ДезСредств УНИ Дез Чернышевская",
+        "locationConfidence": 0.17230909,
+        "calibratedProbability": 0.1648769
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 72,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599292456,
+        "longitudeE7": 303569619,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599344321,
+        "longitudeE7": 303323129,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-16T08:07:21Z",
+        "endTimestamp": "2022-02-16T08:18:35.196Z"
+      },
+      "distance": 1489,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 44.04451251029968
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 33.09047520160675
+      }, {
+        "activityType": "STILL",
+        "probability": 19.066689908504486
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 1.5103538520634174
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.637752702459693
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.5629315972328186
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.5440137349069118
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.3275898518040776
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.1669983030296862
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.019982957746833563
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.016836209397297353
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.009629859414417297
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.002092242175422143
+      }, {
+        "activityType": "SKIING",
+        "probability": 1.396749325976998E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 5.379812861860955E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599292602,
+          "lngE7": 303569908
+        }, {
+          "latE7": 599316368,
+          "lngE7": 303557281
+        }, {
+          "latE7": 599316139,
+          "lngE7": 303569526
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 471.8936403609127,
+        "travelMode": "WALK",
+        "confidence": 0.999871299662178
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599342184,
+        "longitudeE7": 303327066,
+        "placeId": "ChIJQ3AoJQYxlkYRUPWozIATla8",
+        "address": "Невский пр., 35, Санкт-Петербург, Россия, 191186",
+        "name": "Gostiny Dvor",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 53.903843,
+        "calibratedProbability": 43.54895
+      },
+      "duration": {
+        "startTimestamp": "2022-02-16T08:18:35.196Z",
+        "endTimestamp": "2022-02-16T08:24:44Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 599343532,
+      "centerLngE7": 303325578,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599343780,
+        "longitudeE7": 303328400,
+        "placeId": "ChIJRcfQYwgxlkYR7b5FR7ZWi0g",
+        "address": "Санкт-Петербург, Россия, 191186",
+        "name": "Metro Gostiny Dvor",
+        "locationConfidence": 34.066257,
+        "calibratedProbability": 27.522154
+      }, {
+        "latitudeE7": 599346516,
+        "longitudeE7": 303299147,
+        "placeId": "ChIJowgFmAgxlkYRtsWNJRWnOGk",
+        "address": "Санкт-Петербург, Россия, 191186",
+        "name": "Невский проспект",
+        "locationConfidence": 10.643763,
+        "calibratedProbability": 8.599103
+      }, {
+        "latitudeE7": 599351070,
+        "longitudeE7": 303295650,
+        "placeId": "ChIJ3dYisAgxlkYRve5vdroqQjw",
+        "address": "Санкт-Петербург, Россия, 191186",
+        "name": "St Metro \"Nevskiy Pr.\"",
+        "locationConfidence": 0.47290275,
+        "calibratedProbability": 0.38205847
+      }, {
+        "latitudeE7": 599353787,
+        "longitudeE7": 303343796,
+        "placeId": "ChIJF8isWAgxlkYRRz_4SWhqQAM",
+        "address": "Невский пр., 48, Санкт-Петербург, Россия, 191011",
+        "name": "Passage",
+        "locationConfidence": 0.37881374,
+        "calibratedProbability": 0.3060439
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 599344321,
+          "lngE7": 303323129,
+          "accuracyMeters": 17,
+          "timestamp": "2022-02-16T08:18:35.196Z"
+        }, {
+          "latE7": 599340989,
+          "lngE7": 303325938,
+          "accuracyMeters": 29,
+          "timestamp": "2022-02-16T08:19:45.166Z"
+        }, {
+          "latE7": 599343518,
+          "lngE7": 303333692,
+          "accuracyMeters": 29,
+          "timestamp": "2022-02-16T08:22:56.571Z"
+        }, {
+          "latE7": 599343532,
+          "lngE7": 303325578,
+          "accuracyMeters": 3,
+          "timestamp": "2022-02-16T08:23:33Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 125.09275818287269
+      },
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599348049,
+        "longitudeE7": 303306160,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599327496,
+        "longitudeE7": 303158467,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-16T08:24:44Z",
+        "endTimestamp": "2022-02-16T08:39:48Z"
+      },
+      "distance": 1319,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 92.3734962940216
+      }, {
+        "activityType": "STILL",
+        "probability": 2.3809507489204407
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 2.291443385183811
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.8909685537219048
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.5041002295911312
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.49696057103574276
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.46001761220395565
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.2455881331115961
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.238720397464931
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.06175737362354994
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.029965120484121144
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.011999786511296406
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.008420919766649604
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.005606143531622365
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.9155471875365038E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599347839,
+          "lngE7": 303305721
+        }, {
+          "latE7": 599326019,
+          "lngE7": 303263511
+        }, {
+          "latE7": 599319190,
+          "lngE7": 303234806
+        }, {
+          "latE7": 599322853,
+          "lngE7": 303163032
+        }, {
+          "latE7": 599326934,
+          "lngE7": 303156909
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1258.5160441389467,
+        "travelMode": "WALK",
+        "confidence": 0.9947603580961459
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 599319878,
+          "lngE7": 303233948,
+          "accuracyMeters": 4,
+          "timestamp": "2022-02-16T08:32:55Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599333228,
+        "longitudeE7": 303151397,
+        "placeId": "ChIJTwu08hcxlkYR0TY0UdLc1T8",
+        "address": "Гороховая ул., 16, Санкт-Петербург, Россия, 191186",
+        "name": "Kovorking Praktik",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 83.24283,
+        "calibratedProbability": 71.537155
+      },
+      "duration": {
+        "startTimestamp": "2022-02-16T08:39:48Z",
+        "endTimestamp": "2022-02-16T12:08:00Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 599332270,
+      "centerLngE7": 303149548,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599337032,
+        "longitudeE7": 303144222,
+        "placeId": "ChIJM8yGxQQxlkYR4usM6A7Z36M",
+        "address": "Гороховая ул., 14/26, Санкт-Петербург, Россия, 191186",
+        "name": "My clinic",
+        "locationConfidence": 4.347473,
+        "calibratedProbability": 3.7361279
+      }, {
+        "latitudeE7": 599330000,
+        "longitudeE7": 303152000,
+        "placeId": "ChIJD_-YViYxlkYR4hAPB7uECJk",
+        "address": "Красный Мост, Гороховая ул., Санкт-Петербург, Россия, 191186",
+        "name": "Krasnyy Most",
+        "locationConfidence": 3.748236,
+        "calibratedProbability": 3.221156
+      }, {
+        "latitudeE7": 599332220,
+        "longitudeE7": 303143690,
+        "placeId": "ChIJuysPuAQxlkYRoe8qvpZ8hN0",
+        "address": "наб. реки Мойки, 73, Санкт-Петербург, Россия, 190000",
+        "name": "The department store brand clothes Au Pont Rouge",
+        "locationConfidence": 3.6054957,
+        "calibratedProbability": 3.0984879
+      }, {
+        "latitudeE7": 599331986,
+        "longitudeE7": 303141965,
+        "placeId": "ChIJ83f8uR4xlkYRk0XOg9OWYcs",
+        "address": "наб. реки Мойки, 73-79, Санкт-Петербург, Россия, 190000",
+        "name": "U Krasnogo Mosta",
+        "locationConfidence": 1.1507245,
+        "calibratedProbability": 0.9889087
+      }, {
+        "latitudeE7": 599337418,
+        "longitudeE7": 303138566,
+        "placeId": "ChIJm5DqywQxlkYRwvcYyKdFQnk",
+        "address": "Гороховая ул., 13, Санкт-Петербург, Россия, 190000",
+        "name": "Clean Plates Society Cafe",
+        "locationConfidence": 0.7788988,
+        "calibratedProbability": 0.6693694
+      }, {
+        "latitudeE7": 599321533,
+        "longitudeE7": 303161955,
+        "placeId": "ChIJNUQTjwQxlkYR7wTMsisFNF0",
+        "address": "Гороховая ул., 17, Санкт-Петербург, Россия, 191186",
+        "name": "Dixy",
+        "locationConfidence": 0.7281548,
+        "calibratedProbability": 0.62576103
+      }, {
+        "latitudeE7": 599336602,
+        "longitudeE7": 303129400,
+        "placeId": "ChIJgSFhNRsxlkYRHCplhZ-pDYg",
+        "address": "Большая Морская ул., 30, Санкт-Петербург, Россия, 190000",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.5717073,
+        "calibratedProbability": 0.49131337
+      }, {
+        "latitudeE7": 599359000,
+        "longitudeE7": 303146920,
+        "placeId": "ChIJvStLyRoxlkYRzsiq1PI1AD4",
+        "address": "Кирпичный пер., 1, Санкт-Петербург, Ленинградская обл., Россия, 191186",
+        "name": "Admiralteyskaya",
+        "locationConfidence": 0.4699487,
+        "calibratedProbability": 0.40386415
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 68,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599325168,
+        "longitudeE7": 303161520,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599275112,
+        "longitudeE7": 303562122,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-16T12:08:00Z",
+        "endTimestamp": "2022-02-16T12:44:06Z"
+      },
+      "distance": 3266,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 86.82591319084167
+      }, {
+        "activityType": "STILL",
+        "probability": 11.611909419298172
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.5414678249508142
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.27893921360373497
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.2070407848805189
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1850457745604217
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.1608269172720611
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.08965525194071233
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.027216877788305283
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.026518525555729866
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.02524153678677976
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.009975356078939512
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0062477163737639785
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.003985765943070874
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.859612197563365E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599324684,
+          "lngE7": 303160247
+        }, {
+          "latE7": 599327087,
+          "lngE7": 303153400
+        }, {
+          "latE7": 599311943,
+          "lngE7": 303179340
+        }, {
+          "latE7": 599286804,
+          "lngE7": 303155345
+        }, {
+          "latE7": 599243011,
+          "lngE7": 303377170
+        }, {
+          "latE7": 599234771,
+          "lngE7": 303356399
+        }, {
+          "latE7": 599257583,
+          "lngE7": 303413925
+        }, {
+          "latE7": 599233245,
+          "lngE7": 303411693
+        }, {
+          "latE7": 599269599,
+          "lngE7": 303444290
+        }, {
+          "latE7": 599276809,
+          "lngE7": 303475112
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 6721.611428850845,
+        "travelMode": "WALK",
+        "confidence": 0.9964584972712776
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 599311447,
+          "lngE7": 303177967,
+          "accuracyMeters": 9,
+          "timestamp": "2022-02-16T12:09:57Z"
+        }, {
+          "latE7": 599243774,
+          "lngE7": 303379841,
+          "accuracyMeters": 5,
+          "timestamp": "2022-02-16T12:27:59Z"
+        }, {
+          "latE7": 599259529,
+          "lngE7": 303414440,
+          "accuracyMeters": 10,
+          "timestamp": "2022-02-16T12:30:33Z"
+        }, {
+          "latE7": 599270744,
+          "lngE7": 303442459,
+          "accuracyMeters": 10,
+          "timestamp": "2022-02-16T12:32:44Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599285314,
+        "longitudeE7": 303538285,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 78.59474,
+        "calibratedProbability": 77.82077
+      },
+      "duration": {
+        "startTimestamp": "2022-02-16T12:44:06Z",
+        "endTimestamp": "2022-02-17T11:05:47.011Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599281838,
+      "centerLngE7": 303561300,
+      "visitConfidence": 86,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599284873,
+        "longitudeE7": 303561638,
+        "placeId": "ChIJqfJTj20xlkYR1-rhqsX8O0g",
+        "address": "Пушкинская ул., 13, Санкт-Петербург, Россия, 191040",
+        "name": "Neon Coffee",
+        "locationConfidence": 0.6509555,
+        "calibratedProbability": 0.64454514
+      }, {
+        "latitudeE7": 599275128,
+        "longitudeE7": 303535720,
+        "placeId": "ChIJ4Xls8a8xlkYRATw7AE1LB0w",
+        "address": "ул. Марата, 24А, Санкт-Петербург, Россия, 191040",
+        "name": "Rossiyskiy Gosudarstvennyy Muzey Arktiki I Antarktiki",
+        "locationConfidence": 0.5698204,
+        "calibratedProbability": 0.56420904
+      }, {
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "locationConfidence": 0.4048793,
+        "calibratedProbability": 0.40089223
+      }, {
+        "latitudeE7": 599279564,
+        "longitudeE7": 303560606,
+        "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
+        "name": "Магазин ножей Nozhikov.ru",
+        "locationConfidence": 0.25877714,
+        "calibratedProbability": 0.2562288
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 63,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599282160,
+        "longitudeE7": 303563120,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599271560,
+        "longitudeE7": 303560277,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-17T11:05:47.011Z",
+        "endTimestamp": "2022-02-17T11:11:28.048Z"
+      },
+      "distance": 221,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 78.14345359802246
+      }, {
+        "activityType": "STILL",
+        "probability": 20.311352610588074
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.8010672405362129
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.2842977177351713
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1941824099048972
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.11679365998134017
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0506005366332829
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.04616722580976784
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.025774654932320118
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0072791728598531336
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.007102008385118097
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.006285247218329459
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.004448568506632
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0011957736205658875
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.0270729539362264E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599282112,
+          "lngE7": 303563499
+        }, {
+          "latE7": 599277877,
+          "lngE7": 303561096
+        }, {
+          "latE7": 599273643,
+          "lngE7": 303558692
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 97.8396854557318,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 98.16358,
+        "calibratedProbability": 85.234924
+      },
+      "duration": {
+        "startTimestamp": "2022-02-17T11:11:28.048Z",
+        "endTimestamp": "2022-02-17T11:23:57.197Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599271053,
+      "centerLngE7": 303559702,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599281960,
+        "longitudeE7": 303560677,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "locationConfidence": 0.44425392,
+        "calibratedProbability": 0.38574335
+      }, {
+        "latitudeE7": 599271698,
+        "longitudeE7": 303554542,
+        "placeId": "ChIJN3b4_q8xlkYRzLN7LhXD8bo",
+        "address": "Пушкинская ул., 19, Санкт-Петербург, Россия, 191040",
+        "name": "Feniks",
+        "locationConfidence": 0.2138281,
+        "calibratedProbability": 0.18566582
+      }, {
+        "latitudeE7": 599267567,
+        "longitudeE7": 303555629,
+        "placeId": "ChIJszLOHLAxlkYRjPQi-oJd17M",
+        "address": "Кузнечный пер., 17/2 лит.А, Санкт-Петербург, Россия, 191040",
+        "name": "Planeta Zdorov\u0027ya",
+        "locationConfidence": 0.19981162,
+        "calibratedProbability": 0.17349538
+      }, {
+        "latitudeE7": 599273700,
+        "longitudeE7": 303554890,
+        "placeId": "ChIJx-4KE6ExlkYR-aPzVysYeNU",
+        "address": "Лиговский пр., 266Д, Санкт-Петербург, Россия, 196084",
+        "name": "Sintezia",
+        "locationConfidence": 0.16143464,
+        "calibratedProbability": 0.14017285
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 85,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599269495,
+        "longitudeE7": 303558859,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599275251,
+        "longitudeE7": 303560336,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-17T11:23:57.197Z",
+        "endTimestamp": "2022-02-17T11:26:10.544Z"
+      },
+      "distance": 64,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 96.65096402168274
+      }, {
+        "activityType": "STILL",
+        "probability": 2.395225130021572
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.5121226422488689
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.20309078972786665
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.10146843269467354
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.05482695996761322
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.0374062656192109
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.020672858227044344
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.006648243288509548
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.005421358218882233
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.005404859621194191
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.004355618875706568
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0013704883713216987
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0010263955118716694
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.9606882090128508E-9
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599268646,
+          "lngE7": 303558444
+        }, {
+          "latE7": 599272117,
+          "lngE7": 303557929
+        }, {
+          "latE7": 599275321,
+          "lngE7": 303559665
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 85.13311798082597,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599285314,
+        "longitudeE7": 303538285,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 88.89657,
+        "calibratedProbability": 78.98822
+      },
+      "duration": {
+        "startTimestamp": "2022-02-17T11:26:10.544Z",
+        "endTimestamp": "2022-02-18T15:21:54Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599281830,
+      "centerLngE7": 303561514,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "locationConfidence": 1.8934741,
+        "calibratedProbability": 1.6824288
+      }, {
+        "latitudeE7": 599284873,
+        "longitudeE7": 303561638,
+        "placeId": "ChIJqfJTj20xlkYR1-rhqsX8O0g",
+        "address": "Пушкинская ул., 13, Санкт-Петербург, Россия, 191040",
+        "name": "Neon Coffee",
+        "locationConfidence": 0.18822132,
+        "calibratedProbability": 0.1672423
+      }, {
+        "latitudeE7": 599292628,
+        "longitudeE7": 303587346,
+        "placeId": "ChIJHccZMqUxlkYR-jvnLOuMatg",
+        "address": "Пушкинская ул., 10, Санкт-Петербург, Россия, 191040",
+        "name": "Ulitsa Dzhona Lennona",
+        "locationConfidence": 0.18009442,
+        "calibratedProbability": 0.16002123
+      }, {
+        "latitudeE7": 599279162,
+        "longitudeE7": 303585521,
+        "placeId": "ChIJBdwYuroxlkYR1DKt1qCNjek",
+        "address": "Лиговский пр., 61, Санкт-Петербург, Россия, 191040",
+        "name": "Crowne Plaza St. Petersburg - Ligovsky, an IHG Hotel",
+        "locationConfidence": 0.13032436,
+        "calibratedProbability": 0.1157985
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 74,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599289283,
+        "longitudeE7": 303564343,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599404387,
+        "longitudeE7": 303450659,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-18T15:21:54Z",
+        "endTimestamp": "2022-02-18T15:43:56Z"
+      },
+      "distance": 2164,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 97.73733615875244
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.6037617102265358
+      }, {
+        "activityType": "STILL",
+        "probability": 0.4377359990030527
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.34125461243093014
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.25607466232031584
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.20020613446831703
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.19375919364392757
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.10752944508567452
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0446459831437096
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.029294975684024394
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.027825275901705027
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.011492633348098025
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.004796346547664143
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.004294945392757654
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 5.908820543965021E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599289245,
+          "lngE7": 303564701
+        }, {
+          "latE7": 599343643,
+          "lngE7": 303479499
+        }, {
+          "latE7": 599404335,
+          "lngE7": 303452262
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1910.0538732175946,
+        "travelMode": "WALK",
+        "confidence": 0.9973821209645438
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599412078,
+        "longitudeE7": 303455243,
+        "placeId": "ChIJbUCg8AkxlkYRBrLri1sVj1w",
+        "address": "Моховая ул., 30, Санкт-Петербург, Россия, 191028",
+        "name": "Sidreria",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 95.88986,
+        "calibratedProbability": 85.68175
+      },
+      "duration": {
+        "startTimestamp": "2022-02-18T15:43:56Z",
+        "endTimestamp": "2022-02-18T19:27:14Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599412823,
+      "centerLngE7": 303453152,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599412078,
+        "longitudeE7": 303455243,
+        "placeId": "ChIJFZBh6goxlkYRMC92xc4UVXo",
+        "address": "Моховая ул., 30, Санкт-Петербург, Россия, 191028",
+        "locationConfidence": 1.8864805,
+        "calibratedProbability": 1.6856521
+      }, {
+        "latitudeE7": 599412849,
+        "longitudeE7": 303449484,
+        "placeId": "ChIJpahi2woxlkYRZ0B0R6xt7cs",
+        "address": "Моховая ул., 27-29, Санкт-Петербург, Россия, 191028",
+        "locationConfidence": 1.1405841,
+        "calibratedProbability": 1.0191613
+      }, {
+        "latitudeE7": 599412849,
+        "longitudeE7": 303449483,
+        "placeId": "ChIJXQdXK6cxlkYRO9XGeaKpn_w",
+        "address": "Моховая ул., 27-29, Санкт-Петербург, Россия, 191028",
+        "name": "Shkola Ili",
+        "locationConfidence": 0.33924904,
+        "calibratedProbability": 0.30313373
+      }, {
+        "latitudeE7": 599411826,
+        "longitudeE7": 303449779,
+        "placeId": "ChIJTclC6QoxlkYRMbL5esrksBg",
+        "address": "Моховая ул., 31б, Санкт-Петербург, Россия, 191028",
+        "locationConfidence": 0.08784374,
+        "calibratedProbability": 0.078492194
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 82,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599404255,
+        "longitudeE7": 303450711,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599293430,
+        "longitudeE7": 303570536,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-18T19:27:14Z",
+        "endTimestamp": "2022-02-18T19:48:07Z"
+      },
+      "distance": 2072,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 97.27553725242615
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.8595936000347137
+      }, {
+        "activityType": "STILL",
+        "probability": 0.6279070395976305
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.37768278270959854
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.2482531126588583
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1983355963602662
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.17017644131556153
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.11288340901955962
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.03953765262849629
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.03896200796589255
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.027208655956201255
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.010693359217839316
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.006740289245499298
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.006498553557321429
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.467944402288595E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599404220,
+          "lngE7": 303452262
+        }, {
+          "latE7": 599382133,
+          "lngE7": 303479270
+        }, {
+          "latE7": 599355354,
+          "lngE7": 303548755
+        }, {
+          "latE7": 599329643,
+          "lngE7": 303543491
+        }, {
+          "latE7": 599293594,
+          "lngE7": 303569622
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1973.0282460798878,
+        "travelMode": "WALK",
+        "confidence": 0.9960232219287524
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 599355354,
+          "lngE7": 303547554,
+          "accuracyMeters": 10,
+          "timestamp": "2022-02-18T19:38:43Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599285314,
+        "longitudeE7": 303538285,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 73.56707,
+        "calibratedProbability": 82.40431
+      },
+      "duration": {
+        "startTimestamp": "2022-02-18T19:48:07Z",
+        "endTimestamp": "2022-02-19T10:54:55.472Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599282125,
+      "centerLngE7": 303562142,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599304610,
+        "longitudeE7": 303577490,
+        "placeId": "ChIJZ5WxUKQxlkYRabJcQaefEFo",
+        "address": "191014 д, Лиговский пр., 30 А, 34, Санкт-Петербург, Россия, 191040",
+        "name": "Mayakovskaya",
+        "locationConfidence": 0.42815837,
+        "calibratedProbability": 0.47959092
+      }, {
+        "latitudeE7": 599292628,
+        "longitudeE7": 303587346,
+        "placeId": "ChIJHccZMqUxlkYR-jvnLOuMatg",
+        "address": "Пушкинская ул., 10, Санкт-Петербург, Россия, 191040",
+        "name": "Ulitsa Dzhona Lennona",
+        "locationConfidence": 0.19967,
+        "calibratedProbability": 0.22365537
+      }, {
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "locationConfidence": 0.16670656,
+        "calibratedProbability": 0.18673219
+      }, {
+        "latitudeE7": 599280120,
+        "longitudeE7": 303565520,
+        "placeId": "ChIJB-zwUqUxlkYRxC2tThH3_A4",
+        "address": "Пушкинская ул., 18, Санкт-Петербург, Россия, 119200",
+        "name": "Guest house Akadem-Studiya",
+        "locationConfidence": 0.10399458,
+        "calibratedProbability": 0.11648693
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 59,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599271080,
+        "longitudeE7": 303557391,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599297094,
+        "longitudeE7": 303140662,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-19T10:54:55.472Z",
+        "endTimestamp": "2022-02-19T11:36:00.537Z"
+      },
+      "distance": 3471,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 97.57086038589478
+      }, {
+        "activityType": "STILL",
+        "probability": 1.186656579375267
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.33346349373459816
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.24220761843025684
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.17451596213504672
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.15480238944292068
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1292848028242588
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.11527008609846234
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.033323283423669636
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.026877524214796722
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.010693431249819696
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.009078671428142115
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.007491599535569549
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0054774704040028155
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 9.184369709203111E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599271087,
+          "lngE7": 303557434
+        }, {
+          "latE7": 599270019,
+          "lngE7": 303546752
+        }, {
+          "latE7": 599263305,
+          "lngE7": 303421173
+        }, {
+          "latE7": 599285964,
+          "lngE7": 303353347
+        }, {
+          "latE7": 599288177,
+          "lngE7": 303318042
+        }, {
+          "latE7": 599277153,
+          "lngE7": 303310413
+        }, {
+          "latE7": 599271926,
+          "lngE7": 303313331
+        }, {
+          "latE7": 599266662,
+          "lngE7": 303299770
+        }, {
+          "latE7": 599272003,
+          "lngE7": 303284759
+        }, {
+          "latE7": 599282913,
+          "lngE7": 303263339
+        }, {
+          "latE7": 599311714,
+          "lngE7": 303233852
+        }, {
+          "latE7": 599307136,
+          "lngE7": 303186378
+        }, {
+          "latE7": 599296836,
+          "lngE7": 303140964
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3255.3768691410373,
+        "travelMode": "WALK",
+        "confidence": 0.9851152014408119
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 599263191,
+          "lngE7": 303422680,
+          "accuracyMeters": 4,
+          "timestamp": "2022-02-19T11:04:55Z"
+        }, {
+          "latE7": 599289322,
+          "lngE7": 303321629,
+          "accuracyMeters": 21,
+          "timestamp": "2022-02-19T11:13:17.979Z"
+        }, {
+          "latE7": 599272614,
+          "lngE7": 303313351,
+          "accuracyMeters": 4,
+          "timestamp": "2022-02-19T11:18:35Z"
+        }, {
+          "latE7": 599272003,
+          "lngE7": 303284760,
+          "accuracyMeters": 4,
+          "timestamp": "2022-02-19T11:20:53Z"
+        }, {
+          "latE7": 599312134,
+          "lngE7": 303234997,
+          "accuracyMeters": 6,
+          "timestamp": "2022-02-19T11:28:19Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599295759,
+        "longitudeE7": 303122131,
+        "placeId": "ChIJqUIDGwMxlkYRL4bRevBb2mY",
+        "address": "пер. Антоненко, 10, Санкт-Петербург, Россия, 190000",
+        "name": "Pitas-Burg street food",
+        "locationConfidence": 100.0,
+        "calibratedProbability": 100.0
+      },
+      "duration": {
+        "startTimestamp": "2022-02-19T11:36:00.537Z",
+        "endTimestamp": "2022-02-19T12:10:51Z"
+      },
+      "placeConfidence": "USER_CONFIRMED",
+      "visitConfidence": 100,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599297220,
+        "longitudeE7": 303111110,
+        "placeId": "ChIJhcEHIgMxlkYRMFeneNHT3cg",
+        "address": "Казанский о., Санкт-Петербург, Россия, 190000",
+        "name": "Kazanskiy Ostrov",
+        "locationConfidence": 1.0211686,
+        "calibratedProbability": 0.93570393
+      }, {
+        "latitudeE7": 599294985,
+        "longitudeE7": 303131596,
+        "placeId": "ChIJK-gaajcxlkYRvxqqOo9kPzk",
+        "address": "Казанская ул., 31, Санкт-Петербург, Россия, 190000",
+        "name": "Secret Coffee",
+        "locationConfidence": 0.8410098,
+        "calibratedProbability": 0.77062315
+      }, {
+        "latitudeE7": 599292780,
+        "longitudeE7": 303118660,
+        "placeId": "ChIJgcQdHQMxlkYRa1_A2Ys_uVA",
+        "address": "Казанская ул., 33, Санкт-Петербург, Россия, 190000",
+        "name": "Semishagoff",
+        "locationConfidence": 0.26052403,
+        "calibratedProbability": 0.23872
+      }, {
+        "latitudeE7": 599297186,
+        "longitudeE7": 303116388,
+        "placeId": "ChIJOaahIgMxlkYRE48CcZcm8SQ",
+        "address": "пер. Антоненко, 5, Санкт-Петербург, Россия, 190000",
+        "name": "Tabakerka",
+        "locationConfidence": 0.1715197,
+        "calibratedProbability": 0.1571647
+      }],
+      "editConfirmationStatus": "CONFIRMED",
+      "locationConfidence": 100,
+      "placeVisitType": "SINGLE_PLACE",
+      "locationAssertionType": "WITHIN_OR_AT",
+      "lastEditedTimestamp": "2022-02-20T14:04:24.205Z",
+      "placeVisitImportance": "MAIN",
+      "editActionMetadata": {
+        "placeVisitSegment": {
+          "location": {
+            "placeId": "ChIJqUIDGwMxlkYRL4bRevBb2mY",
+            "address": "пер. Антоненко, 10, Санкт-Петербург, Россия, 190000",
+            "name": "ВЕРТИНСКИЙ food",
+            "locationConfidence": 97.20604
+          }
+        },
+        "editHistory": {
+          "editEvent": [{
+            "editOperation": ["CONFIRM"],
+            "uiConfiguration": {
+              "uiPlaceVisitConfiguration": "YES_NO_OTHER_PLACE_VISIT"
+            }
+          }]
+        },
+        "originalCandidates": {
+          "placeVisitSegment": {
+            "placeVisitCandidate": [{
+              "location": {
+                "placeId": "ChIJqUIDGwMxlkYRL4bRevBb2mY",
+                "address": "пер. Антоненко, 10, Санкт-Петербург, Россия, 190000",
+                "name": "ВЕРТИНСКИЙ food",
+                "locationConfidence": 97.20604
+              }
+            }, {
+              "location": {
+                "placeId": "ChIJhcEHIgMxlkYRMFeneNHT3cg",
+                "address": "Казанский о., Санкт-Петербург, Россия, 190000",
+                "name": "Kazanskiy Ostrov",
+                "locationConfidence": 1.0211686
+              }
+            }]
+          }
+        }
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599297896,
+        "longitudeE7": 303117482,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599288996,
+        "longitudeE7": 303564525,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-19T12:10:51Z",
+        "endTimestamp": "2022-02-19T13:08:15Z"
+      },
+      "distance": 4481,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 97.10328578948975
+      }, {
+        "activityType": "STILL",
+        "probability": 1.7113128677010536
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.38708136416971684
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.24695848114788532
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.14616987900808454
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.13292814837768674
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.11484937276691198
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.07003281498327851
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.028763918089680374
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.027009288896806538
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.014063288108445704
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.00668314314680174
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.005797590711154044
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.005048274033470079
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 9.114696553069734E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599298019,
+          "lngE7": 303117275
+        }, {
+          "latE7": 599316825,
+          "lngE7": 303096218
+        }, {
+          "latE7": 599353637,
+          "lngE7": 303120365
+        }, {
+          "latE7": 599331321,
+          "lngE7": 303437957
+        }, {
+          "latE7": 599288978,
+          "lngE7": 303564548
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3758.0543423035265,
+        "travelMode": "WALK",
+        "confidence": 0.9808362878795944
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 599352760,
+          "lngE7": 303121567,
+          "accuracyMeters": 9,
+          "timestamp": "2022-02-19T12:28:30Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599285314,
+        "longitudeE7": 303538285,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 85.39761,
+        "calibratedProbability": 83.31029
+      },
+      "duration": {
+        "startTimestamp": "2022-02-21T04:57:01.379Z",
+        "endTimestamp": "2022-02-23T11:21:00Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599281758,
+      "centerLngE7": 303561312,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599294488,
+        "longitudeE7": 303574005,
+        "placeId": "ChIJV_jPFJ4xlkYRObr6b39CYA4",
+        "address": "Точка продаж средств от насекомых Пушкинская улица, д. 10 вход через магазин продукты, Санкт-Петербург, Россия, 191028",
+        "name": "Точка Продаж ДезСредств УНИ Дез Чернышевская",
+        "locationConfidence": 0.3424889,
+        "calibratedProbability": 0.33411765
+      }, {
+        "latitudeE7": 599281809,
+        "longitudeE7": 303559021,
+        "placeId": "ChIJaSe6UaUxlkYRC0IFx7zM1_A",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
+        "name": "Клиника по борьбе с лишним весом №1",
+        "locationConfidence": 0.31827438,
+        "calibratedProbability": 0.310495
+      }, {
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "locationConfidence": 0.30681804,
+        "calibratedProbability": 0.29931867
+      }, {
+        "latitudeE7": 599292628,
+        "longitudeE7": 303587346,
+        "placeId": "ChIJHccZMqUxlkYR-jvnLOuMatg",
+        "address": "Пушкинская ул., 10, Санкт-Петербург, Россия, 191040",
+        "name": "Ulitsa Dzhona Lennona",
+        "locationConfidence": 0.17841713,
+        "calibratedProbability": 0.17405619
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 70,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599278715,
+        "longitudeE7": 303541539,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599275234,
+        "longitudeE7": 303445465,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-23T11:21:00Z",
+        "endTimestamp": "2022-02-23T11:29:24Z"
+      },
+      "distance": 680,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 97.78138399124146
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.4562241956591606
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.3477901918813586
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.3323072101920843
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.27829227037727833
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.2734050154685974
+      }, {
+        "activityType": "STILL",
+        "probability": 0.2604294801130891
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.1772299176082015
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.039464759174734354
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.021925145119894296
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.020411818695720285
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.005312072607921436
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.004293939491617493
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.001528280699858442
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.1490171298619316E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599279937,
+          "lngE7": 303532638
+        }, {
+          "latE7": 599272460,
+          "lngE7": 303526306
+        }, {
+          "latE7": 599272079,
+          "lngE7": 303450508
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 566.9074693407399,
+        "travelMode": "WALK",
+        "confidence": 0.954919048699601
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599268080,
+        "longitudeE7": 303459730,
+        "placeId": "ChIJ6xU0OK8xlkYRaOUzPAi3bMY",
+        "address": "Санкт-Петербург, Россия, 191002",
+        "name": "Dostoyevskaya",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 7.9086514,
+        "calibratedProbability": 62.564323
+      },
+      "duration": {
+        "startTimestamp": "2022-02-23T11:29:24Z",
+        "endTimestamp": "2022-02-23T11:46:12.243Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 599269318,
+          "longitudeE7": 303447730,
+          "placeId": "ChIJHTah4K4xlkYRAha6tsJcGk4",
+          "address": "Загородный просп., д. 10, Санкт-Петербург, Россия, 191002",
+          "name": "Dr.Head",
+          "sourceInfo": {
+            "deviceTag": -433751553
+          },
+          "locationConfidence": 90.69923,
+          "calibratedProbability": 73.8274
+        },
+        "duration": {
+          "startTimestamp": "2022-02-23T11:29:24Z",
+          "endTimestamp": "2022-02-23T11:46:12.243Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 599267500,
+        "centerLngE7": 303450390,
+        "visitConfidence": 89,
+        "otherCandidateLocations": [{
+          "latitudeE7": 599268882,
+          "longitudeE7": 303449462,
+          "placeId": "ChIJS_32lAsxlkYR-9HoWeSJquE",
+          "address": "Загородный просп., 10, Санкт-Петербург, Россия, 191002",
+          "name": "Kafe 3 Mushketera",
+          "locationConfidence": 1.3227468,
+          "calibratedProbability": 1.0766901
+        }, {
+          "latitudeE7": 599261200,
+          "longitudeE7": 303472150,
+          "placeId": "ChIJ8X42Eq8xlkYRHQy4Z1sxIOk",
+          "address": "Санкт-Петербург, Россия, 191002",
+          "name": "Vladimirskaya",
+          "locationConfidence": 0.47974172,
+          "calibratedProbability": 0.3905004
+        }, {
+          "latitudeE7": 599264886,
+          "longitudeE7": 303426751,
+          "placeId": "ChIJ27PQtgMxlkYRqrf5yWY1jcw",
+          "address": "Загородный просп., 11, Санкт-Петербург, Россия, 191002",
+          "name": "Pyat\u0027 Uglov",
+          "locationConfidence": 0.47906378,
+          "calibratedProbability": 0.38994858
+        }, {
+          "latitudeE7": 599269352,
+          "longitudeE7": 303447863,
+          "placeId": "ChIJ-2Yn2a4xlkYRY9132Sd8V4E",
+          "address": "Загородный просп., 10, Санкт-Петербург, Россия, 191002",
+          "name": "Otel\u0027 \"Tri Mushketera\"",
+          "locationConfidence": 0.35610607,
+          "calibratedProbability": 0.2898634
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 76,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }],
+      "centerLatE7": 599267500,
+      "centerLngE7": 303450390,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599261200,
+        "longitudeE7": 303472150,
+        "placeId": "ChIJ8X42Eq8xlkYRHQy4Z1sxIOk",
+        "address": "Санкт-Петербург, Россия, 191002",
+        "name": "Vladimirskaya",
+        "locationConfidence": 0.7100922,
+        "calibratedProbability": 5.6174483
+      }, {
+        "latitudeE7": 599264886,
+        "longitudeE7": 303426751,
+        "placeId": "ChIJ27PQtgMxlkYRqrf5yWY1jcw",
+        "address": "Загородный просп., 11, Санкт-Петербург, Россия, 191002",
+        "name": "Pyat\u0027 Uglov",
+        "locationConfidence": 0.52777475,
+        "calibratedProbability": 4.1751585
+      }, {
+        "latitudeE7": 599257235,
+        "longitudeE7": 303404675,
+        "placeId": "ChIJIcJfUqkxlkYRu-PVVOkCytY",
+        "address": "Загородный просп., 15, Санкт-Петербург, Россия, 191002",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.24885684,
+        "calibratedProbability": 1.9686745
+      }, {
+        "latitudeE7": 599275790,
+        "longitudeE7": 303428880,
+        "placeId": "ChIJPfudKqkxlkYRlCLN4TRPjpY",
+        "address": "ул. Рубинштейна, 23, Санкт-Петербург, Россия, 191002",
+        "name": "Pamyatnik Sergeyu Dovlatovu",
+        "locationConfidence": 0.20842184,
+        "calibratedProbability": 1.6487985
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 1,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599267702,
+        "longitudeE7": 303448999,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599268900,
+        "longitudeE7": 303556028,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-23T11:46:12.243Z",
+        "endTimestamp": "2022-02-23T11:58:19.429Z"
+      },
+      "distance": 1073,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 89.16376233100891
+      }, {
+        "activityType": "STILL",
+        "probability": 9.679169952869415
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.34460818860679865
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.21997385192662477
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.20221113227307796
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.16280285781249404
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.09205790120176971
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.07628552266396582
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.033008697209879756
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.01185638175229542
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.006816592940595001
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.004778683796757832
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0017454471162636764
+      }, {
+        "activityType": "SKIING",
+        "probability": 9.261448212782852E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.2366709873100632E-8
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599270019,
+          "lngE7": 303445339
+        }, {
+          "latE7": 599271202,
+          "lngE7": 303536167
+        }, {
+          "latE7": 599268951,
+          "lngE7": 303556060
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1121.019727824818,
+        "travelMode": "WALK",
+        "confidence": 0.9988590890111851
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 95.441765,
+        "calibratedProbability": 80.41929
+      },
+      "duration": {
+        "startTimestamp": "2022-02-23T11:58:19.429Z",
+        "endTimestamp": "2022-02-23T12:17:42.563Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599270715,
+      "centerLngE7": 303558608,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599281921,
+        "longitudeE7": 303560963,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "locationConfidence": 3.0203252,
+        "calibratedProbability": 2.5449278
+      }, {
+        "latitudeE7": 599267567,
+        "longitudeE7": 303555629,
+        "placeId": "ChIJszLOHLAxlkYRjPQi-oJd17M",
+        "address": "Кузнечный пер., 17/2 лит.А, Санкт-Петербург, Россия, 191040",
+        "name": "Planeta Zdorov\u0027ya",
+        "locationConfidence": 0.37920967,
+        "calibratedProbability": 0.3195223
+      }, {
+        "latitudeE7": 599271698,
+        "longitudeE7": 303554542,
+        "placeId": "ChIJN3b4_q8xlkYRzLN7LhXD8bo",
+        "address": "Пушкинская ул., 19, Санкт-Петербург, Россия, 191040",
+        "name": "Feniks",
+        "locationConfidence": 0.31720743,
+        "calibratedProbability": 0.26727918
+      }, {
+        "latitudeE7": 599273700,
+        "longitudeE7": 303554890,
+        "placeId": "ChIJx-4KE6ExlkYR-aPzVysYeNU",
+        "address": "Лиговский пр., 266Д, Санкт-Петербург, Россия, 196084",
+        "name": "Sintezia",
+        "locationConfidence": 0.21296604,
+        "calibratedProbability": 0.17944533
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 82,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599270042,
+        "longitudeE7": 303556723,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599282239,
+        "longitudeE7": 303561135,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-23T12:17:42.563Z",
+        "endTimestamp": "2022-02-23T12:39:20.147Z"
+      },
+      "distance": 199,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 97.62385487556458
+      }, {
+        "activityType": "STILL",
+        "probability": 1.5206947922706604
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.41427006945014
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.13611660106107593
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.11170388897880912
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.06758726667612791
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.06486425991170108
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.019234347564633936
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.01812956907087937
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.009756802319316193
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.005683974814019166
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.00406320505135227
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0022460239051724784
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0017978691175812855
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.440637102141263E-9
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599270019,
+          "lngE7": 303556938
+        }, {
+          "latE7": 599275054,
+          "lngE7": 303559494
+        }, {
+          "latE7": 599280014,
+          "lngE7": 303562316
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 115.05726018581421,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599285314,
+        "longitudeE7": 303538285,
+        "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 88.49233,
+        "calibratedProbability": 82.27608
+      },
+      "duration": {
+        "startTimestamp": "2022-02-23T12:39:20.147Z",
+        "endTimestamp": "2022-02-24T12:27:55Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 599281908,
+      "centerLngE7": 303560836,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599269625,
+        "longitudeE7": 303561157,
+        "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
+        "name": "Dixy",
+        "locationConfidence": 1.136981,
+        "calibratedProbability": 1.0571123
+      }, {
+        "latitudeE7": 599294488,
+        "longitudeE7": 303574005,
+        "placeId": "ChIJV_jPFJ4xlkYRObr6b39CYA4",
+        "address": "Точка продаж средств от насекомых Пушкинская улица, д. 10 вход через магазин продукты, Санкт-Петербург, Россия, 191028",
+        "name": "Точка Продаж ДезСредств УНИ Дез Чернышевская",
+        "locationConfidence": 0.21522231,
+        "calibratedProbability": 0.20010374
+      }, {
+        "latitudeE7": 599292628,
+        "longitudeE7": 303587346,
+        "placeId": "ChIJHccZMqUxlkYR-jvnLOuMatg",
+        "address": "Пушкинская ул., 10, Санкт-Петербург, Россия, 191040",
+        "name": "Ulitsa Dzhona Lennona",
+        "locationConfidence": 0.10133216,
+        "calibratedProbability": 0.09421395
+      }, {
+        "latitudeE7": 599291274,
+        "longitudeE7": 303591623,
+        "placeId": "ChIJ2d6D0roxlkYRz8E3H9hM318",
+        "address": "Лиговский пр., 53, Санкт-Петербург, Россия, 191040",
+        "name": "Art Center \"Pushkinskaya-10\"",
+        "locationConfidence": 0.09780377,
+        "calibratedProbability": 0.09093342
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 73,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599288186,
+        "longitudeE7": 303575769,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599293555,
+        "longitudeE7": 303596609,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-24T12:27:55Z",
+        "endTimestamp": "2022-02-24T12:29:54Z"
+      },
+      "distance": 185,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 96.91290259361267
+      }, {
+        "activityType": "STILL",
+        "probability": 1.5621370635926723
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.5977751221507788
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.1962205395102501
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.19383003236725926
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.19118840573355556
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.15528323128819466
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.11465108254924417
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.03434168465901166
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.015150626131799072
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.012144732318120077
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.008641043677926064
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.003778399695875123
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.001957459062396083
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.101863489338939E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599288558,
+          "lngE7": 303575954
+        }, {
+          "latE7": 599286613,
+          "lngE7": 303588466
+        }, {
+          "latE7": 599293365,
+          "lngE7": 303597869
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 189.41531341136476,
+        "travelMode": "WALK",
+        "confidence": 0.9997911659469225
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 599299123,
+        "longitudeE7": 303622406,
+        "placeId": "ChIJ_X2vWqIxlkYRxd9qpgHBZOU",
+        "address": "Невский пр., 85, Санкт-Петербург, Ленинградская обл., Россия, 191036",
+        "name": "Moscow Railway Station",
+        "sourceInfo": {
+          "deviceTag": -433751553
+        },
+        "locationConfidence": 89.982864,
+        "calibratedProbability": 75.468925
+      },
+      "duration": {
+        "startTimestamp": "2022-02-24T12:29:54Z",
+        "endTimestamp": "2022-02-24T12:38:27Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 599298562,
+      "centerLngE7": 303608925,
+      "visitConfidence": 86,
+      "otherCandidateLocations": [{
+        "latitudeE7": 599295616,
+        "longitudeE7": 303623123,
+        "placeId": "ChIJEYM-N9QxlkYRf5-F89_mRkQ",
+        "address": "Невский пр., д. 85, Санкт-Петербург, Россия, 191086",
+        "name": "Московский вокзал",
+        "locationConfidence": 2.244102,
+        "calibratedProbability": 1.8821359
+      }, {
+        "latitudeE7": 599304361,
+        "longitudeE7": 303619325,
+        "placeId": "ChIJmZ-lULoxlkYRjzK7WacKnJI",
+        "address": "Невский пр., 85Д, Санкт-Петербург, Россия, 191036",
+        "name": "Moskovskiy Vokzal, Parkovka U Platformy",
+        "locationConfidence": 0.81531143,
+        "calibratedProbability": 0.68380445
+      }, {
+        "latitudeE7": 599294918,
+        "longitudeE7": 303621967,
+        "placeId": "ChIJR3s0H7sxlkYRMtps465tM1U",
+        "address": "Санкт-Петербург, Россия",
+        "name": "Moskovsky Rail Terminal",
+        "locationConfidence": 0.7395504,
+        "calibratedProbability": 0.6202634
+      }, {
+        "latitudeE7": 599299132,
+        "longitudeE7": 303622403,
+        "placeId": "ChIJRy6NsVUxlkYRPi4Dwzljino",
+        "address": "Невский пр., д. 85, Санкт-Петербург, Россия, 191086",
+        "name": "Московский вокзал",
+        "locationConfidence": 0.3278538,
+        "calibratedProbability": 0.27497208
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 75,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 599290610,
+        "longitudeE7": 303603738,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 599288635,
+        "longitudeE7": 303565164,
+        "sourceInfo": {
+          "deviceTag": -433751553
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-02-24T12:38:27Z",
+        "endTimestamp": "2022-02-24T12:55:41.971Z"
+      },
+      "distance": 1203,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 83.90650153160095
+      }, {
+        "activityType": "STILL",
+        "probability": 12.999019026756287
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.2563538737595081
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.46177078038454056
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.45609427616000175
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.32995291985571384
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.20934047643095255
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.16016963636502624
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.09498554863967001
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.051636697025969625
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.030979470466263592
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.023513520136475563
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.010758040298242122
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.008925025031203404
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 8.65063327637472E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 599289131,
+          "lngE7": 303603210
+        }, {
+          "latE7": 599272117,
+          "lngE7": 303591022
+        }, {
+          "latE7": 599272117,
+          "lngE7": 303591022
+        }, {
+          "latE7": 599265594,
+          "lngE7": 303582153
+        }, {
+          "latE7": 599287185,
+          "lngE7": 303585033
+        }, {
+          "latE7": 599307479,
+          "lngE7": 303606224
+        }, {
+          "latE7": 599296684,
+          "lngE7": 303571758
+        }, {
+          "latE7": 599291114,
+          "lngE7": 303565826
+        }, {
+          "latE7": 599288673,
+          "lngE7": 303564453
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1510.6715046959582,
+        "travelMode": "WALK",
+        "confidence": 0.9762650788909243
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 599270744,
+          "lngE7": 303597641,
+          "accuracyMeters": 26,
+          "timestamp": "2022-02-24T12:43:14Z"
+        }, {
+          "latE7": 599287872,
+          "lngE7": 303585491,
+          "accuracyMeters": 4,
+          "timestamp": "2022-02-24T12:49:52Z"
+        }, {
+          "latE7": 599296722,
+          "lngE7": 303571472,
+          "accuracyMeters": 18,
+          "timestamp": "2022-02-24T12:52:17Z"
+        }]
+      }
+    }
+  }]
+}

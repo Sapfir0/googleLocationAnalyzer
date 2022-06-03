@@ -10121,7 +10121,7 @@
         "longitudeE7": 606067751,
         "placeId": "ChIJN8WYboxuwUMRjbMy45-p1q8",
         "address": "ул. Горького, 8\nЕкатеринбург\nСвердловская обл.\nРоссия\n620075",
-        "name": "Monument to the Beatles",
+        "name": "Monument to The Beatles",
         "locationConfidence": 16.844582,
         "calibratedProbability": 7.3090334
       }, {
@@ -10137,7 +10137,7 @@
         "longitudeE7": 606035190,
         "placeId": "ChIJyQQcfYtuwUMRupL7e4GiZy4",
         "address": "ул. Воеводина, 5\nЕкатеринбург\nСвердловская обл.\nРоссия\n620014",
-        "name": "Yekaterinburgskiy Muzey Izobrazitel\u0027nykh Iskusstv",
+        "name": "Yekaterinburg Museum of Fine Arts",
         "locationConfidence": 2.4849114,
         "calibratedProbability": 1.078228
       }, {
@@ -10313,7 +10313,7 @@
         "longitudeE7": 606044674,
         "placeId": "ChIJU2xuAGNuwUMRb47hpoUAMZM",
         "address": "Дзержинского, 2\nЕкатеринбург\nСвердловская обл.\nРоссия\n620027",
-        "name": "Monument Lumière",
+        "name": "Monument to Lumière brothers",
         "locationConfidence": 2.134935,
         "calibratedProbability": 1.4020526
       }, {
@@ -10337,7 +10337,7 @@
         "longitudeE7": 606071704,
         "placeId": "ChIJs9am1YluwUMRT5fc4Q9tSEA",
         "address": "ул. Пролетарская, 6\nЕкатеринбург\nСвердловская обл.\nРоссия\n620075",
-        "name": "Pamyatnik A.s. Pushkinu",
+        "name": "Monument to Alexander Pushkin",
         "locationConfidence": 0.4787945,
         "calibratedProbability": 0.31443352
       }],

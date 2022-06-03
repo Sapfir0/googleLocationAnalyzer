@@ -770,8 +770,6 @@
         "latitudeE7": 487134239,
         "longitudeE7": 444999435,
         "placeId": "ChIJZRFLyzjLGkERupk2Xt_u--Q",
-        "address": "Голубинская ул., 16\nВолгоград\nВолгоградская обл.\nРоссия\n400131",
-        "name": "Radezh",
         "locationConfidence": 3.9215572,
         "calibratedProbability": 1.8351582
       }, {
@@ -5662,8 +5660,8 @@
         "latitudeE7": 487357212,
         "longitudeE7": 444981953,
         "placeId": "ChIJVc-yQwLLGkERBcmFJ2urlmI",
-        "address": "Волгоград\nВолгоградская обл.\nРоссия\n400010",
-        "name": "Svyaznoy",
+        "address": "ул. Качинцев, 87\nВолгоград\nВолгоградская обл.\nРоссия\n400010",
+        "name": "Svyaznoy - Zakryto",
         "locationConfidence": 0.46143544,
         "calibratedProbability": 0.34972242
       }],

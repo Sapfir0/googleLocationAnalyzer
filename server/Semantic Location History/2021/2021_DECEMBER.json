@@ -5,8 +5,7 @@
         "latitudeE7": 599285314,
         "longitudeE7": 303538285,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "sourceInfo": {
           "deviceTag": -433751553
         },
@@ -25,7 +24,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "locationConfidence": 40.522503,
         "calibratedProbability": 32.45007
@@ -33,7 +32,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 1.2267768,
         "calibratedProbability": 0.98239225
@@ -41,7 +40,7 @@
         "latitudeE7": 599293807,
         "longitudeE7": 303572323,
         "placeId": "ChIJu_9eMKUxlkYRrK9htFsq0VU",
-        "address": "Пушкинская ул., 10\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 10, Санкт-Петербург, Россия, 191040",
         "name": "products 24",
         "locationConfidence": 0.14003046,
         "calibratedProbability": 0.11213518
@@ -49,7 +48,7 @@
         "latitudeE7": 599279248,
         "longitudeE7": 303560548,
         "placeId": "ChIJQ5WdaLQXlkYR1lf2vFyaWEs",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Murmassazh",
         "locationConfidence": 0.13030341,
         "calibratedProbability": 0.10434584
@@ -65,7 +64,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -85,15 +84,14 @@
         "latitudeE7": 599281731,
         "longitudeE7": 303559475,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 32.800148,
         "calibratedProbability": 27.255358
       }, {
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.54410404,
         "calibratedProbability": 0.45212448
@@ -101,7 +99,7 @@
         "latitudeE7": 599270130,
         "longitudeE7": 303531370,
         "placeId": "ChIJZSaz7q8xlkYRMg4Rmkv8boU",
-        "address": "Кузнечный пер., 11\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Кузнечный пер., 11, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.09645713,
         "calibratedProbability": 0.080151275
@@ -109,7 +107,7 @@
         "latitudeE7": 599293807,
         "longitudeE7": 303572323,
         "placeId": "ChIJu_9eMKUxlkYRrK9htFsq0VU",
-        "address": "Пушкинская ул., 10\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 10, Санкт-Петербург, Россия, 191040",
         "name": "products 24",
         "locationConfidence": 0.07697639,
         "calibratedProbability": 0.063963704
@@ -125,8 +123,7 @@
         "latitudeE7": 599285314,
         "longitudeE7": 303538285,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "sourceInfo": {
           "deviceTag": -433751553
         },
@@ -145,7 +142,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "locationConfidence": 43.64257,
         "calibratedProbability": 34.026733
@@ -153,7 +150,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 2.1465604,
         "calibratedProbability": 1.6736053
@@ -161,7 +158,7 @@
         "latitudeE7": 599284873,
         "longitudeE7": 303561638,
         "placeId": "ChIJqfJTj20xlkYR1-rhqsX8O0g",
-        "address": "Пушкинская ул., 13\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 13, Санкт-Петербург, Россия, 191040",
         "name": "Neon Coffee",
         "locationConfidence": 0.29378882,
         "calibratedProbability": 0.22905785
@@ -169,7 +166,7 @@
         "latitudeE7": 599279564,
         "longitudeE7": 303560606,
         "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Магазин ножей Nozhikov.ru",
         "locationConfidence": 0.24695927,
         "calibratedProbability": 0.19254634
@@ -285,7 +282,7 @@
         "latitudeE7": 599069580,
         "longitudeE7": 303023911,
         "placeId": "ChIJy-YHifUwlkYRWnlYZK4u92k",
-        "address": "набережная Обводного канала, 118, корпус 7\nСанкт-Петербург\nРоссия\n190005",
+        "address": "набережная Обводного канала, 118, корпус 7, Санкт-Петербург, Россия, 190005",
         "name": "Гипер Лента",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -305,7 +302,7 @@
         "latitudeE7": 599082092,
         "longitudeE7": 303010884,
         "placeId": "ChIJf0YglPUwlkYRg0LqwmYkdsA",
-        "address": "Митрофаньевское ш., 2к1\nСанкт-Петербург\nРоссия\n198095",
+        "address": "Митрофаньевское ш., 2к1, Санкт-Петербург, Россия, 198095",
         "name": "220 Vol\u0027t",
         "locationConfidence": 1.0884926,
         "calibratedProbability": 1.0128189
@@ -313,7 +310,7 @@
         "latitudeE7": 599078100,
         "longitudeE7": 303029370,
         "placeId": "ChIJkWffvPUwlkYRiQAhlY-wS5Y",
-        "address": "пл. Балтийского Вокзала, 1\nСанкт-Петербург\nРоссия\n198095",
+        "address": "пл. Балтийского Вокзала, 1, Санкт-Петербург, Россия, 198095",
         "name": "Baltiyskaya",
         "locationConfidence": 0.84812164,
         "calibratedProbability": 0.78915894
@@ -321,15 +318,13 @@
         "latitudeE7": 599069580,
         "longitudeE7": 303023911,
         "placeId": "ChIJZ3mBr3ExlkYRyQzaAKqO61A",
-        "address": "набережная Обводного канала, 118 корпус 7\nСанкт-Петербург\nРоссия\n190005",
-        "name": "Автосервис и шиномонтаж Посейдон",
         "locationConfidence": 0.11669105,
         "calibratedProbability": 0.10857851
       }, {
         "latitudeE7": 599068130,
         "longitudeE7": 302986576,
         "placeId": "ChIJX2_6cvUwlkYRvqCVCwH-J5w",
-        "address": "Санкт-Петербург\nРоссия\n198095",
+        "address": "Санкт-Петербург, Россия, 198095",
         "name": "Baltiyskiy Vokzal",
         "locationConfidence": 0.116173804,
         "calibratedProbability": 0.108097225
@@ -455,8 +450,7 @@
         "latitudeE7": 599285314,
         "longitudeE7": 303538285,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "sourceInfo": {
           "deviceTag": -433751553
         },
@@ -475,7 +469,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "locationConfidence": 34.45404,
         "calibratedProbability": 28.839718
@@ -483,7 +477,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.9895105,
         "calibratedProbability": 0.82826865
@@ -491,7 +485,7 @@
         "latitudeE7": 599284873,
         "longitudeE7": 303561638,
         "placeId": "ChIJqfJTj20xlkYR1-rhqsX8O0g",
-        "address": "Пушкинская ул., 13\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 13, Санкт-Петербург, Россия, 191040",
         "name": "Neon Coffee",
         "locationConfidence": 0.15487999,
         "calibratedProbability": 0.12964213
@@ -499,7 +493,7 @@
         "latitudeE7": 599279564,
         "longitudeE7": 303560606,
         "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Магазин ножей Nozhikov.ru",
         "locationConfidence": 0.1533548,
         "calibratedProbability": 0.12836546
@@ -515,7 +509,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -535,15 +529,14 @@
         "latitudeE7": 599281731,
         "longitudeE7": 303559265,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 29.643362,
         "calibratedProbability": 23.828728
       }, {
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.41507,
         "calibratedProbability": 0.3336528
@@ -551,7 +544,7 @@
         "latitudeE7": 599270130,
         "longitudeE7": 303531370,
         "placeId": "ChIJZSaz7q8xlkYRMg4Rmkv8boU",
-        "address": "Кузнечный пер., 11\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Кузнечный пер., 11, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.12016818,
         "calibratedProbability": 0.09659684
@@ -559,7 +552,7 @@
         "latitudeE7": 599293807,
         "longitudeE7": 303572323,
         "placeId": "ChIJu_9eMKUxlkYRrK9htFsq0VU",
-        "address": "Пушкинская ул., 10\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 10, Санкт-Петербург, Россия, 191040",
         "name": "products 24",
         "locationConfidence": 0.08659968,
         "calibratedProbability": 0.06961289
@@ -575,8 +568,7 @@
         "latitudeE7": 599285314,
         "longitudeE7": 303538285,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "sourceInfo": {
           "deviceTag": -433751553
         },
@@ -595,7 +587,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "locationConfidence": 43.167835,
         "calibratedProbability": 34.88222
@@ -603,7 +595,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.97026366,
         "calibratedProbability": 0.7840317
@@ -611,7 +603,7 @@
         "latitudeE7": 599284873,
         "longitudeE7": 303561638,
         "placeId": "ChIJqfJTj20xlkYR1-rhqsX8O0g",
-        "address": "Пушкинская ул., 13\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 13, Санкт-Петербург, Россия, 191040",
         "name": "Neon Coffee",
         "locationConfidence": 0.14165665,
         "calibratedProbability": 0.11446714
@@ -619,7 +611,7 @@
         "latitudeE7": 599279564,
         "longitudeE7": 303560606,
         "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Магазин ножей Nozhikov.ru",
         "locationConfidence": 0.13202605,
         "calibratedProbability": 0.10668503
@@ -746,7 +738,7 @@
         "latitudeE7": 599497604,
         "longitudeE7": 303528041,
         "placeId": "ChIJpcNC8HYxlkYR-JB0wxDGDFw",
-        "address": "Воскресенская наб., 28\nСанкт-Петербург\nРоссия\n191123",
+        "address": "Воскресенская наб., 28, Санкт-Петербург, Россия, 191123",
         "name": "Otdel Voyennogo Komissariata G. Sankt-Peterburga",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -766,7 +758,7 @@
         "latitudeE7": 599497691,
         "longitudeE7": 303532247,
         "placeId": "ChIJtTun8HYxlkYROKlAePuaTn8",
-        "address": "Воскресенская наб., 28\nСанкт-Петербург\nРоссия\n191123",
+        "address": "Воскресенская наб., 28, Санкт-Петербург, Россия, 191123",
         "name": "recruiting office",
         "locationConfidence": 12.324494,
         "calibratedProbability": 10.878907
@@ -780,7 +772,7 @@
         "latitudeE7": 599519123,
         "longitudeE7": 303494836,
         "placeId": "ChIJLZfb1nAxlkYRkSjrI1xubN4",
-        "address": "Литейный мост\nСанкт-Петербург\nРоссия\n194044",
+        "address": "Литейный мост, Санкт-Петербург, Россия, 194044",
         "name": "Liteyniy Bridge",
         "locationConfidence": 0.5071482,
         "calibratedProbability": 0.44766283
@@ -788,7 +780,7 @@
         "latitudeE7": 599485485,
         "longitudeE7": 303493326,
         "placeId": "ChIJJ53PoXYxlkYRba3GMLqCCgg",
-        "address": "Литейный пр., 4\nСанкт-Петербург\nЛенинградская обл.\nРоссия\n191123",
+        "address": "Литейный пр., 4, Санкт-Петербург, Ленинградская обл., Россия, 191123",
         "name": "Управление ФСБ России по городу Санкт-Петербургу и Ленинградской области",
         "locationConfidence": 0.054853834,
         "calibratedProbability": 0.04841982
@@ -890,7 +882,7 @@
         "latitudeE7": 599445022,
         "longitudeE7": 303596721,
         "placeId": "ChIJKeGypcUxlkYRn4I3zNDoaS4",
-        "address": "пр. Чернышевского, 20,корпус А\nСанкт-Петербург\nРоссия\n191123",
+        "address": "пр. Чернышевского, 20,корпус А, Санкт-Петербург, Россия, 191123",
         "name": "Metro Chernyshevskaya",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -908,7 +900,7 @@
           "latitudeE7": 599445202,
           "longitudeE7": 303599453,
           "placeId": "ChIJ4TTjiZ4xlkYRRGatDI6dPk0",
-          "address": "Санкт-Петербург\nРоссия\n191123",
+          "address": "Санкт-Петербург, Россия, 191123",
           "name": "Chernyshevskaya",
           "sourceInfo": {
             "deviceTag": -433751553
@@ -928,7 +920,7 @@
           "latitudeE7": 599442106,
           "longitudeE7": 303604774,
           "placeId": "ChIJ-dJDjJ4xlkYRS-shzOPcuOY",
-          "address": "Санкт-Петербург\nРоссия\n191123",
+          "address": "Санкт-Петербург, Россия, 191123",
           "name": "Chernyshevskaya",
           "locationConfidence": 21.116581,
           "calibratedProbability": 33.253586,
@@ -937,7 +929,7 @@
           "latitudeE7": 599438450,
           "longitudeE7": 303580720,
           "placeId": "ChIJC1kDWZ4xlkYR8PchRIQp4Ps",
-          "address": "Санкт-Петербург\nРоссия\n191123",
+          "address": "Санкт-Петербург, Россия, 191123",
           "name": "Chernyshevskaya Station",
           "locationConfidence": 1.7728122,
           "calibratedProbability": 2.791757
@@ -945,7 +937,7 @@
           "latitudeE7": 599449504,
           "longitudeE7": 303599366,
           "placeId": "ChIJ22HDfJ4xlkYRQ38eKGWg0QI",
-          "address": "пр. Чернышевского, 18/29\nСанкт-Петербург\nРоссия\n191123",
+          "address": "пр. Чернышевского, 18/29, Санкт-Петербург, Россия, 191123",
           "name": "Business Services Center",
           "locationConfidence": 0.23377709,
           "calibratedProbability": 0.36814326
@@ -953,7 +945,7 @@
           "latitudeE7": 599439940,
           "longitudeE7": 303622220,
           "placeId": "ChIJYUZJlp4xlkYR-rpubX1F3kI",
-          "address": "Санкт-Петербург\nРоссия\n191123",
+          "address": "Санкт-Петербург, Россия, 191123",
           "name": "Chernyshevskaya Station",
           "locationConfidence": 0.15852258,
           "calibratedProbability": 0.24963531
@@ -970,7 +962,7 @@
         "latitudeE7": 599442106,
         "longitudeE7": 303604774,
         "placeId": "ChIJ-dJDjJ4xlkYRS-shzOPcuOY",
-        "address": "Санкт-Петербург\nРоссия\n191123",
+        "address": "Санкт-Петербург, Россия, 191123",
         "name": "Chernyshevskaya",
         "locationConfidence": 18.064186,
         "calibratedProbability": 13.572403
@@ -978,7 +970,7 @@
         "latitudeE7": 599449504,
         "longitudeE7": 303599366,
         "placeId": "ChIJ22HDfJ4xlkYRQ38eKGWg0QI",
-        "address": "пр. Чернышевского, 18/29\nСанкт-Петербург\nРоссия\n191123",
+        "address": "пр. Чернышевского, 18/29, Санкт-Петербург, Россия, 191123",
         "name": "Business Services Center",
         "locationConfidence": 0.91834617,
         "calibratedProbability": 0.68999314
@@ -986,7 +978,7 @@
         "latitudeE7": 599438450,
         "longitudeE7": 303580720,
         "placeId": "ChIJC1kDWZ4xlkYR8PchRIQp4Ps",
-        "address": "Санкт-Петербург\nРоссия\n191123",
+        "address": "Санкт-Петербург, Россия, 191123",
         "name": "Chernyshevskaya Station",
         "locationConfidence": 0.31333172,
         "calibratedProbability": 0.23541966
@@ -994,7 +986,7 @@
         "latitudeE7": 599447373,
         "longitudeE7": 303587931,
         "placeId": "ChIJj47juhcxlkYRyb55fQ1qaKs",
-        "address": "пр. Чернышевского, 17\nСанкт-Петербург\nРоссия\n191123",
+        "address": "пр. Чернышевского, 17, Санкт-Петербург, Россия, 191123",
         "name": "Vkusvill",
         "locationConfidence": 0.23670925,
         "calibratedProbability": 0.17784989
@@ -1121,7 +1113,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -1141,15 +1133,14 @@
         "latitudeE7": 599281731,
         "longitudeE7": 303559113,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 34.715427,
         "calibratedProbability": 29.251112
       }, {
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.65322286,
         "calibratedProbability": 0.55040354
@@ -1157,7 +1148,7 @@
         "latitudeE7": 599283886,
         "longitudeE7": 303561587,
         "placeId": "ChIJ9XN5Y1owlkYRGGBjqs5LXC4",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Gastronika",
         "locationConfidence": 0.09962112,
         "calibratedProbability": 0.08394045
@@ -1165,7 +1156,7 @@
         "latitudeE7": 599281809,
         "longitudeE7": 303559021,
         "placeId": "ChIJaSe6UaUxlkYRC0IFx7zM1_A",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Клиника по борьбе с лишним весом №1",
         "locationConfidence": 0.09906873,
         "calibratedProbability": 0.08347501
@@ -1267,7 +1258,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -1287,15 +1278,14 @@
         "latitudeE7": 599281769,
         "longitudeE7": 303559074,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 0.927383,
         "calibratedProbability": 0.7808285
       }, {
         "latitudeE7": 599267567,
         "longitudeE7": 303555629,
         "placeId": "ChIJszLOHLAxlkYRjPQi-oJd17M",
-        "address": "Кузнечный пер., 17/2 лит.А\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Кузнечный пер., 17/2 лит.А, Санкт-Петербург, Россия, 191040",
         "name": "Planeta Zdorov\u0027ya",
         "locationConfidence": 0.36550796,
         "calibratedProbability": 0.30774665
@@ -1303,7 +1293,7 @@
         "latitudeE7": 599271698,
         "longitudeE7": 303554542,
         "placeId": "ChIJN3b4_q8xlkYRzLN7LhXD8bo",
-        "address": "Пушкинская ул., 19\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 19, Санкт-Петербург, Россия, 191040",
         "name": "Feniks",
         "locationConfidence": 0.16897754,
         "calibratedProbability": 0.14227398
@@ -1311,7 +1301,7 @@
         "latitudeE7": 599273640,
         "longitudeE7": 303556190,
         "placeId": "ChIJs6TGHnExlkYRYXQz67rYZcQ",
-        "address": "Пушкинская ул., 19\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 19, Санкт-Петербург, Россия, 191040",
         "name": "Rosal",
         "locationConfidence": 0.14886801,
         "calibratedProbability": 0.12534237
@@ -1413,8 +1403,7 @@
         "latitudeE7": 599285314,
         "longitudeE7": 303538285,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "sourceInfo": {
           "deviceTag": -433751553
         },
@@ -1433,7 +1422,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "locationConfidence": 36.224808,
         "calibratedProbability": 27.261303
@@ -1441,7 +1430,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 4.618095,
         "calibratedProbability": 3.4753885
@@ -1449,7 +1438,7 @@
         "latitudeE7": 599279564,
         "longitudeE7": 303560606,
         "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Магазин ножей Nozhikov.ru",
         "locationConfidence": 0.24706137,
         "calibratedProbability": 0.18592824
@@ -1457,7 +1446,7 @@
         "latitudeE7": 599276471,
         "longitudeE7": 303583784,
         "placeId": "ChIJV69mdv4xlkYRIKgBnOTUqU8",
-        "address": "Лиговский пр., 63\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Лиговский пр., 63, Санкт-Петербург, Россия, 191040",
         "name": "Tsekh85",
         "locationConfidence": 0.13754031,
         "calibratedProbability": 0.10350719
@@ -1581,7 +1570,7 @@
         "latitudeE7": 599260120,
         "longitudeE7": 303526000,
         "placeId": "ChIJo3k-GK0xlkYRx1M2s7wjITE",
-        "address": "ул. Марата, 34, лит.А\nСанкт-Петербург\nРоссия\n191040",
+        "address": "ул. Марата, 34, лит.А, Санкт-Петербург, Россия, 191040",
         "name": "Красное\u0026Белое",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -1601,7 +1590,7 @@
         "latitudeE7": 599270130,
         "longitudeE7": 303531370,
         "placeId": "ChIJZSaz7q8xlkYRMg4Rmkv8boU",
-        "address": "Кузнечный пер., 11\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Кузнечный пер., 11, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 38.438744,
         "calibratedProbability": 27.65826
@@ -1609,7 +1598,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 1.4162948,
         "calibratedProbability": 1.0190824
@@ -1617,7 +1606,7 @@
         "latitudeE7": 599253090,
         "longitudeE7": 303518668,
         "placeId": "ChIJEwMq068xlkYRZUld1ycnY30",
-        "address": "ул. Марата, дом 40\nСанкт-Петербург\nРоссия\n191002",
+        "address": "ул. Марата, дом 40, Санкт-Петербург, Россия, 191002",
         "name": "Yeapteka",
         "locationConfidence": 1.0259069,
         "calibratedProbability": 0.7381823
@@ -1625,7 +1614,7 @@
         "latitudeE7": 599273744,
         "longitudeE7": 303491751,
         "placeId": "ChIJu75nlK8xlkYRkbKa-1OxqDI",
-        "address": "Кузнечный пер., 3\nСанкт-Петербург\nРоссия\n191025",
+        "address": "Кузнечный пер., 3, Санкт-Петербург, Россия, 191025",
         "name": "Kuznechnyy Rynok",
         "locationConfidence": 0.9379809,
         "calibratedProbability": 0.6749159
@@ -1633,7 +1622,7 @@
         "latitudeE7": 599259241,
         "longitudeE7": 303522081,
         "placeId": "ChIJMWzxz68xlkYRDTiaXK8qLSw",
-        "address": "ул. Марата, 34\nСанкт-Петербург\nРоссия\n191040",
+        "address": "ул. Марата, 34, Санкт-Петербург, Россия, 191040",
         "name": "Koshka Tishina Matroskina",
         "locationConfidence": 0.65678304,
         "calibratedProbability": 0.47258246
@@ -1641,7 +1630,7 @@
         "latitudeE7": 599254779,
         "longitudeE7": 303513213,
         "placeId": "ChIJWc0lza8xlkYRDRM0tk5_mqM",
-        "address": "ул. Марата, 37\nСанкт-Петербург\nРоссия\n191002",
+        "address": "ул. Марата, 37, Санкт-Петербург, Россия, 191002",
         "name": "Rosal",
         "locationConfidence": 0.5101215,
         "calibratedProbability": 0.36705345
@@ -1743,8 +1732,7 @@
         "latitudeE7": 599285314,
         "longitudeE7": 303538285,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "sourceInfo": {
           "deviceTag": -433751553
         },
@@ -1763,7 +1751,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "locationConfidence": 33.92419,
         "calibratedProbability": 26.685001
@@ -1771,7 +1759,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 1.6648557,
         "calibratedProbability": 1.309587
@@ -1779,7 +1767,7 @@
         "latitudeE7": 599279564,
         "longitudeE7": 303560606,
         "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Магазин ножей Nozhikov.ru",
         "locationConfidence": 0.29124185,
         "calibratedProbability": 0.22909285
@@ -1787,7 +1775,7 @@
         "latitudeE7": 599284873,
         "longitudeE7": 303561638,
         "placeId": "ChIJqfJTj20xlkYR1-rhqsX8O0g",
-        "address": "Пушкинская ул., 13\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 13, Санкт-Петербург, Россия, 191040",
         "name": "Neon Coffee",
         "locationConfidence": 0.199811,
         "calibratedProbability": 0.15717271
@@ -1803,7 +1791,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -1823,15 +1811,14 @@
         "latitudeE7": 599281769,
         "longitudeE7": 303559074,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 34.58204,
         "calibratedProbability": 26.775818
       }, {
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.57446826,
         "calibratedProbability": 0.44479325
@@ -1839,7 +1826,7 @@
         "latitudeE7": 599280580,
         "longitudeE7": 303566070,
         "placeId": "ChIJr-OkUqUxlkYRGbfDLBrPsK0",
-        "address": "Пушкинская ул., 18\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 18, Санкт-Петербург, Россия, 191040",
         "name": "Kindergarten number 44",
         "locationConfidence": 0.1980735,
         "calibratedProbability": 0.15336227
@@ -1847,7 +1834,7 @@
         "latitudeE7": 599281809,
         "longitudeE7": 303559021,
         "placeId": "ChIJaSe6UaUxlkYRC0IFx7zM1_A",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Клиника по борьбе с лишним весом №1",
         "locationConfidence": 0.15037322,
         "calibratedProbability": 0.1164294
@@ -1949,7 +1936,7 @@
         "latitudeE7": 599269710,
         "longitudeE7": 303380330,
         "placeId": "ChIJk9-7bakxlkYRKdjy8UYIKQ0",
-        "address": "ул. Ломоносова, 9\nСанкт-Петербург\nРоссия\n191002",
+        "address": "ул. Ломоносова, 9, Санкт-Петербург, Россия, 191002",
         "name": "Университет ИТМО (ITMO University)",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -1969,7 +1956,7 @@
         "latitudeE7": 599271222,
         "longitudeE7": 303401412,
         "placeId": "ChIJB13OPKkxlkYRQjleqhFtsy8",
-        "address": "ул. Ломоносова, 20\nСанкт-Петербург\nРоссия\n191002",
+        "address": "ул. Ломоносова, 20, Санкт-Петербург, Россия, 191002",
         "name": "Bookstore for kindergartens and schools",
         "locationConfidence": 1.1400409,
         "calibratedProbability": 1.0888366
@@ -1977,7 +1964,7 @@
         "latitudeE7": 599264886,
         "longitudeE7": 303426751,
         "placeId": "ChIJ27PQtgMxlkYRqrf5yWY1jcw",
-        "address": "Загородный просп., 11\nСанкт-Петербург\nРоссия\n191002",
+        "address": "Загородный просп., 11, Санкт-Петербург, Россия, 191002",
         "name": "Pyat\u0027 Uglov",
         "locationConfidence": 0.19415864,
         "calibratedProbability": 0.18543813
@@ -1985,8 +1972,7 @@
         "latitudeE7": 599257450,
         "longitudeE7": 303398107,
         "placeId": "ChIJE8jmUKkxlkYRWN-07-3I7r0",
-        "address": "Загородный просп., 15\nСанкт-Петербург\nРоссия\n191002",
-        "name": "Загородный просп., 15",
+        "address": "Загородный просп., 15, Санкт-Петербург, Россия, 191002",
         "semanticType": "TYPE_SEARCHED_ADDRESS",
         "locationConfidence": 0.11783739,
         "calibratedProbability": 0.11254479
@@ -1994,7 +1980,7 @@
         "latitudeE7": 599274893,
         "longitudeE7": 303388336,
         "placeId": "ChIJOzVQh70xlkYRTPygQj_QBzg",
-        "address": "ул. Ломоносова, 16а\nСанкт-Петербург\nРоссия\n191002",
+        "address": "ул. Ломоносова, 16а, Санкт-Петербург, Россия, 191002",
         "name": "Supermarket",
         "locationConfidence": 0.051962256,
         "calibratedProbability": 0.049628403
@@ -2110,7 +2096,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -2130,15 +2116,14 @@
         "latitudeE7": 599281769,
         "longitudeE7": 303559074,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 34.374935,
         "calibratedProbability": 28.589426
       }, {
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.45174202,
         "calibratedProbability": 0.3757111
@@ -2146,7 +2131,7 @@
         "latitudeE7": 599280580,
         "longitudeE7": 303566070,
         "placeId": "ChIJr-OkUqUxlkYRGbfDLBrPsK0",
-        "address": "Пушкинская ул., 18\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 18, Санкт-Петербург, Россия, 191040",
         "name": "Kindergarten number 44",
         "locationConfidence": 0.19320641,
         "calibratedProbability": 0.16068861
@@ -2154,7 +2139,7 @@
         "latitudeE7": 599279564,
         "longitudeE7": 303560606,
         "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Магазин ножей Nozhikov.ru",
         "locationConfidence": 0.17133886,
         "calibratedProbability": 0.14250149
@@ -2256,7 +2241,7 @@
         "latitudeE7": 599273744,
         "longitudeE7": 303491751,
         "placeId": "ChIJu75nlK8xlkYRkbKa-1OxqDI",
-        "address": "Кузнечный пер., 3\nСанкт-Петербург\nРоссия\n191025",
+        "address": "Кузнечный пер., 3, Санкт-Петербург, Россия, 191025",
         "name": "Kuznechnyy Rynok",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -2276,7 +2261,7 @@
         "latitudeE7": 599261200,
         "longitudeE7": 303472150,
         "placeId": "ChIJ8X42Eq8xlkYRHQy4Z1sxIOk",
-        "address": "Санкт-Петербург\nРоссия\n191002",
+        "address": "Санкт-Петербург, Россия, 191002",
         "name": "Vladimirskaya",
         "locationConfidence": 5.012162,
         "calibratedProbability": 3.2346969
@@ -2284,7 +2269,7 @@
         "latitudeE7": 599268080,
         "longitudeE7": 303459730,
         "placeId": "ChIJ6xU0OK8xlkYRaOUzPAi3bMY",
-        "address": "Санкт-Петербург\nРоссия\n191002",
+        "address": "Санкт-Петербург, Россия, 191002",
         "name": "Dostoyevskaya",
         "locationConfidence": 4.1613703,
         "calibratedProbability": 2.6856217
@@ -2292,7 +2277,7 @@
         "latitudeE7": 599274494,
         "longitudeE7": 303476045,
         "placeId": "ChIJS5b3EK8xlkYRSaUfBh3ol38",
-        "address": "Большая Московская ул., 2\nСанкт-Петербург\nРоссия\n191002",
+        "address": "Большая Московская ул., 2, Санкт-Петербург, Россия, 191002",
         "name": "Pamyatnik F. M. Dostoyevskomu",
         "locationConfidence": 1.810308,
         "calibratedProbability": 1.1683177
@@ -2300,7 +2285,7 @@
         "latitudeE7": 599268960,
         "longitudeE7": 303478220,
         "placeId": "ChIJCbFlAa8xlkYRy4tAiezSajo",
-        "address": "Большая Московская ул., 6А\nСанкт-Петербург\nРоссия\n191002",
+        "address": "Большая Московская ул., 6А, Санкт-Петербург, Россия, 191002",
         "name": "Красное\u0026Белое",
         "locationConfidence": 1.5589728,
         "calibratedProbability": 1.0061136
@@ -2308,7 +2293,7 @@
         "latitudeE7": 599285698,
         "longitudeE7": 303460407,
         "placeId": "ChIJg_jGRq8xlkYR_i8PtsgXhX4",
-        "address": "Владимирский пр., 19\nСанкт-Петербург\nРоссия\n191002",
+        "address": "Владимирский пр., 19, Санкт-Петербург, Россия, 191002",
         "name": "Vladimirsky Passage",
         "locationConfidence": 0.97923577,
         "calibratedProbability": 0.6319689
@@ -2316,7 +2301,7 @@
         "latitudeE7": 599265543,
         "longitudeE7": 303471851,
         "placeId": "ChIJvY4O_a4xlkYR4LZ5JykcV80",
-        "address": "Большая Московская ул., 5 лит.А\nСанкт-Петербург\nРоссия\n191002",
+        "address": "Большая Московская ул., 5 лит.А, Санкт-Петербург, Россия, 191002",
         "name": "Dixy",
         "locationConfidence": 0.92048293,
         "calibratedProbability": 0.59405166
@@ -2324,7 +2309,7 @@
         "latitudeE7": 599272449,
         "longitudeE7": 303471591,
         "placeId": "ChIJLbatAKkxlkYRIkvqFYFdecs",
-        "address": "Большая Московская ул., 1-3\nСанкт-Петербург\nРоссия\n191002",
+        "address": "Большая Московская ул., 1-3, Санкт-Петербург, Россия, 191002",
         "name": "OTP Bank",
         "locationConfidence": 0.7388084,
         "calibratedProbability": 0.47680444
@@ -2332,7 +2317,7 @@
         "latitudeE7": 599274410,
         "longitudeE7": 303472010,
         "placeId": "ChIJT8i9T6AxlkYRUHi9X5chRWs",
-        "address": "Большая Московская ул., д. 1/3\nСанкт-Петербург\nРоссия\n191002",
+        "address": "Большая Московская ул., д. 1/3, Санкт-Петербург, Россия, 191002",
         "name": "Avangard",
         "locationConfidence": 0.6608062,
         "calibratedProbability": 0.42646417
@@ -2340,7 +2325,7 @@
         "latitudeE7": 599276857,
         "longitudeE7": 303497828,
         "placeId": "ChIJJyFPN68xlkYRw6k_cc87gJc",
-        "address": "Кузнечный пер., 4\nСанкт-Петербург\nРоссия\n191025",
+        "address": "Кузнечный пер., 4, Санкт-Петербург, Россия, 191025",
         "name": "NL International",
         "locationConfidence": 0.53069013,
         "calibratedProbability": 0.34249124
@@ -2424,13 +2409,13 @@
           "latitudeE7": 599268120,
           "longitudeE7": 303459740,
           "placeId": "ChIJ6xU0OK8xlkYRaOUzPAi3bMY",
-          "address": "Санкт-Петербург\nРоссия\n191002",
+          "address": "Санкт-Петербург, Россия, 191002",
           "name": "Dostoyevskaya"
         }, {
           "latitudeE7": 599262400,
           "longitudeE7": 303179680,
           "placeId": "ChIJQbcikAExlkYRSoAefl9MpWw",
-          "address": "Санкт-Петербург\nРоссия",
+          "address": "Санкт-Петербург, Россия",
           "name": "Spasskaya"
         }],
         "name": "4",
@@ -2562,7 +2547,7 @@
         "latitudeE7": 598488760,
         "longitudeE7": 303211830,
         "placeId": "ChIJN0CFEbU6lkYR-1XYt2f0pr8",
-        "address": "Санкт-Петербург\nРоссия\n196066",
+        "address": "Санкт-Петербург, Россия, 196066",
         "name": "Moscow Metro",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -2582,7 +2567,7 @@
         "latitudeE7": 598511020,
         "longitudeE7": 303223610,
         "placeId": "ChIJ789WQrQ6lkYRcNi5z2MtKFo",
-        "address": "Санкт-Петербург\nРоссия\n196066",
+        "address": "Санкт-Петербург, Россия, 196066",
         "name": "Moskovskaya",
         "locationConfidence": 20.678207,
         "calibratedProbability": 9.612717
@@ -2590,7 +2575,7 @@
         "latitudeE7": 598491859,
         "longitudeE7": 303209350,
         "placeId": "ChIJy3MjU7Q6lkYR-LoJG4X7UBQ",
-        "address": "Московский пр-т., 195А\nСанкт-Петербург\nРоссия\n196066",
+        "address": "Московский пр-т., 195А, Санкт-Петербург, Россия, 196066",
         "name": "McDonald\u0027s",
         "locationConfidence": 1.4728538,
         "calibratedProbability": 0.68468827
@@ -2598,7 +2583,7 @@
         "latitudeE7": 598491830,
         "longitudeE7": 303226310,
         "placeId": "ChIJvwqsDbU6lkYRfsRPfHJd8lE",
-        "address": "Санкт-Петербург\nРоссия\n196066",
+        "address": "Санкт-Петербург, Россия, 196066",
         "name": "Moskovskaya Station",
         "locationConfidence": 0.9904779,
         "calibratedProbability": 0.4604453
@@ -2606,7 +2591,7 @@
         "latitudeE7": 598498260,
         "longitudeE7": 303219540,
         "placeId": "ChIJszd2_7Q6lkYR_DUjuE4zfBY",
-        "address": "Санкт-Петербург\nРоссия\n196066",
+        "address": "Санкт-Петербург, Россия, 196066",
         "name": "Moskovskaya Station",
         "locationConfidence": 0.6309794,
         "calibratedProbability": 0.2933246
@@ -2614,7 +2599,7 @@
         "latitudeE7": 598500930,
         "longitudeE7": 303208810,
         "placeId": "ChIJAQRIl7g7lkYRjQUS0FjTwa4",
-        "address": "Московский пр-т., 195\nСанкт-Петербург\nРоссия\n196066",
+        "address": "Московский пр-т., 195, Санкт-Петербург, Россия, 196066",
         "name": "Home Credit Bank",
         "locationConfidence": 0.5933863,
         "calibratedProbability": 0.2758486
@@ -2622,7 +2607,7 @@
         "latitudeE7": 598500724,
         "longitudeE7": 303208021,
         "placeId": "ChIJS2vjTbQ6lkYRnh7gQfBdyIk",
-        "address": "Московский пр-т., 195\nСанкт-Петербург\nРоссия\n196066",
+        "address": "Московский пр-т., 195, Санкт-Петербург, Россия, 196066",
         "name": "Korzhov",
         "locationConfidence": 0.54973924,
         "calibratedProbability": 0.2555583
@@ -2706,13 +2691,13 @@
           "latitudeE7": 598488760,
           "longitudeE7": 303211830,
           "placeId": "ChIJN0CFEbU6lkYR-1XYt2f0pr8",
-          "address": "Санкт-Петербург\nРоссия\n196066",
+          "address": "Санкт-Петербург, Россия, 196066",
           "name": "Moscow Metro"
         }, {
           "latitudeE7": 597991310,
           "longitudeE7": 302736050,
           "placeId": "ChIJ6eXkZLEklkYRbqndsP687xE",
-          "address": "Санкт-Петербург\nРоссия\n196210",
+          "address": "Санкт-Петербург, Россия, 196210",
           "name": "Aeroport \"Pulkovo-1\""
         }],
         "name": "39E",
@@ -2799,7 +2784,7 @@
         "latitudeE7": 598029127,
         "longitudeE7": 302678391,
         "placeId": "ChIJQe42d88klkYRm2c5uNutajk",
-        "address": "лит. ЗА\nПулковское ш., д. 41\nСанкт-Петербург\nРоссия\n196140",
+        "address": "лит. ЗА, Пулковское ш., д. 41, Санкт-Петербург, Россия, 196140",
         "name": "Pulkovo Airport",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -2817,7 +2802,7 @@
           "latitudeE7": 597996830,
           "longitudeE7": 302734710,
           "placeId": "ChIJhyU5YLEklkYRB7cyo4w3iy4",
-          "address": "Санкт-Петербург\nРоссия\n196210",
+          "address": "Санкт-Петербург, Россия, 196210",
           "name": "Aeroport \"Pulkovo-1\"",
           "sourceInfo": {
             "deviceTag": -433751553
@@ -2838,7 +2823,7 @@
           "latitudeE7": 597991310,
           "longitudeE7": 302736050,
           "placeId": "ChIJ6eXkZLEklkYRbqndsP687xE",
-          "address": "Санкт-Петербург\nРоссия\n196210",
+          "address": "Санкт-Петербург, Россия, 196210",
           "name": "Aeroport \"Pulkovo-1\"",
           "locationConfidence": 6.897028,
           "calibratedProbability": 6.3342557
@@ -2846,7 +2831,7 @@
           "latitudeE7": 597995290,
           "longitudeE7": 302718088,
           "placeId": "ChIJwXalfbEklkYRiu5bSNtQIf4",
-          "address": "Пулковское шоссе, 41 Аэропорт Пулково, 3 этаж, напротив стойки регистрации 212\nPulkovo Airport\nСанкт-Петербург\nRussia\n196140",
+          "address": "Пулковское шоссе, 41 Аэропорт Пулково, 3 этаж, напротив стойки регистрации 212, Pulkovo Airport, Санкт-Петербург, Russia, 196140",
           "name": "Aeroflot Russian Airlines",
           "locationConfidence": 1.2504675,
           "calibratedProbability": 1.1484339,
@@ -2855,7 +2840,7 @@
           "latitudeE7": 597987475,
           "longitudeE7": 302684900,
           "placeId": "ChIJXVbtHh0llkYRRd5_hIyS9OQ",
-          "address": "Пулковское ш., 41А\nСанкт-Петербург\nРоссия\n196189",
+          "address": "Пулковское ш., 41А, Санкт-Петербург, Россия, 196189",
           "name": "McDonald\u0027s",
           "locationConfidence": 1.0392085,
           "calibratedProbability": 0.9544129
@@ -2863,7 +2848,7 @@
           "latitudeE7": 597996820,
           "longitudeE7": 302731670,
           "placeId": "ChIJOT2kbeEllkYRJul8oelyvU0",
-          "address": "Пулковское ш., 41А\nСанкт-Петербург\nРоссия\n196210",
+          "address": "41литЗА, Пулковское ш., Санкт-Петербург, Россия, 196210",
           "name": "Бургер Кинг",
           "locationConfidence": 0.53432006,
           "calibratedProbability": 0.4907215
@@ -2880,8 +2865,7 @@
         "latitudeE7": 598010471,
         "longitudeE7": 302766614,
         "placeId": "ChIJ2Q79sbYklkYR2rG8R4rN1EY",
-        "address": "Pulkovskoe shosse, 39\nСанкт-Петербург\nЛенинградская обл.\nРоссия\n196210",
-        "name": "Pulkovskoe shosse, 39",
+        "address": "Pulkovskoe shosse, 39, Санкт-Петербург, Ленинградская обл., Россия, 196210",
         "locationConfidence": 0.17460442,
         "calibratedProbability": 0.1603635
       }],
@@ -3264,7 +3248,7 @@
         "latitudeE7": 472277940,
         "longitudeE7": 397133391,
         "placeId": "ChIJsRojB2O540ARVoLNc71hMuI",
-        "address": "Красноармейская ул., 170\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Красноармейская ул., 170, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Mcdonald\u0027s",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -3284,7 +3268,7 @@
         "latitudeE7": 472278493,
         "longitudeE7": 397131389,
         "placeId": "ChIJxc0Y9Qi540ARZFAsdR2ZrTU",
-        "address": "Газетный пер., 99\nРостов-на-Дону\nРостовская обл.\nРоссия\n344000",
+        "address": "Газетный пер., 99, Ростов-на-Дону, Ростовская обл., Россия, 344000",
         "name": "Tabachka Tsentr",
         "locationConfidence": 0.43937272,
         "calibratedProbability": 0.38785607
@@ -3292,7 +3276,7 @@
         "latitudeE7": 472278500,
         "longitudeE7": 397132826,
         "placeId": "ChIJTX5_YAi540ARYuYLktWJNWE",
-        "address": "Красноармейская ул., 170\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Красноармейская ул., 170, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Dzhoul\u0027 Park",
         "locationConfidence": 0.1520667,
         "calibratedProbability": 0.1342368
@@ -3300,7 +3284,7 @@
         "latitudeE7": 472277431,
         "longitudeE7": 397129628,
         "placeId": "ChIJr8pY8wi540AR8H-6qAZ8VBE",
-        "address": "Красноармейская ул., 168/99\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Красноармейская ул., 168/99, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "La Fabbrica",
         "locationConfidence": 0.12262963,
         "calibratedProbability": 0.108251244
@@ -3308,8 +3292,7 @@
         "latitudeE7": 472285681,
         "longitudeE7": 397139883,
         "placeId": "ChIJcQPPZwi540ARXy4RP_gpehE",
-        "address": "Красноармейская ул., 63/90\nРостов-на-Дону\nРостовская обл.\nРоссия\n344000",
-        "name": "Красноармейская ул., 63/90",
+        "address": "Красноармейская ул., 63/90, Ростов-на-Дону, Ростовская обл., Россия, 344000",
         "locationConfidence": 0.091761224,
         "calibratedProbability": 0.081002176
       }],
@@ -3410,7 +3393,7 @@
         "latitudeE7": 472268625,
         "longitudeE7": 397032096,
         "placeId": "ChIJ_-S2rAW540AR1W7odPxC7gI",
-        "address": "Будённовский просп., 59\nРостов-на-Дону\nРостовская обл.\nРоссия\n344011",
+        "address": "Будённовский просп., 59, Ростов-на-Дону, Ростовская обл., Россия, 344011",
         "name": "Marins Park Hotel Rostov",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -3430,7 +3413,7 @@
         "latitudeE7": 472259400,
         "longitudeE7": 397017608,
         "placeId": "ChIJAWKiHQW540AREhHx8yZXE8U",
-        "address": "г. Ростов-на-Дону\nРостов-на-Дону\nРостовская обл.\nРоссия\n344010",
+        "address": "г. Ростов-на-Дону, Ростов-на-Дону, Ростовская обл., Россия, 344010",
         "name": "Skver Imeni 1-Go Pionerskogo Slota",
         "locationConfidence": 0.22037467,
         "calibratedProbability": 0.2009607
@@ -3438,7 +3421,7 @@
         "latitudeE7": 472248944,
         "longitudeE7": 397051643,
         "placeId": "ChIJkyi7ZAW540ARkm3QeA55HZE",
-        "address": "Будённовский просп., 49/97\nРостов-на-Дону\nРостовская обл.\nРоссия\n344011",
+        "address": "Будённовский просп., 49/97, Ростов-на-Дону, Ростовская обл., Россия, 344011",
         "name": "Галерея Астор",
         "locationConfidence": 0.11549207,
         "calibratedProbability": 0.10531776
@@ -3446,7 +3429,7 @@
         "latitudeE7": 472263472,
         "longitudeE7": 397042313,
         "placeId": "ChIJM0CUpgW540AROoGIlZ7Cw80",
-        "address": "Будённовский просп., 59А\nРостов-на-Дону\nРостовская обл.\nРоссия\n344011",
+        "address": "Будённовский просп., 59А, Ростов-на-Дону, Ростовская обл., Россия, 344011",
         "name": "Ris",
         "locationConfidence": 0.09707997,
         "calibratedProbability": 0.08852768
@@ -3454,7 +3437,7 @@
         "latitudeE7": 472271362,
         "longitudeE7": 397035917,
         "placeId": "ChIJ7yZ0TAS540ARBvUZcl1DPNU",
-        "address": "Будённовский просп., 59\nРостов-на-Дону\nРостовская обл.\nРоссия\n344011",
+        "address": "Будённовский просп., 59, Ростов-на-Дону, Ростовская обл., Россия, 344011",
         "name": "Striptiz Klub \"Pyat\u0027 Zvezd\"",
         "locationConfidence": 0.0792617,
         "calibratedProbability": 0.07227911
@@ -3567,7 +3550,7 @@
         "latitudeE7": 472252208,
         "longitudeE7": 397057608,
         "placeId": "ChIJ1TSJqY-540ARy3AoW-NgyQc",
-        "address": "Будённовский просп., 52\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Будённовский просп., 52, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Keks",
         "locationConfidence": 100.0,
         "calibratedProbability": 100.0
@@ -3582,7 +3565,7 @@
         "latitudeE7": 472252748,
         "longitudeE7": 397056843,
         "placeId": "ChIJsXV_fw-540ARYr4H6VPwNh8",
-        "address": "Будённовский просп.\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Будённовский просп., Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "SUNLIGHT",
         "locationConfidence": 12.967223,
         "calibratedProbability": 9.860451
@@ -3590,7 +3573,7 @@
         "latitudeE7": 472251702,
         "longitudeE7": 397056010,
         "placeId": "ChIJk6s0fgW540ARvxQBAXhWJoA",
-        "address": "Ростов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Maksima Gor\u0027kogo St",
         "locationConfidence": 10.026191,
         "calibratedProbability": 7.6240497
@@ -3598,7 +3581,7 @@
         "latitudeE7": 472268625,
         "longitudeE7": 397032096,
         "placeId": "ChIJ_-S2rAW540AR1W7odPxC7gI",
-        "address": "Будённовский просп., 59\nРостов-на-Дону\nРостовская обл.\nРоссия\n344011",
+        "address": "Будённовский просп., 59, Ростов-на-Дону, Ростовская обл., Россия, 344011",
         "name": "Marins Park Hotel Rostov",
         "locationConfidence": 7.7498684,
         "calibratedProbability": 5.8931036
@@ -3606,7 +3589,7 @@
         "latitudeE7": 472248944,
         "longitudeE7": 397051643,
         "placeId": "ChIJkyi7ZAW540ARkm3QeA55HZE",
-        "address": "Будённовский просп., 49/97\nРостов-на-Дону\nРостовская обл.\nРоссия\n344011",
+        "address": "Будённовский просп., 49/97, Ростов-на-Дону, Ростовская обл., Россия, 344011",
         "name": "Галерея Астор",
         "locationConfidence": 6.866206,
         "calibratedProbability": 5.221155
@@ -3614,7 +3597,7 @@
         "latitudeE7": 472252208,
         "longitudeE7": 397057608,
         "placeId": "ChIJKx_ogQW540ARXTVnMDMkfKg",
-        "address": "Будённовский просп., 52\nРостов-на-Дону\nРостовская обл.\nРоссия\n344010",
+        "address": "Будённовский просп., 52, Ростов-на-Дону, Ростовская обл., Россия, 344010",
         "name": "Srochnoye Foto, Kserokopiya",
         "locationConfidence": 1.234077,
         "calibratedProbability": 0.9384087
@@ -3622,7 +3605,7 @@
         "latitudeE7": 472255299,
         "longitudeE7": 397049148,
         "placeId": "ChIJazzAeQW540ARb82CqoSUw1E",
-        "address": "Будённовский просп., 51\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Будённовский просп., 51, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "DNS",
         "locationConfidence": 1.1139451,
         "calibratedProbability": 0.84705883
@@ -3630,7 +3613,7 @@
         "latitudeE7": 472257639,
         "longitudeE7": 397056670,
         "placeId": "ChIJ3c6BgwW540ARvdbIQpODm-A",
-        "address": "Будённовский просп., 56\nРостов-на-Дону\nРостовская обл.\nРоссия\n344001",
+        "address": "Будённовский просп., 56, Ростов-на-Дону, Ростовская обл., Россия, 344001",
         "name": "Apteka Na Budennovskom",
         "locationConfidence": 0.89078134,
         "calibratedProbability": 0.6773621
@@ -3638,15 +3621,14 @@
         "latitudeE7": 472251073,
         "longitudeE7": 397057923,
         "placeId": "ChIJsXV_fw-540ARwWTmcWr-H3M",
-        "address": "Будённовский просп., 52\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
-        "name": "Будённовский просп., 52",
+        "address": "Будённовский просп., 52, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "locationConfidence": 0.8165502,
         "calibratedProbability": 0.6209157
       }, {
         "latitudeE7": 472254220,
         "longitudeE7": 397050420,
         "placeId": "ChIJs2FQeAW540ARJ5VvKKA1OB0",
-        "address": "Ростов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Maksima Gor\u0027kogo St",
         "locationConfidence": 0.7299373,
         "calibratedProbability": 0.5550541
@@ -3661,7 +3643,7 @@
         "placeVisitSegment": {
           "location": {
             "placeId": "ChIJ1TSJqY-540ARy3AoW-NgyQc",
-            "address": "Будённовский просп., 52\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+            "address": "Будённовский просп., 52, Ростов-на-Дону, Ростовская обл., Россия, 344002",
             "name": "Keks",
             "locationConfidence": 56.640583
           }
@@ -3679,14 +3661,14 @@
             "placeVisitCandidate": [{
               "location": {
                 "placeId": "ChIJ1TSJqY-540ARy3AoW-NgyQc",
-                "address": "Будённовский просп., 52\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+                "address": "Будённовский просп., 52, Ростов-на-Дону, Ростовская обл., Россия, 344002",
                 "name": "Keks",
                 "locationConfidence": 56.640583
               }
             }, {
               "location": {
                 "placeId": "ChIJsXV_fw-540ARYr4H6VPwNh8",
-                "address": "Будённовский просп.\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+                "address": "Будённовский просп., Ростов-на-Дону, Ростовская обл., Россия, 344002",
                 "name": "SUNLIGHT",
                 "locationConfidence": 12.967223
               }
@@ -3889,7 +3871,7 @@
         "latitudeE7": 472268625,
         "longitudeE7": 397032096,
         "placeId": "ChIJ_-S2rAW540AR1W7odPxC7gI",
-        "address": "Будённовский просп., 59\nРостов-на-Дону\nРостовская обл.\nРоссия\n344011",
+        "address": "Будённовский просп., 59, Ростов-на-Дону, Ростовская обл., Россия, 344011",
         "name": "Marins Park Hotel Rostov",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -3909,7 +3891,7 @@
         "latitudeE7": 472248944,
         "longitudeE7": 397051643,
         "placeId": "ChIJkyi7ZAW540ARkm3QeA55HZE",
-        "address": "Будённовский просп., 49/97\nРостов-на-Дону\nРостовская обл.\nРоссия\n344011",
+        "address": "Будённовский просп., 49/97, Ростов-на-Дону, Ростовская обл., Россия, 344011",
         "name": "Галерея Астор",
         "locationConfidence": 0.6612832,
         "calibratedProbability": 0.5334033
@@ -3917,7 +3899,7 @@
         "latitudeE7": 472263730,
         "longitudeE7": 397056170,
         "placeId": "ChIJsRMAlAW540ARCI1ippFvzk4",
-        "address": "Ростов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Budyonnovskiy Ave",
         "locationConfidence": 0.5221037,
         "calibratedProbability": 0.42113853
@@ -3925,7 +3907,7 @@
         "latitudeE7": 472259400,
         "longitudeE7": 397017608,
         "placeId": "ChIJAWKiHQW540AREhHx8yZXE8U",
-        "address": "г. Ростов-на-Дону\nРостов-на-Дону\nРостовская обл.\nРоссия\n344010",
+        "address": "г. Ростов-на-Дону, Ростов-на-Дону, Ростовская обл., Россия, 344010",
         "name": "Skver Imeni 1-Go Pionerskogo Slota",
         "locationConfidence": 0.42758715,
         "calibratedProbability": 0.3448997
@@ -3933,7 +3915,7 @@
         "latitudeE7": 472267202,
         "longitudeE7": 397053724,
         "placeId": "ChIJMUCyvwW540ARmFm1th3Om48",
-        "address": "Красноармейская ул., 19\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Красноармейская ул., 19, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Городская Больница 8 Гинекология",
         "locationConfidence": 0.18231875,
         "calibratedProbability": 0.14706168
@@ -4145,7 +4127,7 @@
         "latitudeE7": 472230544,
         "longitudeE7": 397126751,
         "placeId": "ChIJH2qogw6540ARqJwlV2oByAY",
-        "address": "пер. Семашко, 48е\nРостов-на-Дону\nРостовская обл.\nРоссия\n344006",
+        "address": "пер. Семашко, 48Е, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Magnit",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -4165,7 +4147,7 @@
         "latitudeE7": 472231528,
         "longitudeE7": 397135227,
         "placeId": "ChIJyzPrIAy540ARX9SNsxQ4W-w",
-        "address": "пер. Семашко, 50-а\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "пер. Семашко, 50-а, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Nikolayevskiy",
         "locationConfidence": 34.072598,
         "calibratedProbability": 22.875528
@@ -4173,7 +4155,7 @@
         "latitudeE7": 472231865,
         "longitudeE7": 397134342,
         "placeId": "ChIJ4ZFfGfy540ARllUt7mIrgQM",
-        "address": "пер. Семашко, 50-а\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "пер. Семашко, 50-а, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Ramen boy",
         "locationConfidence": 7.9995813,
         "calibratedProbability": 5.3707275
@@ -4181,7 +4163,7 @@
         "latitudeE7": 472225418,
         "longitudeE7": 397099914,
         "placeId": "ChIJ1Yg5bA6540ARf-o6CAPTby8",
-        "address": "Большая Садовая ул., 45\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Большая Садовая ул., 45, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Gorky Park",
         "locationConfidence": 7.3225393,
         "calibratedProbability": 4.9161777
@@ -4189,8 +4171,7 @@
         "latitudeE7": 472228944,
         "longitudeE7": 397130444,
         "placeId": "ChIJmaGYJgy540ARV2oteOwdMFY",
-        "address": "пер. Семашко, 48А\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
-        "name": "пер. Семашко, 48А",
+        "address": "пер. Семашко, 48А, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "locationConfidence": 2.9579294,
         "calibratedProbability": 1.9858831
       }, {
@@ -4203,7 +4184,7 @@
         "latitudeE7": 472215608,
         "longitudeE7": 397155614,
         "placeId": "ChIJ_4xkUQy540ARYRSFXin2G5c",
-        "address": "Большая Садовая ул., 80\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Большая Садовая ул., 80, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Smetana",
         "locationConfidence": 1.020916,
         "calibratedProbability": 0.6854186
@@ -4211,7 +4192,7 @@
         "latitudeE7": 472242059,
         "longitudeE7": 397117082,
         "placeId": "ChIJaXv-6Q6540ARFYwEVbjb6oU",
-        "address": "Пушкинская ул., 54/55А\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Пушкинская ул., 54/55А, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Comics",
         "locationConfidence": 0.4741417,
         "calibratedProbability": 0.3183274
@@ -4313,7 +4294,7 @@
         "latitudeE7": 472216327,
         "longitudeE7": 397178824,
         "placeId": "ChIJr5Iz7Qy540AR_qU2bKJ-_EM",
-        "address": "ул. Шаумяна, 83\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "ул. Шаумяна, 83, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Баварский ресторан Августин | Кафе, банкетный зал Кировский район",
         "locationConfidence": 100.0,
         "calibratedProbability": 100.0
@@ -4342,7 +4323,7 @@
         "placeVisitSegment": {
           "location": {
             "placeId": "ChIJr5Iz7Qy540AR_qU2bKJ-_EM",
-            "address": "ул. Шаумяна, 83\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+            "address": "ул. Шаумяна, 83, Ростов-на-Дону, Ростовская обл., Россия, 344002",
             "name": "Баварский ресторан Августин | Кафе, банкетный зал Кировский район",
             "locationConfidence": 95.30756
           }
@@ -4359,14 +4340,14 @@
             "placeVisitCandidate": [{
               "location": {
                 "placeId": "ChIJr5Iz7Qy540AR_qU2bKJ-_EM",
-                "address": "ул. Шаумяна, 83\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+                "address": "ул. Шаумяна, 83, Ростов-на-Дону, Ростовская обл., Россия, 344002",
                 "name": "Баварский ресторан Августин | Кафе, банкетный зал Кировский район",
                 "locationConfidence": 95.30756
               }
             }, {
               "location": {
                 "placeId": "ChIJjaBaWam540AR1QtCW8QPCG4",
-                "address": "Ворошиловский пр., 41/112\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+                "address": "Ворошиловский пр., 41/112, Ростов-на-Дону, Ростовская обл., Россия, 344002",
                 "name": "Europe Hotel",
                 "locationConfidence": 2.5612407
               }
@@ -4381,7 +4362,7 @@
         "latitudeE7": 472231528,
         "longitudeE7": 397135227,
         "placeId": "ChIJyzPrIAy540ARX9SNsxQ4W-w",
-        "address": "пер. Семашко, 50-а\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "пер. Семашко, 50-а, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Nikolayevskiy",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -4407,7 +4388,7 @@
         "latitudeE7": 472230544,
         "longitudeE7": 397126751,
         "placeId": "ChIJH2qogw6540ARqJwlV2oByAY",
-        "address": "пер. Семашко, 48е\nРостов-на-Дону\nРостовская обл.\nРоссия\n344006",
+        "address": "пер. Семашко, 48Е, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Magnit",
         "locationConfidence": 0.47796923,
         "calibratedProbability": 0.43287003
@@ -4415,7 +4396,7 @@
         "latitudeE7": 472225418,
         "longitudeE7": 397099914,
         "placeId": "ChIJ1Yg5bA6540ARf-o6CAPTby8",
-        "address": "Большая Садовая ул., 45\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "Большая Садовая ул., 45, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Gorky Park",
         "locationConfidence": 0.4406176,
         "calibratedProbability": 0.39904273
@@ -4423,7 +4404,7 @@
         "latitudeE7": 472231865,
         "longitudeE7": 397134342,
         "placeId": "ChIJ4ZFfGfy540ARllUt7mIrgQM",
-        "address": "пер. Семашко, 50-а\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
+        "address": "пер. Семашко, 50-а, Ростов-на-Дону, Ростовская обл., Россия, 344002",
         "name": "Ramen boy",
         "locationConfidence": 0.3202618,
         "calibratedProbability": 0.29004323
@@ -4605,7 +4586,7 @@
         "latitudeE7": 472280335,
         "longitudeE7": 397266231,
         "placeId": "ChIJFwor-Ki540ARPDb3NJsy0lo",
-        "address": "Пушкинская ул., 175A\nРостов-на-Дону\nРостовская обл.\nРоссия\n344010",
+        "address": "Пушкинская ул., 175A, Ростов-на-Дону, Ростовская обл., Россия, 344010",
         "name": "Donskaya gosudarstvennaya publichnaya biblioteka",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -4625,7 +4606,7 @@
         "latitudeE7": 472275597,
         "longitudeE7": 397247970,
         "placeId": "ChIJ05wVzHW540ARx6jEumyREss",
-        "address": "Пушкинская ул., 169\nРостов-на-Дону\nРостовская обл.\nРоссия\n344000",
+        "address": "Пушкинская ул., 169, Ростов-на-Дону, Ростовская обл., Россия, 344000",
         "name": "Kul\u0027t Eklera",
         "locationConfidence": 1.2271845,
         "calibratedProbability": 0.9483259
@@ -4633,7 +4614,7 @@
         "latitudeE7": 472271440,
         "longitudeE7": 397266270,
         "placeId": "ChIJzyilGqC540ARtYqTpncaRe4",
-        "address": "Университетский пер., 95\nРостов-на-Дону\nРостовская обл.\nРоссия\n344000",
+        "address": "Университетский пер., 95, Ростов-на-Дону, Ростовская обл., Россия, 344000",
         "name": "Stikershop",
         "locationConfidence": 0.55968815,
         "calibratedProbability": 0.4325077
@@ -4641,7 +4622,7 @@
         "latitudeE7": 472273900,
         "longitudeE7": 397272740,
         "placeId": "ChIJd4uUURq540ARemI9q-sL9cA",
-        "address": "Пушкинская ул., 158\nРостов-на-Дону\nРостовская обл.\nРоссия\n344006",
+        "address": "Пушкинская ул., 158, Ростов-на-Дону, Ростовская обл., Россия, 344006",
         "name": "Sitsiliya",
         "locationConfidence": 0.43313593,
         "calibratedProbability": 0.3347125
@@ -4649,7 +4630,7 @@
         "latitudeE7": 472274575,
         "longitudeE7": 397267869,
         "placeId": "ChIJA7GiUKC540ARbJfZIPPPhRk",
-        "address": "Пушкинская ул., 154\nРостов-на-Дону\nРостовская обл.\nРоссия\n344006",
+        "address": "Пушкинская ул., 154, Ростов-на-Дону, Ростовская обл., Россия, 344006",
         "name": "Pamyatnyy Krest V Chest\u0027 Svyatykh Kirilla I Mefodiya",
         "locationConfidence": 0.34463158,
         "calibratedProbability": 0.2663194
@@ -4751,7 +4732,7 @@
         "latitudeE7": 472257980,
         "longitudeE7": 397204910,
         "placeId": "ChIJXaqORwq540ARVkmbEzIaIGk",
-        "address": "пр. Соколова, 46\nРостов-на-Дону\nРостовская обл.\nРоссия\n344052",
+        "address": "пр. Соколова, 46, Ростов-на-Дону, Ростовская обл., Россия, 344052",
         "name": "Ziferblat",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -4771,7 +4752,7 @@
         "latitudeE7": 472260026,
         "longitudeE7": 397204008,
         "placeId": "ChIJNU5Um3q540ARSlyhKhfv4BM",
-        "address": "пр. Соколова, 48/120\nРостов-на-Дону\nРостовская обл.\nРоссия\n344052",
+        "address": "пр. Соколова, 48/120, Ростов-на-Дону, Ростовская обл., Россия, 344052",
         "name": "Бургерная #FARШ",
         "locationConfidence": 7.520579,
         "calibratedProbability": 5.2899666
@@ -4779,7 +4760,7 @@
         "latitudeE7": 472266467,
         "longitudeE7": 397203605,
         "placeId": "ChIJ77MuyQ-540ARrgy_xsYLmDE",
-        "address": "Пушкинская ул., 50\nРостов-на-Дону\nРостовская обл.\nРоссия\n344000",
+        "address": "Пушкинская ул., 50, Ростов-на-Дону, Ростовская обл., Россия, 344000",
         "name": "Караоке банкет-холл Reis",
         "locationConfidence": 4.642358,
         "calibratedProbability": 3.2654293
@@ -4787,7 +4768,7 @@
         "latitudeE7": 472266510,
         "longitudeE7": 397203830,
         "placeId": "ChIJsRQrYgq540ARskH3sw-NP9c",
-        "address": "Пушкинская ул., 137/50\nРостов-на-Дону\nРостовская обл.\nРоссия\n344006",
+        "address": "Пушкинская ул., 137/50, Ростов-на-Дону, Ростовская обл., Россия, 344006",
         "name": "ethical shop",
         "locationConfidence": 2.235224,
         "calibratedProbability": 1.5722541
@@ -4795,15 +4776,15 @@
         "latitudeE7": 472259027,
         "longitudeE7": 397196794,
         "placeId": "ChIJ5xfCMAq540ARb2I0jGx1Hv4",
-        "address": "Пушкинская ул., 118/31\nРостов-на-Дону\nРостовская обл.\nРоссия\n344002",
-        "name": "Bruce VAPE shop",
+        "address": "Пушкинская ул., 118/31, Ростов-на-Дону, Ростовская обл., Россия, 344002",
+        "name": "Bruce Store",
         "locationConfidence": 1.7120099,
         "calibratedProbability": 1.2042259
       }, {
         "latitudeE7": 472278190,
         "longitudeE7": 397224362,
         "placeId": "ChIJh6tUpaC540ARfdUlpYLbDYg",
-        "address": "пр. Чехова, 78\nРостов-на-Дону\nРостовская обл.\nРоссия\n344000",
+        "address": "пр. Чехова, 78, Ростов-на-Дону, Ростовская обл., Россия, 344000",
         "name": "Ogon\u0027 Voda",
         "locationConfidence": 0.769763,
         "calibratedProbability": 0.54145044
@@ -4811,7 +4792,7 @@
         "latitudeE7": 472267808,
         "longitudeE7": 397209711,
         "placeId": "ChIJ7TdytKi540ARdZ-_OigxVaM",
-        "address": "Пушкинская ул., 143/1\nРостов-на-Дону\nРостовская обл.\nРоссия\n344000",
+        "address": "Пушкинская ул., 143/1, Ростов-на-Дону, Ростовская обл., Россия, 344000",
         "name": "Food Story",
         "locationConfidence": 0.7278539,
         "calibratedProbability": 0.5119716
@@ -4819,7 +4800,7 @@
         "latitudeE7": 472259627,
         "longitudeE7": 397203889,
         "placeId": "ChIJfZKGKwu540AR_iSSrRSyLG8",
-        "address": "пр. Соколова, 46\nРостов-на-Дону\nРостовская обл.\nРоссия\n344025",
+        "address": "пр. Соколова, 46, Ростов-на-Дону, Ростовская обл., Россия, 344025",
         "name": "Ya Lyublyu Shaurmu",
         "locationConfidence": 0.6898832,
         "calibratedProbability": 0.48526305
@@ -4827,7 +4808,7 @@
         "latitudeE7": 472271624,
         "longitudeE7": 397227250,
         "placeId": "ChIJFwor-Ki540ARPkYpo3OogLI",
-        "address": "пр. Чехова, 72\nРостов-на-Дону\nРостовская обл.\nРоссия\n344022",
+        "address": "пр. Чехова, 72, Ростов-на-Дону, Ростовская обл., Россия, 344022",
         "name": "Ital\u0027yanskiy Kvartal",
         "locationConfidence": 0.56048864,
         "calibratedProbability": 0.39424708
@@ -4835,7 +4816,7 @@
         "latitudeE7": 472261720,
         "longitudeE7": 397215010,
         "placeId": "ChIJS66yawq540ARCm4mPtQM4To",
-        "address": "Пушкинская ул., 128\nРостов-на-Дону\nРостовская обл.\nРоссия\n344000",
+        "address": "Пушкинская ул., 128, Ростов-на-Дону, Ростовская обл., Россия, 344000",
         "name": "Rankhigs Obshchezhitiye",
         "locationConfidence": 0.5272579,
         "calibratedProbability": 0.37087262
@@ -6036,7 +6017,7 @@
         "latitudeE7": 474923663,
         "longitudeE7": 399291744,
         "placeId": "ChIJzVdO1ow24kARBgaNkCzV5Vo",
-        "address": "Аэропорт «Платов»\nГрушевская\nРостовская обл.\nРоссия\n346713",
+        "address": "Аэропорт «Платов», Грушевская, Ростовская обл., Россия, 346713",
         "name": "Platov International Airport",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -6258,7 +6239,7 @@
         "latitudeE7": 598029127,
         "longitudeE7": 302678391,
         "placeId": "ChIJQe42d88klkYRm2c5uNutajk",
-        "address": "лит. ЗА\nПулковское ш., д. 41\nСанкт-Петербург\nРоссия\n196140",
+        "address": "лит. ЗА, Пулковское ш., д. 41, Санкт-Петербург, Россия, 196140",
         "name": "Pulkovo Airport",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -6278,8 +6259,7 @@
         "latitudeE7": 598010471,
         "longitudeE7": 302766614,
         "placeId": "ChIJ2Q79sbYklkYR2rG8R4rN1EY",
-        "address": "Pulkovskoe shosse, 39\nСанкт-Петербург\nЛенинградская обл.\nРоссия\n196210",
-        "name": "Pulkovskoe shosse, 39",
+        "address": "Pulkovskoe shosse, 39, Санкт-Петербург, Ленинградская обл., Россия, 196210",
         "locationConfidence": 0.15987055,
         "calibratedProbability": 0.14160234
       }],
@@ -7078,7 +7058,7 @@
     "placeVisit": {
       "location": {
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "locationConfidence": 100.0,
         "calibratedProbability": 100.0
@@ -7093,8 +7073,7 @@
         "latitudeE7": 599285314,
         "longitudeE7": 303538285,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "sourceInfo": {
           "deviceTag": -433751553
         },
@@ -7104,7 +7083,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 1.7461069,
         "calibratedProbability": 1.4409623
@@ -7112,7 +7091,7 @@
         "latitudeE7": 599279248,
         "longitudeE7": 303560548,
         "placeId": "ChIJQ5WdaLQXlkYR1lf2vFyaWEs",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Murmassazh",
         "locationConfidence": 0.6957061,
         "calibratedProbability": 0.57412654
@@ -7120,7 +7099,7 @@
         "latitudeE7": 599277927,
         "longitudeE7": 303564284,
         "placeId": "ChIJN70hPasxlkYRvGU80lWWHio",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dom Baronessy L. K. Fon Taube",
         "locationConfidence": 0.16336884,
         "calibratedProbability": 0.13481897
@@ -7277,7 +7256,7 @@
         "latitudeE7": 599497604,
         "longitudeE7": 303528041,
         "placeId": "ChIJpcNC8HYxlkYR-JB0wxDGDFw",
-        "address": "Воскресенская наб., 28\nСанкт-Петербург\nРоссия\n191123",
+        "address": "Воскресенская наб., 28, Санкт-Петербург, Россия, 191123",
         "name": "Otdel Voyennogo Komissariata G. Sankt-Peterburga",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -7297,7 +7276,7 @@
         "latitudeE7": 599497691,
         "longitudeE7": 303532247,
         "placeId": "ChIJtTun8HYxlkYROKlAePuaTn8",
-        "address": "Воскресенская наб., 28\nСанкт-Петербург\nРоссия\n191123",
+        "address": "Воскресенская наб., 28, Санкт-Петербург, Россия, 191123",
         "name": "recruiting office",
         "locationConfidence": 21.407463,
         "calibratedProbability": 18.60696
@@ -7305,7 +7284,7 @@
         "latitudeE7": 599519123,
         "longitudeE7": 303494836,
         "placeId": "ChIJLZfb1nAxlkYRkSjrI1xubN4",
-        "address": "Литейный мост\nСанкт-Петербург\nРоссия\n194044",
+        "address": "Литейный мост, Санкт-Петербург, Россия, 194044",
         "name": "Liteyniy Bridge",
         "locationConfidence": 1.024031,
         "calibratedProbability": 0.8900683
@@ -7319,7 +7298,7 @@
         "latitudeE7": 599493889,
         "longitudeE7": 303528792,
         "placeId": "ChIJbRJR9HYxlkYR2Zdd1S2cxho",
-        "address": "Шпалерная ул., 28В, 1 этаж\nСанкт-Петербург\nРоссия\n191123",
+        "address": "Шпалерная ул., 28В, 1 этаж, Санкт-Петербург, Россия, 191123",
         "name": "Фараон | круглосуточная сауна на метро Чернышевская",
         "locationConfidence": 0.100141965,
         "calibratedProbability": 0.08704149
@@ -7421,7 +7400,7 @@
         "latitudeE7": 599445022,
         "longitudeE7": 303596721,
         "placeId": "ChIJKeGypcUxlkYRn4I3zNDoaS4",
-        "address": "пр. Чернышевского, 20,корпус А\nСанкт-Петербург\nРоссия\n191123",
+        "address": "пр. Чернышевского, 20,корпус А, Санкт-Петербург, Россия, 191123",
         "name": "Metro Chernyshevskaya",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -7439,7 +7418,7 @@
           "latitudeE7": 599445202,
           "longitudeE7": 303599453,
           "placeId": "ChIJ4TTjiZ4xlkYRRGatDI6dPk0",
-          "address": "Санкт-Петербург\nРоссия\n191123",
+          "address": "Санкт-Петербург, Россия, 191123",
           "name": "Chernyshevskaya",
           "sourceInfo": {
             "deviceTag": -433751553
@@ -7459,7 +7438,7 @@
           "latitudeE7": 599442106,
           "longitudeE7": 303604774,
           "placeId": "ChIJ-dJDjJ4xlkYRS-shzOPcuOY",
-          "address": "Санкт-Петербург\nРоссия\n191123",
+          "address": "Санкт-Петербург, Россия, 191123",
           "name": "Chernyshevskaya",
           "locationConfidence": 20.929867,
           "calibratedProbability": 39.617348,
@@ -7468,7 +7447,7 @@
           "latitudeE7": 599438450,
           "longitudeE7": 303580720,
           "placeId": "ChIJC1kDWZ4xlkYR8PchRIQp4Ps",
-          "address": "Санкт-Петербург\nРоссия\n191123",
+          "address": "Санкт-Петербург, Россия, 191123",
           "name": "Chernyshevskaya Station",
           "locationConfidence": 1.831256,
           "calibratedProbability": 3.4663148
@@ -7476,7 +7455,7 @@
           "latitudeE7": 599439940,
           "longitudeE7": 303622220,
           "placeId": "ChIJYUZJlp4xlkYR-rpubX1F3kI",
-          "address": "Санкт-Петербург\nРоссия\n191123",
+          "address": "Санкт-Петербург, Россия, 191123",
           "name": "Chernyshevskaya Station",
           "locationConfidence": 0.23832406,
           "calibratedProbability": 0.45111454
@@ -7484,7 +7463,7 @@
           "latitudeE7": 599441970,
           "longitudeE7": 303607750,
           "placeId": "ChIJKTijvOYxlkYRij1wOytbs0g",
-          "address": "ДО «Центр сделок с недвижимостью №2»\nКирочная ул., 28А\nСанкт-Петербург\nРоссия\n191123",
+          "address": "Кирочная ул., 28, Санкт-Петербург, Россия, 191123",
           "name": "Банк Санкт-Петербург Дополнительный офис «Центр сделок с недвижимостью №2»",
           "locationConfidence": 0.17669705,
           "calibratedProbability": 0.3344631,
@@ -7502,7 +7481,7 @@
         "latitudeE7": 599442106,
         "longitudeE7": 303604774,
         "placeId": "ChIJ-dJDjJ4xlkYRS-shzOPcuOY",
-        "address": "Санкт-Петербург\nРоссия\n191123",
+        "address": "Санкт-Петербург, Россия, 191123",
         "name": "Chernyshevskaya",
         "locationConfidence": 34.35027,
         "calibratedProbability": 28.940071
@@ -7510,7 +7489,7 @@
         "latitudeE7": 599438450,
         "longitudeE7": 303580720,
         "placeId": "ChIJC1kDWZ4xlkYR8PchRIQp4Ps",
-        "address": "Санкт-Петербург\nРоссия\n191123",
+        "address": "Санкт-Петербург, Россия, 191123",
         "name": "Chernyshevskaya Station",
         "locationConfidence": 0.49006796,
         "calibratedProbability": 0.41288182
@@ -7518,7 +7497,7 @@
         "latitudeE7": 599441720,
         "longitudeE7": 303607250,
         "placeId": "ChIJ4w_mjZ4xlkYR6CAOT_zJt40",
-        "address": "Кирочная ул., 28А\nСанкт-Петербург\nРоссия\n191123",
+        "address": "Кирочная ул., 28А, Санкт-Петербург, Россия, 191123",
         "name": "Школа № 183 с углублёным изучением английского языка",
         "locationConfidence": 0.08246015,
         "calibratedProbability": 0.0694726
@@ -7526,7 +7505,7 @@
         "latitudeE7": 599447373,
         "longitudeE7": 303587931,
         "placeId": "ChIJj47juhcxlkYRyb55fQ1qaKs",
-        "address": "пр. Чернышевского, 17\nСанкт-Петербург\nРоссия\n191123",
+        "address": "пр. Чернышевского, 17, Санкт-Петербург, Россия, 191123",
         "name": "Vkusvill",
         "locationConfidence": 0.04798702,
         "calibratedProbability": 0.040429022
@@ -7610,13 +7589,13 @@
           "latitudeE7": 599429880,
           "longitudeE7": 303607550,
           "placeId": "ChIJ4TTjiZ4xlkYRRGatDI6dPk0",
-          "address": "Санкт-Петербург\nРоссия\n191123",
+          "address": "Санкт-Петербург, Россия, 191123",
           "name": "Chernyshevskaya"
         }, {
           "latitudeE7": 599302870,
           "longitudeE7": 303591170,
           "placeId": "ChIJiyo0MLsxlkYRF9GYqnUmIK4",
-          "address": "Санкт-Петербург\nРоссия\n191036",
+          "address": "Санкт-Петербург, Россия, 191036",
           "name": "Ploshchad\u0027 Vosstaniya"
         }],
         "name": "1",
@@ -7653,7 +7632,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -7673,15 +7652,14 @@
         "latitudeE7": 599281807,
         "longitudeE7": 303559189,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 2.9399765,
         "calibratedProbability": 2.563323
       }, {
         "latitudeE7": 599293807,
         "longitudeE7": 303572323,
         "placeId": "ChIJu_9eMKUxlkYRrK9htFsq0VU",
-        "address": "Пушкинская ул., 10\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 10, Санкт-Петербург, Россия, 191040",
         "name": "products 24",
         "locationConfidence": 0.102124885,
         "calibratedProbability": 0.08904121
@@ -7689,7 +7667,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.08577723,
         "calibratedProbability": 0.07478793
@@ -7697,7 +7675,7 @@
         "latitudeE7": 599288773,
         "longitudeE7": 303577856,
         "placeId": "ChIJS_ABNaUxlkYRy3JJa6-erPw",
-        "address": "Лиговский пер., 2\nСанкт-Петербург\nРоссия\n191036",
+        "address": "Лиговский пер., 2, Санкт-Петербург, Россия, 191036",
         "name": "Ligovskiy",
         "locationConfidence": 0.046912175,
         "calibratedProbability": 0.04090205
@@ -7799,7 +7777,7 @@
         "latitudeE7": 599265243,
         "longitudeE7": 303587396,
         "placeId": "ChIJP7AvdLAxlkYRFLOxXtYi1bQ",
-        "address": "Лиговский пр., 44Б\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Лиговский пр., 44Б, Санкт-Петербург, Россия, 191040",
         "name": "Russian Post",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -7819,7 +7797,7 @@
         "latitudeE7": 599265608,
         "longitudeE7": 303576878,
         "placeId": "ChIJk6nZPS0xlkYREF15x_OfHHI",
-        "address": "Лиговский пр., 69\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Лиговский пр., 69, Санкт-Петербург, Россия, 191040",
         "name": "Khlebnik",
         "locationConfidence": 4.037983,
         "calibratedProbability": 3.093102
@@ -7827,7 +7805,7 @@
         "latitudeE7": 599274139,
         "longitudeE7": 303606166,
         "placeId": "ChIJFfDEyroxlkYRrvHa-8ocW_k",
-        "address": "Лиговский пр., 30А\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Лиговский пр., 30А, Санкт-Петербург, Россия, 191040",
         "name": "Galeria Shopping Mall",
         "locationConfidence": 2.3745275,
         "calibratedProbability": 1.8188922
@@ -7835,7 +7813,7 @@
         "latitudeE7": 599263450,
         "longitudeE7": 303579300,
         "placeId": "ChIJ1cPlcrAxlkYRQeLjLavJ93g",
-        "address": "Санкт-Петербург\nРоссия\n191040",
+        "address": "Санкт-Петербург, Россия, 191040",
         "name": "Kuznechnyy Ln",
         "locationConfidence": 1.5832202,
         "calibratedProbability": 1.2127495
@@ -7843,7 +7821,7 @@
         "latitudeE7": 599265243,
         "longitudeE7": 303587396,
         "placeId": "ChIJhRzDKYUxlkYR_A1GoKdZ0jc",
-        "address": "Лиговский пр., 44Б\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Лиговский пр., 44Б, Санкт-Петербург, Россия, 191040",
         "name": "Moo Moo Burgers and Grill",
         "locationConfidence": 1.3318862,
         "calibratedProbability": 1.0202272
@@ -7851,7 +7829,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 1.1685966,
         "calibratedProbability": 0.8951471
@@ -7859,7 +7837,7 @@
         "latitudeE7": 599265652,
         "longitudeE7": 303576961,
         "placeId": "ChIJ2wp7T6D9tEYRJIsjSGnNeuY",
-        "address": "Кузнечный пер., 19-21\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Лиговский пр., 69, Санкт-Петербург, Россия, 191040",
         "name": "Vkusvill",
         "locationConfidence": 1.0330949,
         "calibratedProbability": 0.7913525
@@ -7867,7 +7845,7 @@
         "latitudeE7": 599265550,
         "longitudeE7": 303587030,
         "placeId": "ChIJP7AvdLAxlkYRKp9Sd2elorQ",
-        "address": "Лиговский пр., 44\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Лиговский пр., 44, Санкт-Петербург, Россия, 191040",
         "name": "Leningradskiy Oblastnoy Psikhonevrologicheskiy Dispanser",
         "locationConfidence": 0.67971194,
         "calibratedProbability": 0.5206605
@@ -7875,7 +7853,7 @@
         "latitudeE7": 599265243,
         "longitudeE7": 303587396,
         "placeId": "ChIJHUvdi7wxlkYRRpnEzfH34Vc",
-        "address": "Лиговский пр., 44Б\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Лиговский пр., 44Б, Санкт-Петербург, Россия, 191040",
         "name": "Doctor Stoletov",
         "locationConfidence": 0.65469915,
         "calibratedProbability": 0.5015007
@@ -7883,8 +7861,7 @@
         "latitudeE7": 599281807,
         "longitudeE7": 303559189,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 0.5833462,
         "calibratedProbability": 0.44684422
       }],
@@ -7985,7 +7962,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -8005,15 +7982,14 @@
         "latitudeE7": 599281807,
         "longitudeE7": 303559189,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 11.108843,
         "calibratedProbability": 9.163632
       }, {
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.2493054,
         "calibratedProbability": 0.20565085
@@ -8021,7 +7997,7 @@
         "latitudeE7": 599270130,
         "longitudeE7": 303531370,
         "placeId": "ChIJZSaz7q8xlkYRMg4Rmkv8boU",
-        "address": "Кузнечный пер., 11\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Кузнечный пер., 11, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.041958664,
         "calibratedProbability": 0.034611505
@@ -8029,7 +8005,7 @@
         "latitudeE7": 599279564,
         "longitudeE7": 303560606,
         "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Магазин ножей Nozhikov.ru",
         "locationConfidence": 0.03914722,
         "calibratedProbability": 0.03229236
@@ -8183,7 +8159,7 @@
         "latitudeE7": 599497691,
         "longitudeE7": 303532247,
         "placeId": "ChIJtTun8HYxlkYROKlAePuaTn8",
-        "address": "Воскресенская наб., 28\nСанкт-Петербург\nРоссия\n191123",
+        "address": "Воскресенская наб., 28, Санкт-Петербург, Россия, 191123",
         "name": "recruiting office",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -8203,7 +8179,7 @@
         "latitudeE7": 599497604,
         "longitudeE7": 303528041,
         "placeId": "ChIJpcNC8HYxlkYR-JB0wxDGDFw",
-        "address": "Воскресенская наб., 28\nСанкт-Петербург\nРоссия\n191123",
+        "address": "Воскресенская наб., 28, Санкт-Петербург, Россия, 191123",
         "name": "Otdel Voyennogo Komissariata G. Sankt-Peterburga",
         "locationConfidence": 44.748924,
         "calibratedProbability": 37.920696
@@ -8217,7 +8193,7 @@
         "latitudeE7": 599493889,
         "longitudeE7": 303528792,
         "placeId": "ChIJbRJR9HYxlkYR2Zdd1S2cxho",
-        "address": "Шпалерная ул., 28В, 1 этаж\nСанкт-Петербург\nРоссия\n191123",
+        "address": "Шпалерная ул., 28В, 1 этаж, Санкт-Петербург, Россия, 191123",
         "name": "Фараон | круглосуточная сауна на метро Чернышевская",
         "locationConfidence": 0.41440818,
         "calibratedProbability": 0.35117373
@@ -8225,8 +8201,7 @@
         "latitudeE7": 599496457,
         "longitudeE7": 303550850,
         "placeId": "ChIJFypjUXYxlkYR2BXre1YGJYU",
-        "address": "Воскресенская наб., 24\nСанкт-Петербург\nРоссия\n191123",
-        "name": "Воскресенская наб., 24",
+        "address": "Воскресенская наб., 24, Санкт-Петербург, Россия, 191123",
         "locationConfidence": 0.20072754,
         "calibratedProbability": 0.17009857
       }],
@@ -8497,7 +8472,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -8517,15 +8492,14 @@
         "latitudeE7": 599281807,
         "longitudeE7": 303559189,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 37.00321,
         "calibratedProbability": 30.858791
       }, {
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.43257493,
         "calibratedProbability": 0.36074546
@@ -8533,7 +8507,7 @@
         "latitudeE7": 599284873,
         "longitudeE7": 303561638,
         "placeId": "ChIJqfJTj20xlkYR1-rhqsX8O0g",
-        "address": "Пушкинская ул., 13\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 13, Санкт-Петербург, Россия, 191040",
         "name": "Neon Coffee",
         "locationConfidence": 0.32937354,
         "calibratedProbability": 0.27468076
@@ -8541,7 +8515,7 @@
         "latitudeE7": 599279564,
         "longitudeE7": 303560606,
         "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Магазин ножей Nozhikov.ru",
         "locationConfidence": 0.15200031,
         "calibratedProbability": 0.12676051
@@ -8657,7 +8631,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -8677,7 +8651,7 @@
         "latitudeE7": 599267567,
         "longitudeE7": 303555629,
         "placeId": "ChIJszLOHLAxlkYRjPQi-oJd17M",
-        "address": "Кузнечный пер., 17/2 лит.А\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Кузнечный пер., 17/2 лит.А, Санкт-Петербург, Россия, 191040",
         "name": "Planeta Zdorov\u0027ya",
         "locationConfidence": 2.7185824,
         "calibratedProbability": 2.430564
@@ -8685,7 +8659,7 @@
         "latitudeE7": 599269048,
         "longitudeE7": 303544719,
         "placeId": "ChIJ81SZ5K8xlkYRxcG2MdfXEaM",
-        "address": "Кузнечный пер., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Кузнечный пер., 15, Санкт-Петербург, Россия, 191040",
         "name": "Produkty Yermolino",
         "locationConfidence": 0.8533673,
         "calibratedProbability": 0.7629579
@@ -8693,15 +8667,14 @@
         "latitudeE7": 599281807,
         "longitudeE7": 303559303,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 0.5954462,
         "calibratedProbability": 0.53236204
       }, {
         "latitudeE7": 599268008,
         "longitudeE7": 303557454,
         "placeId": "ChIJQ51OA7AxlkYRITgqbmncgm8",
-        "address": "Кузнечный пер., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Кузнечный пер., 17, Санкт-Петербург, Россия, 191040",
         "name": "MIDOL, second-hand network",
         "locationConfidence": 0.44826517,
         "calibratedProbability": 0.400774
@@ -8803,8 +8776,7 @@
         "latitudeE7": 599285314,
         "longitudeE7": 303538285,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "sourceInfo": {
           "deviceTag": -433751553
         },
@@ -8823,7 +8795,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "locationConfidence": 36.050423,
         "calibratedProbability": 26.2496
@@ -8831,7 +8803,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 2.5533433,
         "calibratedProbability": 1.8591805
@@ -8839,7 +8811,7 @@
         "latitudeE7": 599284873,
         "longitudeE7": 303561638,
         "placeId": "ChIJqfJTj20xlkYR1-rhqsX8O0g",
-        "address": "Пушкинская ул., 13\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 13, Санкт-Петербург, Россия, 191040",
         "name": "Neon Coffee",
         "locationConfidence": 0.1819388,
         "calibratedProbability": 0.13247614
@@ -8847,7 +8819,7 @@
         "latitudeE7": 599279564,
         "longitudeE7": 303560606,
         "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Магазин ножей Nozhikov.ru",
         "locationConfidence": 0.16708592,
         "calibratedProbability": 0.12166122
@@ -8949,7 +8921,7 @@
         "latitudeE7": 599293807,
         "longitudeE7": 303572323,
         "placeId": "ChIJu_9eMKUxlkYRrK9htFsq0VU",
-        "address": "Пушкинская ул., 10\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 10, Санкт-Петербург, Россия, 191040",
         "name": "products 24",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -8969,7 +8941,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 2.2011888,
         "calibratedProbability": 1.4832058
@@ -8977,15 +8949,14 @@
         "latitudeE7": 599281845,
         "longitudeE7": 303559437,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 1.5636355,
         "calibratedProbability": 1.0536094
       }, {
         "latitudeE7": 599294488,
         "longitudeE7": 303574005,
         "placeId": "ChIJV_jPFJ4xlkYRObr6b39CYA4",
-        "address": "Точка продаж средств от насекомых Пушкинская улица, д. 10 вход через магазин продукты\nСанкт-Петербург\nРоссия\n191028",
+        "address": "Точка продаж средств от насекомых Пушкинская улица, д. 10 вход через магазин продукты, Санкт-Петербург, Россия, 191028",
         "name": "Точка Продаж ДезСредств УНИ Дез Чернышевская",
         "locationConfidence": 1.0100136,
         "calibratedProbability": 0.68056774
@@ -8993,7 +8964,7 @@
         "latitudeE7": 599304610,
         "longitudeE7": 303577490,
         "placeId": "ChIJZ5WxUKQxlkYRabJcQaefEFo",
-        "address": "191014 д\nЛиговский пр., 30 А, 34\nСанкт-Петербург\nРоссия\n191040",
+        "address": "191014 д, Лиговский пр., 30 А, 34, Санкт-Петербург, Россия, 191040",
         "name": "Mayakovskaya",
         "locationConfidence": 0.5251036,
         "calibratedProbability": 0.3538255
@@ -9001,7 +8972,7 @@
         "latitudeE7": 599289217,
         "longitudeE7": 303567853,
         "placeId": "ChIJwdLSN6UxlkYREtqxYAi2gLQ",
-        "address": "Пушкинская ул., 11\nСанкт-Петербург\nРоссия\n191025",
+        "address": "Пушкинская ул., 11, Санкт-Петербург, Россия, 191025",
         "name": "Monument to Alexander Pushkin",
         "locationConfidence": 0.48171937,
         "calibratedProbability": 0.32459232
@@ -9017,7 +8988,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -9037,7 +9008,7 @@
         "latitudeE7": 599293807,
         "longitudeE7": 303572323,
         "placeId": "ChIJu_9eMKUxlkYRrK9htFsq0VU",
-        "address": "Пушкинская ул., 10\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 10, Санкт-Петербург, Россия, 191040",
         "name": "products 24",
         "locationConfidence": 7.6753535,
         "calibratedProbability": 4.736692
@@ -9045,15 +9016,14 @@
         "latitudeE7": 599281845,
         "longitudeE7": 303559437,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 2.5129654,
         "calibratedProbability": 1.5508268
       }, {
         "latitudeE7": 599267567,
         "longitudeE7": 303555629,
         "placeId": "ChIJszLOHLAxlkYRjPQi-oJd17M",
-        "address": "Кузнечный пер., 17/2 лит.А\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Кузнечный пер., 17/2 лит.А, Санкт-Петербург, Россия, 191040",
         "name": "Planeta Zdorov\u0027ya",
         "locationConfidence": 0.2782005,
         "calibratedProbability": 0.17168592
@@ -9061,7 +9031,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "locationConfidence": 0.16405712,
         "calibratedProbability": 0.1012446
@@ -9077,7 +9047,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -9097,15 +9067,14 @@
         "latitudeE7": 599281845,
         "longitudeE7": 303559437,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "locationConfidence": 43.223732,
         "calibratedProbability": 34.783684
       }, {
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 1.2149523,
         "calibratedProbability": 0.9777156
@@ -9113,7 +9082,7 @@
         "latitudeE7": 599281809,
         "longitudeE7": 303559021,
         "placeId": "ChIJaSe6UaUxlkYRC0IFx7zM1_A",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Клиника по борьбе с лишним весом №1",
         "locationConfidence": 0.13406861,
         "calibratedProbability": 0.10788981
@@ -9121,7 +9090,7 @@
         "latitudeE7": 599279564,
         "longitudeE7": 303560606,
         "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Магазин ножей Nozhikov.ru",
         "locationConfidence": 0.09200281,
         "calibratedProbability": 0.074037954
@@ -9314,7 +9283,7 @@
         "latitudeE7": 599414967,
         "longitudeE7": 303045327,
         "placeId": "ChIJLW6jnRcxlkYRBHVBu-DIsOg",
-        "address": "Университетская наб., 3\nСанкт-Петербург\nРоссия\n199034",
+        "address": "Университетская наб., 3, Санкт-Петербург, Россия, 199034",
         "name": "Kunstkamera",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -9334,7 +9303,7 @@
         "latitudeE7": 599431002,
         "longitudeE7": 303068684,
         "placeId": "ChIJn1zRqhcxlkYR6QQmtuvcM2s",
-        "address": "Биржевая пл.\nСанкт-Петербург\nРоссия\n199034",
+        "address": "Биржевая пл., Санкт-Петербург, Россия, 199034",
         "name": "Rostral\u0027naya Kolonna",
         "locationConfidence": 12.7272415,
         "calibratedProbability": 7.900972
@@ -9342,7 +9311,7 @@
         "latitudeE7": 599423730,
         "longitudeE7": 303054560,
         "placeId": "ChIJXbOnIRgxlkYRGh4mZPM0Aj0",
-        "address": "Университетская наб., 1\nСанкт-Петербург\nРоссия\n199034",
+        "address": "Университетская наб., 1, Санкт-Петербург, Россия, 199034",
         "name": "Zoological Museum of the Zoological Institute of the Russian Academy of Sciences",
         "locationConfidence": 5.5294094,
         "calibratedProbability": 3.432614
@@ -9350,7 +9319,7 @@
         "latitudeE7": 599411310,
         "longitudeE7": 303081618,
         "placeId": "ChIJ46tLRxcxlkYR3fjtmeFm9ig",
-        "address": "Дворцовый м.\nСанкт-Петербург\nРоссия\n199034",
+        "address": "Дворцовый м., Санкт-Петербург, Россия, 199034",
         "name": "Palace bridge",
         "locationConfidence": 2.9572794,
         "calibratedProbability": 1.835856
@@ -9358,7 +9327,7 @@
         "latitudeE7": 599417380,
         "longitudeE7": 303050970,
         "placeId": "ChIJDzSXdRcxlkYRT-bvMDzIblk",
-        "address": "Санкт-Петербург\nРоссия\n199034",
+        "address": "Санкт-Петербург, Россия, 199034",
         "name": "Universitetskaya Emb",
         "locationConfidence": 1.2683612,
         "calibratedProbability": 0.78738874
@@ -9366,7 +9335,7 @@
         "latitudeE7": 599440509,
         "longitudeE7": 303065241,
         "placeId": "ChIJPxvFTxYxlkYRHCpQsZOf_G8",
-        "address": "Биржевая пл., 4\nСанкт-Петербург\nРоссия\n199034",
+        "address": "Биржевая пл., 4, Санкт-Петербург, Россия, 199034",
         "name": "Биржевой сквер",
         "locationConfidence": 1.0562098,
         "calibratedProbability": 0.6556868
@@ -9556,7 +9525,7 @@
         "latitudeE7": 599374614,
         "longitudeE7": 303485149,
         "placeId": "ChIJJyMQ4aAxlkYRYG39Ewt9XKk",
-        "address": "Литейный пр., 46\nСанкт-Петербург\nРоссия\n191014",
+        "address": "Литейный пр., 46, Санкт-Петербург, Россия, 191014",
         "name": "Pchelovodstvo",
         "sourceInfo": {
           "deviceTag": -433751553
@@ -9576,7 +9545,7 @@
         "latitudeE7": 599375780,
         "longitudeE7": 303486310,
         "placeId": "ChIJvxN86hQxlkYREOvqAUiduzI",
-        "address": "Литейный пр., 46\nСанкт-Петербург\nРоссия\n191014",
+        "address": "Литейный пр., 46, Санкт-Петербург, Россия, 191014",
         "name": "Vpitere",
         "locationConfidence": 20.39534,
         "calibratedProbability": 17.079678
@@ -9584,7 +9553,7 @@
         "latitudeE7": 599375740,
         "longitudeE7": 303500901,
         "placeId": "ChIJn0fx6KAxlkYRwstA6CJigAE",
-        "address": "Литейный пр., 46\nСанкт-Петербург\nРоссия\n191014",
+        "address": "Литейный пр., 46, Санкт-Петербург, Россия, 191014",
         "name": "Sad Sen-Zhermen",
         "locationConfidence": 4.162353,
         "calibratedProbability": 3.485681
@@ -9592,7 +9561,7 @@
         "latitudeE7": 599375673,
         "longitudeE7": 303485130,
         "placeId": "ChIJn0fx6KAxlkYRwqbRKH2SMo4",
-        "address": "Литейный пр., 46\nСанкт-Петербург\nРоссия\n191014",
+        "address": "Литейный пр., 46, Санкт-Петербург, Россия, 191014",
         "name": "Stroymag",
         "locationConfidence": 1.982475,
         "calibratedProbability": 1.6601849
@@ -9600,7 +9569,7 @@
         "latitudeE7": 599370140,
         "longitudeE7": 303478460,
         "placeId": "ChIJgSIJxKAxlkYR8gzLMRof9cE",
-        "address": "Литейный пр., д. 51\nСанкт-Петербург\nРоссия\n191014",
+        "address": "Литейный пр., д. 51, Санкт-Петербург, Россия, 191014",
         "name": "Улыбка радуги",
         "locationConfidence": 1.262195,
         "calibratedProbability": 1.0570005
@@ -9608,7 +9577,7 @@
         "latitudeE7": 599375780,
         "longitudeE7": 303486310,
         "placeId": "ChIJ_c6kZe8xlkYRfuR3TANbP1w",
-        "address": "Литейный пр., 46\nСанкт-Петербург\nРоссия\n191014",
+        "address": "Литейный пр., 46, Санкт-Петербург, Россия, 191014",
         "name": "Dodo Pizza",
         "locationConfidence": 0.6221653,
         "calibratedProbability": 0.5210202
@@ -9616,7 +9585,7 @@
         "latitudeE7": 599373326,
         "longitudeE7": 303479119,
         "placeId": "ChIJgSIJxKAxlkYRbQIgRWj4UIE",
-        "address": "Литейный пр., 51\nСанкт-Петербург\nРоссия\n191014",
+        "address": "Литейный пр., 51, Санкт-Петербург, Россия, 191014",
         "name": "Popio icecream",
         "locationConfidence": 0.5947313,
         "calibratedProbability": 0.49804604
@@ -9624,7 +9593,7 @@
         "latitudeE7": 599376480,
         "longitudeE7": 303485860,
         "placeId": "ChIJn0fx6KAxlkYRh0r0NVMHs2o",
-        "address": "Литейный пр., 46\nСанкт-Петербург\nРоссия\n191014",
+        "address": "Литейный пр., 46, Санкт-Петербург, Россия, 191014",
         "name": "Building Products",
         "locationConfidence": 0.48513728,
         "calibratedProbability": 0.40626872
@@ -9726,8 +9695,7 @@
         "latitudeE7": 599285314,
         "longitudeE7": 303538285,
         "placeId": "ChIJYV6SXaUxlkYRLGvY78Amb9g",
-        "address": "ул. Марата, 18\nСанкт-Петербург\nРоссия\n191025",
-        "name": "ул. Марата, 18",
+        "address": "ул. Марата, 18, Санкт-Петербург, Россия, 191025",
         "sourceInfo": {
           "deviceTag": -433751553
         },
@@ -9746,7 +9714,7 @@
         "latitudeE7": 599281311,
         "longitudeE7": 303558616,
         "placeId": "ChIJgQxcv70xlkYRw6Ivi5D77lc",
-        "address": "Пушкинская ул., 15\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 15, Санкт-Петербург, Россия, 191040",
         "name": "Pushkin",
         "locationConfidence": 42.071594,
         "calibratedProbability": 33.705853
@@ -9754,7 +9722,7 @@
         "latitudeE7": 599269625,
         "longitudeE7": 303561157,
         "placeId": "ChIJOSEHWqUxlkYRH540_fXbUKU",
-        "address": "Пушкинская ул., 20\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 20, Санкт-Петербург, Россия, 191040",
         "name": "Dixy",
         "locationConfidence": 0.7942456,
         "calibratedProbability": 0.63631356
@@ -9762,7 +9730,7 @@
         "latitudeE7": 599279564,
         "longitudeE7": 303560606,
         "placeId": "ChIJgwPlN6UxlkYRBAU9gLrjRMY",
-        "address": "Пушкинская ул., 17\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 17, Санкт-Петербург, Россия, 191040",
         "name": "Магазин ножей Nozhikov.ru",
         "locationConfidence": 0.1938904,
         "calibratedProbability": 0.15533619
@@ -9770,7 +9738,7 @@
         "latitudeE7": 599280580,
         "longitudeE7": 303566070,
         "placeId": "ChIJr-OkUqUxlkYRGbfDLBrPsK0",
-        "address": "Пушкинская ул., 18\nСанкт-Петербург\nРоссия\n191040",
+        "address": "Пушкинская ул., 18, Санкт-Петербург, Россия, 191040",
         "name": "Kindergarten number 44",
         "locationConfidence": 0.1838679,
         "calibratedProbability": 0.14730662

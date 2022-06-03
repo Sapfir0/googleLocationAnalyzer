@@ -1,6 +1,6 @@
-import { scale } from "chroma-js";
+import { scale } from 'chroma-js';
 
 export const getColorList = (yearCount: number) => {
-    const colorGradient = ['red', 'blue'];
+    const colorGradient = ['#800026', '#afdafc'];
     return scale(colorGradient).mode('lch').colors(yearCount);
 };

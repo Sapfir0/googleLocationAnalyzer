@@ -152,7 +152,6 @@
           "latitudeE7": 486971020,
           "longitudeE7": 445024150,
           "placeId": "ChIJVUm2olLLGkERQAhnHAMfA0c",
-          "address": "ТЦ Ворошиловский\nРабоче-Крестьянская ул., 9Б\nВолгоград\nВолгоградская обл.\nРоссия\n400001",
           "name": "Ooo Akademiya Krasoty",
           "locationConfidence": 1.1218493,
           "isCurrentLocation": true
@@ -1765,7 +1764,6 @@
           "latitudeE7": 487137676,
           "longitudeE7": 445296961,
           "placeId": "ChIJf72aRizLGkERun7e1fMcy28",
-          "address": "ул. Советская, 31\nВолгоград\nВолгоградская обл.\nРоссия\n400005",
           "name": "Vtb",
           "locationConfidence": 0.45419008,
           "isCurrentLocation": true
